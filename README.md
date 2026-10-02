@@ -1,4 +1,3 @@
-# eccomerce_return-dashboard
 # 📦 E-Commerce Product Return Risk Dashboard
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.61-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
@@ -9,6 +8,8 @@
 
 An end-to-end Machine Learning intelligence dashboard designed to predict product return probability **before shipment dispatch**, evaluate reverse-logistics financial exposure, and trigger proactive operational interventions to reduce returns and prevent Return-to-Origin (RTO) losses.
 
+---
+
 ## 🌟 Key Highlights
 
 - **Pre-Dispatch Return Prediction:** Predicts return probability using a trained **Gradient Boosting** regression pipeline trained on customer profiles, transactional attributes, and order economics.
@@ -17,11 +18,14 @@ An end-to-end Machine Learning intelligence dashboard designed to predict produc
 - **Batch CSV Scoring:** Upload multi-order CSV files or evaluate built-in cohorts with one-click bulk scoring and downloadable results.
 - **Population Analytics:** Comprehensive exploratory data analysis across 2,007 evaluated transactions, analyzing return trends across categories, price bands, and payment methods.
 
+---
+
 ## 🖥️ Dashboard Architecture & Modules
 
 The application is structured into four primary modules:
 
- E-Commerce Return Risk Dashboard
+```
+📦 E-Commerce Return Risk Dashboard
 ├── 🎯 Tab 1: Single Order Predictor
 │   ├── Interactive order parameter configuration (Customer age, tenure, category, pricing, discount, etc.)
 │   ├── Quick-fill preset dropdown with verified test samples
@@ -45,6 +49,8 @@ The application is structured into four primary modules:
     ├── Machine learning pipeline details (OneHotEncoder + GradientBoostingRegressor)
     └── Three-tier operational intervention matrix
 ```
+
+---
 
 ## 🚦 Risk Stratification & Intervention Matrix
 

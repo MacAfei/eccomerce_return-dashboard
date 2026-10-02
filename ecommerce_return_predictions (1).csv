@@ -1,0 +1,2008 @@
+customer_age,customer_tenure_days_at_order,product_category,unit_price,quantity,discount_pct,payment_method,shipping_cost,orders_before_this_one,Actual_Return,Predicted_Return,Return_Probability,Risk_Level
+51,952,Clothing,17.44,1,0,paypal,4.54,2,1,0,0.21020868,Low Risk
+58,728,Clothing,13.67,2,5,credit_card,5.67,0,0,0,0.22151501,Low Risk
+42,653,Music,61.22,3,0,credit_card,4.36,2,0,0,0.14595076,Low Risk
+27,840,Electronics,13.92,1,0,debit_card,5.0,3,0,0,0.27879968,Low Risk
+58,622,Food,24.09,2,0,credit_card,5.37,1,0,0,0.029757319,Low Risk
+38,693,Food,11.14,2,10,credit_card,5.33,1,0,0,0.032610558,Low Risk
+45,564,Clothing,40.54,1,0,bank_transfer,4.99,2,0,0,0.17330709,Low Risk
+40,736,Electronics,8.9,2,0,debit_card,5.49,2,0,0,0.20042022,Low Risk
+30,915,Clothing,52.92,1,5,debit_card,4.41,3,1,0,0.22427474,Low Risk
+29,478,Toys,55.16,1,15,credit_card,7.09,0,0,0,0.1612515,Low Risk
+38,1230,Home & Kitchen,23.18,1,0,paypal,5.9,5,1,0,0.1727997,Low Risk
+51,1038,Sports,16.87,3,0,bank_transfer,4.67,0,0,0,0.13023433,Low Risk
+25,1012,Home & Kitchen,4.93,1,5,cash_on_delivery,3.2,1,0,0,0.12545241,Low Risk
+24,1089,Automotive,9.88,1,10,bank_transfer,13.16,6,0,0,0.15210578,Low Risk
+19,173,Toys,5.54,1,0,credit_card,5.74,0,1,0,0.29740793,Low Risk
+41,651,Books,27.02,1,0,credit_card,4.41,0,0,0,0.07440261,Low Risk
+30,842,Automotive,16.86,2,0,paypal,6.58,0,0,0,0.09824902,Low Risk
+56,706,Home & Kitchen,27.14,1,0,credit_card,4.75,1,0,0,0.11766235,Low Risk
+26,958,Home & Kitchen,23.7,3,0,credit_card,4.52,5,0,0,0.20415059,Low Risk
+42,602,Electronics,8.99,2,5,bank_transfer,8.66,3,0,0,0.1516186,Low Risk
+43,759,Books,60.89,3,20,credit_card,5.4,1,0,0,0.20953068,Low Risk
+49,558,Clothing,19.01,5,0,credit_card,4.45,5,1,0,0.27782956,Low Risk
+67,983,Home & Kitchen,40.0,1,5,debit_card,4.82,1,0,0,0.13453704,Low Risk
+46,108,Electronics,6.43,1,0,debit_card,5.16,0,0,0,0.14101596,Low Risk
+36,852,Food,13.14,1,0,credit_card,4.87,3,1,0,0.15082699,Low Risk
+64,332,Electronics,16.07,1,20,credit_card,6.92,1,0,0,0.2708487,Low Risk
+25,429,Clothing,33.85,1,0,credit_card,6.85,1,1,0,0.24333824,Low Risk
+50,677,Clothing,11.05,1,0,paypal,4.1,1,1,0,0.23331241,Low Risk
+37,594,Electronics,11.34,1,0,cash_on_delivery,8.78,3,0,0,0.06777224,Low Risk
+54,333,Pet Supplies,1.8,4,0,credit_card,6.03,0,0,0,0.07475794,Low Risk
+38,405,Home & Kitchen,16.68,2,0,paypal,7.07,3,0,0,0.1574784,Low Risk
+18,540,Toys,128.0,1,0,credit_card,6.88,1,0,0,0.14421706,Low Risk
+56,1014,Sports,50.05,1,0,paypal,3.73,4,0,0,0.09596472,Low Risk
+47,1207,Home & Kitchen,16.69,1,0,debit_card,4.43,3,0,0,0.17872314,Low Risk
+28,522,Electronics,26.06,3,0,credit_card,5.21,3,0,0,0.17292842,Low Risk
+36,975,Home & Kitchen,9.3,4,10,credit_card,5.37,0,0,0,0.1931079,Low Risk
+18,983,Electronics,6.39,2,0,debit_card,8.33,3,0,0,0.17937183,Low Risk
+18,980,Electronics,33.76,2,10,bank_transfer,4.37,3,0,0,0.21077693,Low Risk
+27,576,Automotive,40.2,2,10,credit_card,8.31,0,0,0,0.14200158,Low Risk
+51,731,Clothing,11.2,1,10,credit_card,6.04,0,0,0,0.18380931,Low Risk
+42,287,Beauty,26.35,2,0,debit_card,4.72,0,0,0,0.20072897,Low Risk
+45,632,Clothing,17.01,5,0,credit_card,7.11,0,1,0,0.23895508,Low Risk
+34,332,Beauty,5.01,2,5,debit_card,5.56,0,0,0,0.20096886,Low Risk
+23,686,Clothing,54.82,1,0,credit_card,5.95,2,1,0,0.2671153,Low Risk
+30,851,Electronics,4.0,2,20,paypal,6.3,6,0,0,0.23891044,Low Risk
+25,830,Books,44.52,1,5,credit_card,5.47,2,0,0,0.11077699,Low Risk
+30,1217,Clothing,11.11,2,0,credit_card,4.83,1,1,0,0.22958194,Low Risk
+36,1223,Food,14.7,1,0,credit_card,5.0,4,0,0,0.14349708,Low Risk
+43,586,Electronics,10.79,1,0,credit_card,5.77,4,0,0,0.14180474,Low Risk
+48,107,Toys,12.89,4,20,paypal,6.56,0,0,0,0.043332994,Low Risk
+42,933,Clothing,30.53,3,20,bank_transfer,5.82,2,0,0,0.32421625,Medium Risk
+18,1067,Garden,37.62,1,10,cash_on_delivery,5.33,1,0,0,0.10568015,Low Risk
+18,341,Other,80.61,2,0,paypal,7.22,0,0,0,0.11088025,Low Risk
+51,844,Sports,11.12,1,0,credit_card,6.08,1,0,0,0.15474114,Low Risk
+43,1016,Other,7.36,2,0,credit_card,3.31,2,0,0,0.1495987,Low Risk
+18,899,Beauty,17.4,1,0,credit_card,4.72,4,0,0,0.2719642,Low Risk
+18,568,Other,7.4,1,30,paypal,4.11,1,1,0,0.25622723,Low Risk
+40,321,Electronics,8.46,1,0,debit_card,5.41,0,1,0,0.18154672,Low Risk
+42,865,Toys,57.09,2,0,debit_card,6.75,0,0,0,0.1694407,Low Risk
+45,385,Clothing,46.77,1,30,debit_card,5.32,0,1,0,0.374272,Medium Risk
+44,984,Sports,59.29,2,0,credit_card,5.88,3,0,0,0.1366166,Low Risk
+65,421,Sports,30.09,1,0,bank_transfer,4.75,0,0,0,0.08384616,Low Risk
+18,1110,Sports,102.29,1,0,paypal,4.24,4,1,0,0.1061276,Low Risk
+19,448,Home & Kitchen,65.34,1,0,bank_transfer,7.09,2,0,0,0.18452771,Low Risk
+48,1168,Clothing,18.56,1,0,credit_card,4.67,0,0,0,0.21466209,Low Risk
+18,244,Toys,15.18,1,70,credit_card,7.9,0,1,0,0.32513016,Medium Risk
+18,780,Food,70.56,2,5,debit_card,5.87,1,0,0,0.09431047,Low Risk
+77,162,Sports,26.28,1,40,debit_card,6.33,1,0,0,0.083076105,Low Risk
+35,732,Clothing,38.13,1,0,credit_card,4.57,2,0,0,0.21547467,Low Risk
+43,112,Other,8.47,1,0,credit_card,5.92,2,0,0,0.08072221,Low Risk
+55,986,Clothing,49.13,1,0,credit_card,4.85,4,0,0,0.18416722,Low Risk
+38,551,Office,17.33,2,0,credit_card,6.4,0,0,0,0.07218858,Low Risk
+23,624,Automotive,29.59,3,0,credit_card,4.25,2,0,0,0.21510205,Low Risk
+52,755,Automotive,25.59,1,0,debit_card,4.95,5,0,0,0.18988043,Low Risk
+37,259,Home & Kitchen,10.41,1,0,paypal,5.97,0,0,0,0.1224276,Low Risk
+57,415,Toys,37.32,1,15,cash_on_delivery,4.38,1,0,0,0.050809313,Low Risk
+52,262,Food,31.8,1,0,debit_card,5.69,2,0,0,0.07216662,Low Risk
+55,505,Electronics,13.82,1,0,credit_card,5.93,0,0,0,0.2017683,Low Risk
+56,997,Sports,9.32,2,30,cash_on_delivery,6.77,2,0,0,0.2936917,Low Risk
+18,484,Books,18.54,1,0,credit_card,4.9,2,0,0,0.21100219,Low Risk
+46,792,Electronics,42.73,2,5,paypal,5.72,3,0,0,0.124318875,Low Risk
+25,331,Home & Kitchen,54.22,3,5,credit_card,11.58,1,0,0,0.20057239,Low Risk
+60,753,Sports,22.12,1,10,credit_card,5.22,1,0,0,0.10719016,Low Risk
+38,253,Other,13.94,1,5,credit_card,5.72,0,0,0,0.043150283,Low Risk
+49,702,Home & Kitchen,12.84,2,15,bank_transfer,10.5,0,0,0,0.16744325,Low Risk
+65,718,Electronics,20.09,2,0,paypal,4.18,2,0,0,0.15985304,Low Risk
+41,212,Clothing,30.8,1,5,credit_card,4.81,1,0,0,0.2349148,Low Risk
+38,955,Books,30.75,2,0,debit_card,5.03,3,0,0,0.15828529,Low Risk
+79,906,Sports,6.81,2,0,paypal,4.68,3,1,0,0.03342061,Low Risk
+27,888,Garden,14.11,4,15,credit_card,4.68,2,0,0,0.09704534,Low Risk
+50,789,Sports,14.8,1,0,credit_card,4.41,2,0,0,0.13875435,Low Risk
+60,258,Sports,10.14,2,20,paypal,3.28,1,0,0,0.18102646,Low Risk
+36,715,Clothing,57.16,1,0,credit_card,5.68,2,1,0,0.22316837,Low Risk
+50,527,Toys,20.54,1,30,credit_card,13.78,1,1,0,0.1715731,Low Risk
+51,443,Automotive,22.3,1,5,bank_transfer,9.04,0,0,0,0.091565624,Low Risk
+22,812,Clothing,4.25,2,15,credit_card,7.15,2,0,0,0.35585874,Medium Risk
+31,1165,Electronics,39.72,1,10,debit_card,5.24,2,0,0,0.14353943,Low Risk
+68,1155,Beauty,8.68,2,25,credit_card,8.94,1,1,0,0.19045827,Low Risk
+30,851,Electronics,30.46,1,0,paypal,5.39,1,0,0,0.18153682,Low Risk
+43,1099,Music,10.28,1,0,paypal,5.52,3,0,0,0.118005276,Low Risk
+21,563,Home & Kitchen,10.23,2,10,debit_card,5.52,1,0,0,0.21240854,Low Risk
+55,329,Clothing,14.52,1,0,credit_card,4.02,0,0,0,0.23820375,Low Risk
+24,660,Electronics,14.59,2,0,debit_card,7.53,1,0,0,0.25217205,Low Risk
+29,867,Electronics,43.03,1,20,credit_card,6.29,2,0,0,0.40412557,Medium Risk
+56,407,Automotive,36.04,1,0,credit_card,5.09,1,0,0,0.10160664,Low Risk
+28,639,Food,19.65,1,0,bank_transfer,5.6,1,0,0,0.058755036,Low Risk
+42,967,Sports,16.87,2,0,bank_transfer,3.45,1,0,0,0.11457001,Low Risk
+41,820,Home & Kitchen,11.56,2,0,debit_card,6.79,0,0,0,0.12282842,Low Risk
+71,1349,Beauty,6.94,1,0,credit_card,4.1,1,0,0,0.11706304,Low Risk
+77,845,Beauty,85.92,2,10,debit_card,7.92,0,0,0,0.106563956,Low Risk
+50,773,Jewelry,100.76,1,0,credit_card,4.62,3,0,0,0.18030983,Low Risk
+34,71,Electronics,10.51,2,15,paypal,4.9,0,1,0,0.15727891,Low Risk
+75,781,Sports,10.19,2,0,paypal,4.92,1,0,0,0.0304763,Low Risk
+18,925,Sports,16.05,2,0,credit_card,6.11,2,0,0,0.24917649,Low Risk
+18,920,Garden,4.66,1,0,paypal,5.35,2,0,0,0.093086585,Low Risk
+50,1257,Toys,16.62,1,5,bank_transfer,5.58,6,0,0,0.17597806,Low Risk
+39,365,Electronics,6.56,1,10,paypal,4.73,1,0,0,0.19235548,Low Risk
+41,850,Clothing,22.94,1,5,credit_card,6.95,2,0,0,0.2537248,Low Risk
+37,303,Electronics,6.05,1,0,credit_card,5.51,1,0,0,0.17740116,Low Risk
+19,1337,Home & Kitchen,46.16,3,0,debit_card,5.66,0,0,0,0.14328909,Low Risk
+41,1173,Books,43.86,1,0,cash_on_delivery,7.29,7,0,0,0.027606612,Low Risk
+71,729,Clothing,7.59,3,30,credit_card,5.74,0,0,0,0.19201908,Low Risk
+62,359,Electronics,34.15,1,10,credit_card,5.28,1,0,0,0.15457131,Low Risk
+20,704,Electronics,61.84,3,0,bank_transfer,5.34,4,1,0,0.20404539,Low Risk
+21,1009,Electronics,11.72,5,0,bank_transfer,5.72,2,0,0,0.18842171,Low Risk
+36,906,Toys,13.64,1,0,bank_transfer,4.12,3,0,0,0.048685264,Low Risk
+33,524,Food,39.23,1,5,credit_card,4.58,0,1,0,0.028927863,Low Risk
+29,351,Sports,21.6,1,0,bank_transfer,6.78,0,0,0,0.12290188,Low Risk
+38,101,Music,23.08,1,0,credit_card,5.46,0,1,0,0.104991004,Low Risk
+56,600,Books,32.72,3,0,debit_card,3.65,2,0,0,0.1610262,Low Risk
+43,706,Clothing,69.72,1,0,debit_card,5.15,5,0,0,0.20512687,Low Risk
+30,1215,Garden,37.04,1,0,credit_card,4.54,5,0,0,0.13653727,Low Risk
+37,293,Other,15.28,4,25,credit_card,5.92,0,0,0,0.13014226,Low Risk
+18,846,Home & Kitchen,5.32,1,5,cash_on_delivery,4.57,3,0,0,0.1464018,Low Risk
+27,442,Clothing,7.16,3,0,debit_card,5.18,0,1,0,0.3713164,Medium Risk
+40,819,Books,29.79,6,0,debit_card,5.38,3,0,0,0.13343213,Low Risk
+49,894,Books,5.88,1,0,bank_transfer,4.64,8,1,0,0.08838838,Low Risk
+36,1233,Sports,32.49,1,40,debit_card,6.39,1,0,0,0.35475263,Medium Risk
+39,500,Sports,103.45,1,15,debit_card,7.58,0,0,0,0.20837514,Low Risk
+51,810,Electronics,24.04,1,0,debit_card,5.27,2,0,0,0.18335105,Low Risk
+37,230,Sports,23.25,3,0,credit_card,6.39,0,0,0,0.13471518,Low Risk
+56,888,Music,19.14,3,0,credit_card,6.55,3,0,0,0.15923737,Low Risk
+36,614,Food,43.14,2,5,debit_card,4.96,1,0,0,0.04980895,Low Risk
+38,680,Clothing,46.17,1,0,credit_card,4.03,7,0,0,0.33640653,Medium Risk
+51,1258,Beauty,44.82,2,0,paypal,3.95,4,0,0,0.08422787,Low Risk
+31,868,Books,63.04,2,5,bank_transfer,6.34,0,1,0,0.07920542,Low Risk
+18,593,Food,12.48,2,0,paypal,3.66,1,0,0,0.040009018,Low Risk
+39,1412,Toys,78.9,1,0,credit_card,5.07,2,0,0,0.22858346,Low Risk
+54,837,Clothing,16.87,2,0,credit_card,5.36,3,0,0,0.17997947,Low Risk
+43,658,Books,41.28,5,0,credit_card,5.57,0,1,0,0.1029403,Low Risk
+80,843,Home & Kitchen,22.55,2,0,credit_card,4.93,0,0,0,0.018795174,Low Risk
+40,857,Electronics,53.54,1,5,bank_transfer,4.39,4,0,0,0.18628894,Low Risk
+34,897,Home & Kitchen,88.14,1,0,paypal,5.97,0,0,0,0.11878711,Low Risk
+45,425,Garden,8.2,2,5,debit_card,6.73,4,0,0,0.2599402,Low Risk
+32,1406,Music,25.85,1,0,paypal,5.85,4,0,0,0.17236556,Low Risk
+63,816,Electronics,9.25,1,0,credit_card,4.15,3,0,0,0.16096975,Low Risk
+21,1003,Beauty,6.79,1,5,debit_card,4.71,4,0,0,0.17028563,Low Risk
+22,574,Other,6.02,1,0,cash_on_delivery,4.94,2,0,0,0.06299902,Low Risk
+18,1173,Electronics,21.45,2,0,credit_card,4.94,1,0,0,0.33715144,Medium Risk
+34,475,Toys,50.55,2,0,bank_transfer,5.8,0,0,0,0.12425547,Low Risk
+41,664,Automotive,9.52,3,0,credit_card,10.01,0,0,0,0.1959496,Low Risk
+32,598,Clothing,37.29,2,10,debit_card,4.65,1,1,0,0.293955,Low Risk
+60,595,Books,53.62,1,0,debit_card,7.13,1,0,0,0.06735151,Low Risk
+18,889,Sports,8.01,1,0,credit_card,7.18,1,0,0,0.20698734,Low Risk
+34,906,Electronics,17.43,3,0,debit_card,5.39,0,0,0,0.19338338,Low Risk
+21,651,Electronics,29.78,1,0,paypal,4.39,1,0,0,0.1813367,Low Risk
+22,513,Books,28.74,1,10,paypal,11.2,0,0,0,0.09850077,Low Risk
+52,706,Office,5.98,1,0,bank_transfer,3.78,0,0,0,0.061289955,Low Risk
+20,712,Home & Kitchen,23.7,2,0,credit_card,4.12,5,1,0,0.12684864,Low Risk
+30,1103,Electronics,18.36,1,20,credit_card,5.3,3,0,0,0.47408253,Medium Risk
+50,554,Home & Kitchen,109.16,1,5,credit_card,4.05,0,0,0,0.16451257,Low Risk
+51,807,Clothing,21.61,2,5,paypal,10.02,2,0,0,0.26590106,Low Risk
+47,1094,Clothing,5.33,1,10,credit_card,3.84,2,0,0,0.4322087,Medium Risk
+54,748,Electronics,2.42,1,0,paypal,5.02,0,0,0,0.114666544,Low Risk
+31,712,Jewelry,20.56,1,0,debit_card,5.65,2,0,0,0.17926703,Low Risk
+28,804,Electronics,66.43,2,5,debit_card,4.0,6,1,0,0.1586348,Low Risk
+72,375,Toys,9.99,1,0,credit_card,4.82,0,0,0,0.029755812,Low Risk
+34,760,Beauty,8.41,3,0,paypal,5.86,4,0,0,0.13436545,Low Risk
+42,769,Clothing,41.16,2,5,bank_transfer,7.94,0,0,0,0.21507199,Low Risk
+36,980,Garden,5.28,1,0,credit_card,10.91,4,0,0,0.06314044,Low Risk
+44,948,Home & Kitchen,24.06,1,0,bank_transfer,4.37,4,0,0,0.1361989,Low Risk
+47,411,Clothing,5.38,1,0,credit_card,6.63,0,0,0,0.20797853,Low Risk
+41,655,Electronics,23.11,1,30,debit_card,5.83,2,0,0,0.36968568,Medium Risk
+41,1273,Food,10.97,2,0,bank_transfer,4.68,6,0,0,0.05668169,Low Risk
+48,326,Books,13.91,2,10,debit_card,5.74,1,0,0,0.11574119,Low Risk
+22,833,Clothing,9.35,2,50,paypal,3.41,3,1,1,0.574094,Medium Risk
+45,919,Beauty,16.62,2,0,credit_card,5.13,1,0,0,0.1480608,Low Risk
+29,271,Pet Supplies,23.92,3,15,debit_card,5.77,0,0,0,0.14297885,Low Risk
+32,380,Sports,79.52,1,0,paypal,4.12,0,0,0,0.096005686,Low Risk
+37,814,Pet Supplies,12.33,2,0,credit_card,3.63,0,0,0,0.07977195,Low Risk
+18,691,Toys,60.3,1,10,credit_card,5.75,1,0,0,0.17439683,Low Risk
+54,1262,Automotive,6.89,2,0,credit_card,5.35,1,0,0,0.17588884,Low Risk
+36,399,Garden,141.58,1,0,credit_card,5.8,0,0,0,0.115403965,Low Risk
+26,1269,Home & Kitchen,15.4,2,0,debit_card,4.71,3,0,0,0.1896379,Low Risk
+18,698,Clothing,46.48,1,0,paypal,5.71,4,0,0,0.23526588,Low Risk
+70,517,Sports,15.89,1,0,credit_card,5.74,1,0,0,0.07881382,Low Risk
+42,938,Music,36.6,1,0,paypal,8.65,5,0,0,0.12777908,Low Risk
+42,967,Electronics,56.9,1,0,credit_card,5.1,2,0,0,0.19819033,Low Risk
+26,542,Automotive,23.56,1,10,cash_on_delivery,8.45,0,0,0,0.07554834,Low Risk
+70,844,Electronics,33.75,2,0,debit_card,5.18,1,0,0,0.111081146,Low Risk
+39,267,Sports,17.53,1,15,paypal,4.08,1,0,0,0.10868085,Low Risk
+43,1072,Jewelry,20.22,1,0,cash_on_delivery,7.79,3,0,0,0.080624945,Low Risk
+61,361,Home & Kitchen,4.08,2,10,credit_card,8.88,0,0,0,0.14120658,Low Risk
+58,529,Beauty,37.86,1,0,cash_on_delivery,3.38,0,1,0,0.045334056,Low Risk
+31,438,Garden,16.16,1,15,credit_card,10.62,2,1,0,0.14914742,Low Risk
+54,525,Electronics,11.91,2,0,bank_transfer,4.22,0,1,0,0.09809738,Low Risk
+40,508,Clothing,8.4,2,5,credit_card,4.01,2,0,0,0.27614915,Low Risk
+20,347,Electronics,7.2,1,10,debit_card,6.78,0,0,0,0.25896898,Low Risk
+45,490,Clothing,12.9,2,10,credit_card,6.48,0,0,0,0.19492275,Low Risk
+36,817,Electronics,24.56,1,10,credit_card,5.51,2,0,0,0.29958212,Low Risk
+18,701,Clothing,21.23,1,25,debit_card,5.11,2,0,0,0.42723426,Medium Risk
+21,666,Toys,14.26,2,0,bank_transfer,6.47,0,0,0,0.10454991,Low Risk
+44,1253,Books,23.49,2,0,debit_card,5.45,2,0,0,0.07400039,Low Risk
+60,793,Books,54.87,1,0,credit_card,3.61,2,0,0,0.05682595,Low Risk
+39,530,Sports,12.55,1,0,credit_card,5.67,0,0,0,0.06705842,Low Risk
+34,995,Electronics,11.98,2,20,bank_transfer,4.55,3,0,0,0.2828427,Low Risk
+51,676,Electronics,22.43,3,15,cash_on_delivery,4.54,0,0,0,0.19104555,Low Risk
+80,1099,Electronics,14.95,1,0,credit_card,9.87,4,0,0,0.29655874,Low Risk
+30,230,Home & Kitchen,17.66,2,5,paypal,4.29,0,1,0,0.12821229,Low Risk
+24,729,Toys,12.87,2,0,debit_card,6.02,0,0,0,0.08430597,Low Risk
+60,1058,Clothing,7.93,1,0,credit_card,5.22,3,0,0,0.19464567,Low Risk
+41,628,Food,54.29,2,25,debit_card,4.37,8,0,0,0.31753135,Medium Risk
+57,1125,Clothing,24.15,2,5,bank_transfer,7.87,2,0,0,0.20344076,Low Risk
+47,940,Home & Kitchen,9.25,1,5,debit_card,5.88,3,0,0,0.18906523,Low Risk
+18,921,Sports,32.61,2,25,debit_card,5.53,2,0,0,0.45727083,Medium Risk
+25,1436,Automotive,8.22,1,0,credit_card,13.96,5,0,0,0.044078577,Low Risk
+53,659,Food,37.03,1,5,paypal,5.94,0,0,0,0.026898753,Low Risk
+39,531,Jewelry,17.5,1,10,debit_card,3.37,1,1,0,0.15870059,Low Risk
+69,859,Clothing,18.66,2,5,credit_card,5.72,2,0,0,0.18201287,Low Risk
+18,501,Books,8.33,1,10,credit_card,4.41,4,0,0,0.0819357,Low Risk
+41,297,Home & Kitchen,20.83,2,0,credit_card,5.53,0,0,0,0.1531104,Low Risk
+26,814,Garden,27.87,3,0,credit_card,6.72,3,0,0,0.095628224,Low Risk
+26,880,Electronics,9.33,1,10,debit_card,8.25,3,1,0,0.20151758,Low Risk
+23,699,Garden,56.48,2,0,bank_transfer,5.13,4,1,0,0.060718883,Low Risk
+40,291,Electronics,13.95,1,15,paypal,3.86,0,0,0,0.18872632,Low Risk
+54,512,Beauty,24.45,1,0,credit_card,7.1,1,0,0,0.13552676,Low Risk
+18,820,Books,52.11,1,5,paypal,5.89,1,0,0,0.09378172,Low Risk
+45,349,Garden,12.51,1,0,credit_card,4.03,1,1,0,0.1270672,Low Risk
+36,732,Sports,18.66,2,40,bank_transfer,8.4,0,1,0,0.2558849,Low Risk
+32,750,Home & Kitchen,3.18,1,0,credit_card,5.37,1,0,0,0.17311817,Low Risk
+58,802,Electronics,2.68,1,0,debit_card,11.3,3,0,0,0.08020199,Low Risk
+48,626,Garden,58.02,2,0,cash_on_delivery,9.21,3,0,0,0.07417943,Low Risk
+42,1034,Beauty,52.95,2,0,cash_on_delivery,5.62,5,0,0,0.098614484,Low Risk
+48,837,Electronics,50.18,1,5,bank_transfer,4.39,5,0,0,0.120160796,Low Risk
+35,587,Sports,67.42,1,0,credit_card,5.4,3,0,0,0.15319645,Low Risk
+47,63,Other,16.95,1,0,debit_card,4.01,0,0,0,0.037649456,Low Risk
+18,1087,Home & Kitchen,46.21,1,0,debit_card,3.55,4,0,0,0.14029287,Low Risk
+25,1071,Beauty,3.95,2,0,credit_card,4.69,0,0,0,0.23277056,Low Risk
+41,426,Clothing,65.95,1,15,credit_card,4.61,1,0,0,0.29633567,Low Risk
+63,853,Jewelry,23.57,1,90,bank_transfer,5.26,2,1,1,0.80854845,High Risk
+52,1181,Electronics,13.75,1,0,debit_card,5.15,2,0,0,0.22437136,Low Risk
+40,891,Home & Kitchen,25.45,2,0,paypal,5.32,1,1,0,0.14042439,Low Risk
+32,1172,Jewelry,32.13,6,0,paypal,5.68,1,0,0,0.101122506,Low Risk
+34,912,Electronics,44.17,1,0,credit_card,4.98,0,0,0,0.17697991,Low Risk
+42,744,Office,17.16,1,0,debit_card,4.09,0,1,0,0.06671011,Low Risk
+28,851,Music,25.76,1,0,debit_card,3.71,0,0,0,0.09122927,Low Risk
+62,984,Electronics,24.95,1,0,credit_card,7.31,5,0,0,0.1526866,Low Risk
+31,1081,Books,28.0,2,10,credit_card,4.49,5,0,0,0.085699566,Low Risk
+18,895,Beauty,34.49,1,0,debit_card,3.79,1,0,0,0.13726622,Low Risk
+42,1250,Books,18.86,2,10,debit_card,8.48,4,0,0,0.045274585,Low Risk
+36,591,Other,24.21,1,15,paypal,6.18,1,1,0,0.11943405,Low Risk
+52,935,Beauty,29.33,3,5,credit_card,9.44,2,0,0,0.12462206,Low Risk
+25,750,Home & Kitchen,10.21,2,0,credit_card,6.3,3,0,0,0.17805421,Low Risk
+48,686,Clothing,20.15,3,0,paypal,4.02,3,0,0,0.26130462,Low Risk
+35,1050,Clothing,40.97,2,0,debit_card,6.92,4,0,0,0.19675511,Low Risk
+51,824,Home & Kitchen,17.28,3,0,paypal,9.2,0,1,0,0.09160567,Low Risk
+38,1144,Beauty,65.76,3,10,debit_card,4.12,1,0,0,0.11648308,Low Risk
+52,658,Home & Kitchen,5.75,1,0,paypal,4.24,2,1,0,0.15908471,Low Risk
+34,868,Home & Kitchen,10.72,1,0,debit_card,4.79,3,0,0,0.20552415,Low Risk
+41,573,Automotive,2.63,2,5,credit_card,7.41,1,0,0,0.05119622,Low Risk
+40,789,Books,38.95,3,0,credit_card,4.14,3,0,0,0.10702036,Low Risk
+29,332,Electronics,18.64,2,0,cash_on_delivery,5.05,1,0,0,0.31656626,Medium Risk
+19,1021,Office,8.57,1,5,bank_transfer,6.05,2,0,0,0.101578616,Low Risk
+44,491,Beauty,10.79,2,0,debit_card,10.74,1,0,0,0.22772208,Low Risk
+41,1126,Electronics,24.27,1,30,paypal,4.66,3,0,0,0.28098774,Low Risk
+29,405,Home & Kitchen,16.16,1,5,debit_card,8.84,2,0,0,0.17043914,Low Risk
+38,745,Home & Kitchen,20.22,1,0,paypal,4.34,1,0,0,0.1496166,Low Risk
+30,623,Clothing,20.99,1,0,debit_card,4.89,0,1,0,0.22439739,Low Risk
+23,1400,Home & Kitchen,14.31,1,0,paypal,6.78,3,0,0,0.19559985,Low Risk
+28,560,Electronics,10.39,5,0,paypal,3.31,4,0,0,0.15543276,Low Risk
+59,541,Home & Kitchen,14.44,3,5,bank_transfer,5.21,1,0,0,0.12113796,Low Risk
+32,1417,Electronics,15.93,3,5,paypal,3.92,1,1,0,0.08536747,Low Risk
+30,419,Home & Kitchen,3.1,2,20,bank_transfer,6.39,1,0,0,0.18246812,Low Risk
+23,255,Beauty,71.26,2,0,credit_card,5.48,1,0,0,0.18152827,Low Risk
+37,633,Home & Kitchen,21.14,1,0,credit_card,6.81,1,0,0,0.15897232,Low Risk
+48,1030,Toys,12.55,1,5,debit_card,6.76,3,1,0,0.1327121,Low Risk
+45,438,Toys,16.9,1,0,paypal,5.22,1,0,0,0.14304778,Low Risk
+38,674,Electronics,96.7,1,0,paypal,6.94,2,0,0,0.14908859,Low Risk
+37,650,Clothing,47.95,4,5,bank_transfer,6.05,2,0,0,0.24382988,Low Risk
+26,428,Sports,4.4,1,10,paypal,4.56,4,1,0,0.235732,Low Risk
+37,751,Books,9.96,2,0,debit_card,5.82,3,0,0,0.12695692,Low Risk
+50,857,Home & Kitchen,8.45,1,0,paypal,4.7,3,0,0,0.17276603,Low Risk
+36,564,Toys,52.72,3,0,debit_card,5.25,0,0,0,0.13537852,Low Risk
+33,576,Home & Kitchen,12.98,1,0,debit_card,5.78,6,0,0,0.11999124,Low Risk
+52,1044,Home & Kitchen,16.2,1,5,credit_card,5.21,5,0,0,0.20667274,Low Risk
+35,161,Automotive,70.56,2,0,debit_card,7.03,1,1,0,0.22968955,Low Risk
+26,499,Clothing,48.34,1,20,debit_card,5.9,1,0,0,0.36641067,Medium Risk
+18,881,Clothing,22.28,1,10,credit_card,4.73,1,0,0,0.35592416,Medium Risk
+34,851,Clothing,56.07,1,10,credit_card,5.99,4,0,0,0.28592405,Low Risk
+33,244,Home & Kitchen,8.01,1,0,debit_card,6.54,0,0,0,0.17007124,Low Risk
+47,222,Clothing,14.19,2,20,credit_card,11.16,1,0,0,0.47467864,Medium Risk
+33,382,Electronics,229.47,1,25,credit_card,3.32,0,1,0,0.4347529,Medium Risk
+43,731,Electronics,24.76,3,0,credit_card,7.42,2,0,0,0.18656716,Low Risk
+46,260,Home & Kitchen,84.29,2,5,debit_card,5.9,3,0,0,0.24054223,Low Risk
+30,742,Toys,70.18,2,0,paypal,8.89,1,0,0,0.07141651,Low Risk
+37,867,Other,23.49,1,0,credit_card,9.25,1,0,0,0.048256237,Low Risk
+50,837,Automotive,10.92,3,0,credit_card,4.61,1,0,0,0.18527752,Low Risk
+31,503,Clothing,41.02,1,20,bank_transfer,4.45,1,0,0,0.33097416,Medium Risk
+39,626,Clothing,13.27,1,30,credit_card,4.8,0,0,0,0.34531304,Medium Risk
+52,316,Electronics,25.01,1,0,paypal,5.16,1,0,0,0.15294522,Low Risk
+59,514,Home & Kitchen,86.85,1,20,credit_card,5.37,2,0,0,0.2689642,Low Risk
+64,486,Food,44.84,1,0,paypal,5.66,1,0,0,0.026621023,Low Risk
+43,688,Electronics,29.58,5,0,credit_card,6.96,3,0,0,0.19897614,Low Risk
+21,1153,Electronics,92.98,3,0,debit_card,5.46,4,0,0,0.1943047,Low Risk
+20,250,Electronics,9.04,1,0,paypal,5.39,0,0,0,0.2097787,Low Risk
+52,496,Clothing,31.43,4,0,credit_card,8.45,1,0,0,0.2895733,Low Risk
+57,328,Electronics,20.47,1,0,debit_card,6.11,0,0,0,0.21255541,Low Risk
+35,744,Home & Kitchen,16.52,1,0,paypal,7.81,2,0,0,0.14664182,Low Risk
+42,894,Garden,56.03,1,0,credit_card,7.36,0,0,0,0.09768627,Low Risk
+46,1333,Clothing,55.03,1,0,bank_transfer,6.28,1,0,0,0.14009346,Low Risk
+36,947,Books,14.23,1,0,credit_card,7.0,0,0,0,0.11418374,Low Risk
+52,921,Books,7.6,6,5,credit_card,6.47,4,0,0,0.13713801,Low Risk
+34,633,Books,19.42,2,0,debit_card,4.94,3,0,0,0.17002486,Low Risk
+36,1213,Toys,38.6,2,0,paypal,5.98,1,0,0,0.083329685,Low Risk
+64,753,Electronics,17.91,2,0,debit_card,3.49,1,0,0,0.17300363,Low Risk
+39,248,Food,34.03,5,0,debit_card,4.75,1,0,0,0.048313703,Low Risk
+42,598,Sports,39.64,3,0,paypal,4.32,3,0,0,0.11713376,Low Risk
+58,239,Electronics,47.39,1,5,debit_card,4.16,0,0,0,0.18490699,Low Risk
+18,865,Automotive,22.05,1,0,credit_card,4.69,3,0,0,0.3538335,Medium Risk
+59,740,Clothing,18.77,3,5,cash_on_delivery,3.95,2,0,0,0.1064672,Low Risk
+69,1103,Clothing,8.3,2,0,debit_card,5.59,4,0,0,0.12872903,Low Risk
+41,630,Beauty,48.35,1,0,credit_card,5.71,0,0,0,0.14973709,Low Risk
+56,1296,Electronics,22.52,3,0,credit_card,5.75,7,1,0,0.16965456,Low Risk
+29,524,Home & Kitchen,61.75,6,0,paypal,5.92,0,1,0,0.09757358,Low Risk
+39,996,Home & Kitchen,9.9,1,5,credit_card,4.95,1,0,0,0.21149233,Low Risk
+35,1124,Home & Kitchen,13.72,1,0,credit_card,3.51,2,0,0,0.17991564,Low Risk
+64,915,Automotive,22.48,2,50,bank_transfer,5.5,4,0,0,0.33645362,Medium Risk
+39,761,Home & Kitchen,83.35,1,0,debit_card,8.15,3,1,0,0.18015653,Low Risk
+53,891,Clothing,64.85,2,15,cash_on_delivery,7.13,1,0,0,0.18246023,Low Risk
+24,976,Books,26.48,1,0,cash_on_delivery,4.65,2,0,0,0.065416686,Low Risk
+62,365,Clothing,4.44,1,0,credit_card,6.18,0,0,0,0.20878726,Low Risk
+30,324,Food,15.08,1,0,credit_card,3.62,0,0,0,0.051985644,Low Risk
+76,1026,Electronics,30.94,2,0,credit_card,4.81,3,0,0,0.018930558,Low Risk
+18,681,Automotive,1.01,1,0,credit_card,4.03,0,0,0,0.10682582,Low Risk
+38,539,Automotive,59.63,1,0,cash_on_delivery,4.38,5,0,0,0.08523056,Low Risk
+23,685,Sports,18.07,1,0,credit_card,8.29,5,1,0,0.16773942,Low Risk
+41,1351,Garden,19.52,1,0,credit_card,4.65,3,0,0,0.14623952,Low Risk
+58,991,Garden,12.47,2,0,credit_card,4.38,1,0,0,0.047673374,Low Risk
+55,527,Electronics,65.96,3,20,credit_card,4.98,0,1,0,0.22335757,Low Risk
+37,764,Toys,37.08,2,5,debit_card,3.3,4,0,0,0.09836684,Low Risk
+52,1099,Toys,28.53,2,0,credit_card,9.24,4,0,0,0.14416909,Low Risk
+52,536,Electronics,40.8,1,5,debit_card,3.41,2,0,0,0.17555355,Low Risk
+55,627,Electronics,26.51,1,20,debit_card,4.11,0,0,0,0.2118152,Low Risk
+54,531,Automotive,60.77,1,0,credit_card,6.72,0,0,0,0.084945396,Low Risk
+18,1304,Electronics,4.76,1,0,credit_card,8.56,2,1,0,0.19988401,Low Risk
+38,633,Pet Supplies,72.33,2,0,credit_card,4.39,4,0,0,0.0749233,Low Risk
+46,1111,Books,62.21,3,0,paypal,4.59,5,0,0,0.18248664,Low Risk
+56,872,Sports,18.85,2,0,debit_card,7.33,3,0,0,0.20184468,Low Risk
+27,1139,Books,20.35,2,0,paypal,3.65,7,0,0,0.06894889,Low Risk
+18,835,Clothing,23.93,2,5,credit_card,5.37,1,1,0,0.294488,Low Risk
+30,540,Clothing,26.13,2,5,credit_card,3.89,1,0,0,0.27928358,Low Risk
+71,355,Clothing,10.19,2,0,bank_transfer,4.21,0,0,0,0.24081032,Low Risk
+44,253,Electronics,20.89,3,0,debit_card,5.07,1,0,0,0.2213035,Low Risk
+24,1086,Sports,5.92,1,0,paypal,5.57,3,1,0,0.13932922,Low Risk
+41,436,Sports,10.05,1,0,paypal,5.3,2,0,0,0.13820349,Low Risk
+43,450,Food,3.17,4,0,debit_card,4.13,0,0,0,0.090779655,Low Risk
+54,1318,Clothing,16.41,1,0,credit_card,5.05,1,0,0,0.25998074,Low Risk
+27,684,Books,28.53,1,0,cash_on_delivery,3.75,0,0,0,0.042016532,Low Risk
+32,873,Clothing,21.01,1,0,paypal,4.96,0,0,0,0.1812495,Low Risk
+58,666,Beauty,12.07,1,0,credit_card,5.19,4,0,0,0.10039176,Low Risk
+54,212,Clothing,24.24,2,0,debit_card,4.2,0,0,0,0.1986289,Low Risk
+44,882,Home & Kitchen,14.44,2,0,paypal,5.47,4,0,0,0.14920251,Low Risk
+38,286,Automotive,20.21,2,0,paypal,4.54,2,0,0,0.12762943,Low Risk
+42,844,Toys,14.9,1,0,credit_card,3.35,2,0,0,0.0871846,Low Risk
+18,953,Books,22.93,1,0,debit_card,5.25,1,0,0,0.22410074,Low Risk
+37,1269,Toys,11.01,1,0,debit_card,5.57,3,1,0,0.17559731,Low Risk
+18,718,Automotive,26.05,2,20,paypal,8.8,2,0,0,0.3234419,Medium Risk
+42,487,Beauty,16.57,2,5,paypal,7.0,2,0,0,0.159012,Low Risk
+31,620,Toys,11.17,1,10,credit_card,5.32,4,0,0,0.17082396,Low Risk
+36,489,Other,17.59,1,0,bank_transfer,5.21,2,0,0,0.04656709,Low Risk
+47,1054,Home & Kitchen,42.2,5,0,credit_card,5.34,3,0,0,0.15194735,Low Risk
+49,774,Books,19.79,5,0,debit_card,5.33,2,0,0,0.122939706,Low Risk
+44,610,Clothing,15.35,2,0,credit_card,5.62,1,0,0,0.24579409,Low Risk
+56,1045,Electronics,96.01,1,0,credit_card,7.14,4,0,0,0.17970572,Low Risk
+18,822,Beauty,32.99,1,0,credit_card,11.96,1,0,0,0.24198644,Low Risk
+64,527,Automotive,8.41,3,15,credit_card,4.05,1,0,0,0.07964622,Low Risk
+28,1148,Toys,19.51,1,20,credit_card,4.49,1,1,0,0.4984642,Medium Risk
+28,544,Toys,12.56,1,0,credit_card,4.75,2,0,0,0.16963415,Low Risk
+39,618,Electronics,65.45,2,5,bank_transfer,4.53,0,0,0,0.19047044,Low Risk
+51,641,Home & Kitchen,12.18,1,10,debit_card,4.1,1,0,0,0.12486979,Low Risk
+36,671,Garden,24.58,1,0,paypal,7.12,0,0,0,0.102614425,Low Risk
+18,365,Garden,30.75,1,5,credit_card,4.65,0,0,0,0.1292463,Low Risk
+38,374,Toys,11.52,1,0,debit_card,7.37,5,1,0,0.1550394,Low Risk
+42,582,Electronics,49.39,1,10,credit_card,7.43,1,0,0,0.1905513,Low Risk
+51,873,Sports,49.67,2,15,paypal,4.24,2,0,0,0.1460815,Low Risk
+29,399,Clothing,8.0,5,0,credit_card,4.27,0,0,0,0.26159185,Low Risk
+48,1061,Home & Kitchen,40.78,1,5,credit_card,3.76,0,0,0,0.13243465,Low Risk
+68,652,Other,12.16,2,0,credit_card,6.86,2,0,0,0.030858543,Low Risk
+23,911,Food,13.74,5,90,paypal,5.59,3,1,1,0.82007897,High Risk
+39,239,Books,91.55,1,0,paypal,5.7,0,0,0,0.084417984,Low Risk
+43,360,Beauty,5.23,2,5,bank_transfer,4.42,2,0,0,0.15522444,Low Risk
+50,335,Automotive,16.73,1,0,bank_transfer,3.7,2,0,0,0.12546329,Low Risk
+41,509,Clothing,8.94,2,15,debit_card,4.24,0,1,0,0.32954374,Medium Risk
+60,839,Electronics,14.08,1,0,paypal,3.76,2,0,0,0.13780935,Low Risk
+43,932,Clothing,11.29,2,0,debit_card,6.42,5,0,0,0.1595075,Low Risk
+52,1197,Food,25.45,3,0,credit_card,3.45,5,0,0,0.17165023,Low Risk
+63,721,Food,9.08,2,0,bank_transfer,4.36,0,0,0,0.044282556,Low Risk
+24,766,Pet Supplies,53.41,1,0,debit_card,5.87,0,0,0,0.068578236,Low Risk
+29,453,Clothing,15.71,1,0,debit_card,9.21,1,0,0,0.34314007,Medium Risk
+46,477,Electronics,19.93,1,0,bank_transfer,5.42,1,0,0,0.20834732,Low Risk
+46,763,Home & Kitchen,23.01,2,0,credit_card,5.24,2,0,0,0.14008273,Low Risk
+18,520,Clothing,21.58,1,0,credit_card,5.02,2,0,0,0.23012322,Low Risk
+39,992,Beauty,62.61,1,0,bank_transfer,3.61,3,0,0,0.11355215,Low Risk
+44,1263,Office,10.46,1,0,paypal,3.95,2,0,0,0.08973322,Low Risk
+38,1119,Music,26.49,3,0,credit_card,4.73,2,0,0,0.18315054,Low Risk
+42,436,Electronics,5.33,2,5,debit_card,4.83,5,1,0,0.21569344,Low Risk
+41,1351,Electronics,29.79,2,25,credit_card,3.51,4,1,0,0.4306267,Medium Risk
+35,203,Sports,85.6,1,5,credit_card,4.27,1,0,0,0.15727568,Low Risk
+32,1062,Clothing,6.02,2,10,paypal,3.9,2,1,0,0.40646178,Medium Risk
+50,588,Toys,13.77,1,5,paypal,4.78,0,0,0,0.111861825,Low Risk
+18,824,Toys,17.91,2,0,debit_card,4.48,2,0,0,0.2510737,Low Risk
+46,828,Home & Kitchen,55.62,1,0,paypal,4.3,2,0,0,0.109666236,Low Risk
+23,874,Beauty,23.62,1,0,debit_card,5.57,2,1,0,0.21829934,Low Risk
+20,863,Toys,10.58,1,0,credit_card,7.84,2,0,0,0.23675889,Low Risk
+25,725,Books,2.86,1,5,paypal,6.76,0,0,0,0.043033823,Low Risk
+54,585,Electronics,7.79,1,10,credit_card,4.11,4,0,0,0.15353958,Low Risk
+35,488,Office,27.51,5,0,credit_card,5.95,2,0,0,0.083034344,Low Risk
+23,404,Beauty,10.74,1,10,credit_card,5.11,1,0,0,0.21391997,Low Risk
+19,893,Books,27.85,3,5,debit_card,7.98,4,0,0,0.096318915,Low Risk
+40,761,Beauty,20.91,3,15,cash_on_delivery,4.82,0,0,0,0.14194229,Low Risk
+58,517,Music,6.6,2,10,credit_card,4.06,3,0,0,0.10526583,Low Risk
+28,834,Toys,12.77,1,0,debit_card,4.44,2,1,0,0.10201921,Low Risk
+42,549,Home & Kitchen,43.61,2,0,bank_transfer,4.26,0,0,0,0.09034023,Low Risk
+48,154,Books,77.75,1,0,bank_transfer,5.53,0,0,0,0.08034954,Low Risk
+43,916,Electronics,33.26,1,0,credit_card,3.41,2,0,0,0.17566258,Low Risk
+55,396,Automotive,27.49,1,15,credit_card,5.0,0,1,0,0.12307275,Low Risk
+52,896,Electronics,13.51,1,0,bank_transfer,4.19,3,0,0,0.16699909,Low Risk
+48,772,Sports,40.91,1,0,credit_card,7.51,0,0,0,0.12141127,Low Risk
+18,1355,Food,38.02,2,5,bank_transfer,4.23,4,0,0,0.069468506,Low Risk
+66,757,Home & Kitchen,5.12,1,10,credit_card,4.24,7,0,0,0.17665268,Low Risk
+24,552,Food,90.15,2,0,debit_card,5.97,3,0,0,0.119684935,Low Risk
+34,1197,Books,32.62,2,0,bank_transfer,4.31,1,0,0,0.039427277,Low Risk
+52,557,Electronics,93.59,1,5,paypal,4.11,2,1,0,0.13752489,Low Risk
+40,388,Home & Kitchen,18.84,3,0,credit_card,5.61,0,0,0,0.16791812,Low Risk
+39,539,Home & Kitchen,3.32,1,0,paypal,5.16,1,0,0,0.119038485,Low Risk
+21,1170,Office,11.82,1,10,bank_transfer,4.08,0,1,0,0.06687788,Low Risk
+61,325,Automotive,26.38,1,0,paypal,4.55,1,1,0,0.106452785,Low Risk
+22,708,Electronics,24.13,1,0,credit_card,7.72,1,1,0,0.24880524,Low Risk
+45,367,Garden,10.14,5,0,bank_transfer,4.47,0,0,0,0.07983806,Low Risk
+38,1370,Automotive,21.49,3,25,credit_card,5.44,2,1,0,0.3773138,Medium Risk
+38,1311,Books,10.82,1,5,credit_card,5.11,6,0,0,0.05625222,Low Risk
+32,1385,Sports,24.41,1,0,bank_transfer,4.41,2,1,0,0.11988001,Low Risk
+47,1004,Food,14.97,1,0,credit_card,4.99,5,0,0,0.15712702,Low Risk
+43,610,Clothing,10.22,2,5,credit_card,4.79,1,0,0,0.2588709,Low Risk
+31,471,Electronics,34.35,1,10,paypal,3.87,1,1,0,0.17001866,Low Risk
+48,995,Toys,18.01,1,25,paypal,9.33,1,0,0,0.20142926,Low Risk
+18,437,Home & Kitchen,49.67,1,5,credit_card,6.54,3,0,0,0.2234992,Low Risk
+41,1114,Toys,20.73,1,0,debit_card,6.58,2,0,0,0.2253132,Low Risk
+29,1111,Garden,34.31,2,0,credit_card,3.67,6,0,0,0.13135113,Low Risk
+32,919,Books,6.63,1,0,debit_card,6.72,0,0,0,0.1015812,Low Risk
+21,325,Clothing,133.42,5,0,debit_card,5.84,0,1,0,0.32391563,Medium Risk
+54,411,Toys,20.98,1,5,credit_card,4.95,1,0,0,0.15425594,Low Risk
+47,1308,Clothing,4.8,2,5,debit_card,11.92,4,0,0,0.24770837,Low Risk
+50,794,Home & Kitchen,19.71,2,0,paypal,11.41,3,0,0,0.19417463,Low Risk
+67,411,Home & Kitchen,58.58,1,5,credit_card,5.35,1,0,0,0.10983588,Low Risk
+31,915,Clothing,7.41,2,0,paypal,5.13,2,0,0,0.23806773,Low Risk
+18,892,Beauty,23.97,3,0,debit_card,4.14,1,0,0,0.13453497,Low Risk
+70,356,Home & Kitchen,14.61,1,0,credit_card,4.79,1,0,0,0.10440989,Low Risk
+27,785,Automotive,46.82,2,0,credit_card,3.69,3,1,0,0.17457625,Low Risk
+60,811,Books,17.05,1,0,credit_card,4.81,0,0,0,0.08182799,Low Risk
+25,980,Clothing,3.16,1,25,debit_card,4.34,1,0,0,0.4927006,Medium Risk
+48,1214,Pet Supplies,30.67,1,0,bank_transfer,4.94,2,0,0,0.066447884,Low Risk
+38,1082,Sports,74.56,1,5,credit_card,4.17,3,0,0,0.1390506,Low Risk
+54,840,Toys,19.1,2,0,paypal,9.06,4,0,0,0.10758887,Low Risk
+56,180,Sports,23.3,1,0,credit_card,4.8,0,0,0,0.1268533,Low Risk
+21,656,Food,23.66,1,5,paypal,6.62,2,0,0,0.060116995,Low Risk
+48,489,Clothing,50.66,1,0,debit_card,7.59,1,0,0,0.20238276,Low Risk
+38,592,Sports,25.24,2,0,credit_card,5.94,1,0,0,0.13851331,Low Risk
+45,777,Sports,8.47,2,0,bank_transfer,4.08,0,0,0,0.14924496,Low Risk
+35,1130,Clothing,15.04,1,0,credit_card,4.05,3,0,0,0.22656302,Low Risk
+27,885,Toys,56.73,2,0,credit_card,4.75,1,1,0,0.1692244,Low Risk
+18,466,Electronics,55.24,1,5,credit_card,4.56,2,0,0,0.2602338,Low Risk
+27,1215,Toys,6.52,2,0,credit_card,5.44,5,1,0,0.3246307,Medium Risk
+36,476,Clothing,14.43,1,0,credit_card,4.77,1,1,0,0.2723353,Low Risk
+36,1225,Food,6.77,2,15,debit_card,7.96,1,1,0,0.045782603,Low Risk
+42,546,Electronics,84.5,1,0,credit_card,5.85,2,0,0,0.20104171,Low Risk
+39,1065,Home & Kitchen,175.03,1,5,debit_card,6.92,2,0,0,0.13003154,Low Risk
+34,688,Beauty,22.98,1,0,paypal,4.13,1,0,0,0.102172725,Low Risk
+52,726,Office,109.67,2,0,credit_card,5.48,4,0,0,0.14472279,Low Risk
+63,812,Electronics,12.09,1,0,credit_card,6.17,2,0,0,0.12325954,Low Risk
+44,378,Clothing,14.82,1,0,paypal,4.59,2,0,0,0.20752543,Low Risk
+36,1148,Beauty,16.46,3,5,credit_card,5.06,3,0,0,0.20923726,Low Risk
+66,426,Garden,42.88,2,0,debit_card,6.29,3,0,0,0.07600342,Low Risk
+76,673,Clothing,21.04,1,20,debit_card,6.52,5,0,0,0.07226626,Low Risk
+33,1074,Electronics,15.62,1,10,debit_card,4.24,4,0,0,0.2602869,Low Risk
+61,927,Clothing,4.48,1,0,credit_card,5.11,0,0,0,0.1694152,Low Risk
+44,989,Other,20.15,1,5,credit_card,5.2,4,1,0,0.13935393,Low Risk
+46,833,Home & Kitchen,13.02,1,0,debit_card,5.98,0,0,0,0.08260015,Low Risk
+18,1016,Home & Kitchen,46.75,1,0,credit_card,4.9,3,0,0,0.25650433,Low Risk
+48,649,Toys,7.93,1,0,paypal,5.25,1,0,0,0.110879056,Low Risk
+34,1156,Clothing,23.37,2,0,paypal,7.71,6,0,0,0.14028007,Low Risk
+45,1016,Electronics,10.52,3,30,debit_card,5.92,2,1,0,0.4611357,Medium Risk
+31,621,Sports,42.02,1,0,credit_card,6.74,2,0,0,0.19525898,Low Risk
+80,864,Other,14.68,1,20,credit_card,5.16,3,0,0,0.14743161,Low Risk
+50,1295,Clothing,29.96,2,0,bank_transfer,3.65,2,1,0,0.15638427,Low Risk
+18,718,Books,1.94,1,15,debit_card,5.09,3,1,0,0.06284606,Low Risk
+24,720,Home & Kitchen,14.25,1,5,credit_card,6.57,4,0,0,0.17924853,Low Risk
+22,626,Automotive,31.8,2,10,credit_card,4.87,3,0,0,0.21761258,Low Risk
+43,315,Beauty,8.12,1,0,cash_on_delivery,4.08,0,0,0,0.091111355,Low Risk
+44,773,Electronics,14.91,3,20,bank_transfer,5.05,2,0,0,0.30755153,Medium Risk
+31,707,Home & Kitchen,17.57,1,0,credit_card,7.08,0,0,0,0.17584282,Low Risk
+39,1058,Clothing,10.45,1,0,bank_transfer,5.9,4,1,0,0.16531089,Low Risk
+48,613,Electronics,2.27,2,0,debit_card,4.02,0,1,0,0.08881369,Low Risk
+58,359,Home & Kitchen,44.15,1,10,credit_card,3.73,0,0,0,0.14747521,Low Risk
+18,940,Sports,62.88,1,0,debit_card,4.52,5,0,0,0.22597677,Low Risk
+29,678,Sports,26.37,1,0,debit_card,5.11,1,0,0,0.17073411,Low Risk
+57,931,Home & Kitchen,16.28,1,0,credit_card,5.61,1,0,0,0.14563122,Low Risk
+51,888,Sports,3.98,5,0,credit_card,4.9,6,1,0,0.24006927,Low Risk
+31,201,Books,21.49,1,0,paypal,4.39,0,0,0,0.11810524,Low Risk
+44,737,Home & Kitchen,8.43,1,10,credit_card,8.34,0,0,0,0.11469325,Low Risk
+42,688,Clothing,40.66,1,25,debit_card,3.47,1,0,0,0.3829274,Medium Risk
+34,666,Automotive,4.64,3,0,credit_card,4.11,0,0,0,0.14139766,Low Risk
+56,515,Home & Kitchen,4.83,1,15,credit_card,6.36,2,0,0,0.124318436,Low Risk
+29,846,Electronics,14.3,1,20,credit_card,6.57,1,0,0,0.39899674,Medium Risk
+51,938,Electronics,33.15,2,15,paypal,5.67,1,0,0,0.17087233,Low Risk
+18,1001,Automotive,5.61,2,20,debit_card,5.16,1,0,1,0.54412276,Medium Risk
+56,216,Books,6.64,1,25,debit_card,5.51,2,1,0,0.113504164,Low Risk
+50,244,Clothing,52.28,1,0,debit_card,5.09,0,0,0,0.20190737,Low Risk
+18,1014,Music,9.49,4,0,credit_card,5.19,3,0,0,0.23340125,Low Risk
+34,436,Home & Kitchen,16.67,2,0,credit_card,5.94,0,1,0,0.15989405,Low Risk
+46,342,Electronics,10.13,3,0,bank_transfer,6.06,1,0,0,0.14212793,Low Risk
+22,1250,Electronics,16.96,1,0,credit_card,3.51,3,0,0,0.2206862,Low Risk
+18,511,Electronics,7.87,1,15,debit_card,5.43,1,0,0,0.29044765,Low Risk
+50,383,Clothing,18.62,1,0,debit_card,8.47,1,0,0,0.25465563,Low Risk
+33,740,Electronics,47.39,1,0,bank_transfer,4.72,2,0,0,0.15033695,Low Risk
+29,937,Electronics,92.49,1,0,credit_card,3.81,5,0,0,0.18418384,Low Risk
+52,740,Electronics,9.16,7,0,credit_card,7.83,2,1,0,0.18868549,Low Risk
+52,526,Home & Kitchen,18.5,1,0,paypal,8.09,6,0,0,0.12043043,Low Risk
+43,968,Beauty,13.75,2,70,credit_card,4.71,0,0,0,0.42596954,Medium Risk
+18,1109,Electronics,50.37,1,0,bank_transfer,4.84,5,0,0,0.20929092,Low Risk
+22,397,Home & Kitchen,15.82,2,0,paypal,4.74,3,0,0,0.15244211,Low Risk
+45,950,Electronics,13.72,1,0,debit_card,4.86,1,0,0,0.22536519,Low Risk
+29,457,Garden,13.33,2,0,credit_card,4.14,1,0,0,0.098179065,Low Risk
+45,817,Electronics,21.42,1,0,credit_card,4.67,0,0,0,0.14262739,Low Risk
+47,888,Electronics,63.42,2,0,bank_transfer,9.89,2,1,0,0.14713377,Low Risk
+30,433,Automotive,19.2,3,0,paypal,3.36,0,0,0,0.14501989,Low Risk
+52,1044,Clothing,132.55,3,10,debit_card,5.13,5,0,0,0.21463713,Low Risk
+34,654,Automotive,12.1,2,5,debit_card,4.49,3,0,0,0.18854298,Low Risk
+45,900,Home & Kitchen,28.56,1,0,debit_card,5.75,0,0,0,0.14252135,Low Risk
+36,658,Home & Kitchen,5.26,1,0,paypal,7.25,2,0,0,0.12124385,Low Risk
+46,405,Pet Supplies,17.69,1,15,credit_card,4.92,1,0,0,0.21328014,Low Risk
+37,376,Automotive,9.33,1,0,bank_transfer,5.66,0,0,0,0.11717575,Low Risk
+56,748,Pet Supplies,13.61,1,0,credit_card,5.85,3,0,0,0.11898573,Low Risk
+44,295,Clothing,7.88,1,0,credit_card,4.34,3,0,0,0.21433349,Low Risk
+21,646,Sports,10.38,1,0,credit_card,4.62,1,0,0,0.18683857,Low Risk
+39,482,Electronics,16.04,1,40,debit_card,4.22,2,0,0,0.46147,Medium Risk
+18,1133,Beauty,50.21,2,25,credit_card,9.0,3,0,0,0.28034204,Low Risk
+43,540,Books,15.34,2,25,paypal,5.29,0,0,0,0.19264431,Low Risk
+32,811,Toys,34.63,2,10,credit_card,3.64,3,0,0,0.1871491,Low Risk
+55,1327,Clothing,7.02,1,15,debit_card,5.02,5,0,0,0.40434873,Medium Risk
+34,1084,Home & Kitchen,9.42,2,0,credit_card,4.5,4,0,0,0.1886586,Low Risk
+21,962,Home & Kitchen,22.95,1,10,credit_card,4.06,1,0,0,0.17671615,Low Risk
+42,491,Electronics,11.63,1,0,credit_card,5.39,0,0,0,0.17409205,Low Risk
+41,621,Beauty,9.97,1,5,credit_card,5.64,2,0,0,0.1633803,Low Risk
+31,369,Books,8.75,2,0,paypal,8.17,0,0,0,0.08227007,Low Risk
+53,484,Beauty,8.37,1,0,cash_on_delivery,7.83,0,0,0,0.07779358,Low Risk
+47,390,Pet Supplies,8.6,3,25,debit_card,4.63,4,0,0,0.36917543,Medium Risk
+45,403,Electronics,35.95,1,0,credit_card,3.29,0,1,0,0.12866361,Low Risk
+58,777,Clothing,35.77,1,0,debit_card,5.43,1,0,0,0.21282697,Low Risk
+42,908,Electronics,55.2,1,5,debit_card,4.58,2,0,0,0.17832914,Low Risk
+33,824,Beauty,65.15,1,0,credit_card,6.75,2,0,0,0.14654516,Low Risk
+18,902,Home & Kitchen,4.24,1,0,debit_card,6.57,1,0,0,0.20536669,Low Risk
+30,694,Electronics,11.11,2,15,credit_card,3.73,0,1,0,0.21020763,Low Risk
+23,356,Garden,6.06,2,20,credit_card,3.47,1,1,0,0.18356794,Low Risk
+50,410,Electronics,5.41,1,5,credit_card,4.7,0,0,0,0.1872303,Low Risk
+55,800,Garden,39.43,3,0,credit_card,4.03,4,0,0,0.0883943,Low Risk
+25,739,Clothing,59.37,2,5,credit_card,3.69,4,0,0,0.31965545,Medium Risk
+25,869,Food,33.9,2,0,credit_card,4.12,0,0,0,0.037579127,Low Risk
+34,507,Other,35.23,1,0,credit_card,5.78,1,0,0,0.06263202,Low Risk
+35,800,Electronics,18.4,1,0,paypal,4.57,5,0,0,0.17266844,Low Risk
+19,505,Food,8.56,1,0,credit_card,3.4,0,0,0,0.06088395,Low Risk
+37,908,Sports,15.87,1,0,paypal,10.21,2,0,0,0.16588669,Low Risk
+51,108,Electronics,21.15,4,0,credit_card,5.43,0,0,0,0.13810378,Low Risk
+52,419,Other,5.37,1,5,cash_on_delivery,4.21,5,0,0,0.044643696,Low Risk
+47,80,Books,40.27,1,0,credit_card,6.8,0,0,0,0.05322668,Low Risk
+34,608,Books,6.78,2,20,credit_card,4.19,0,0,0,0.13174942,Low Risk
+46,721,Beauty,17.05,1,10,credit_card,4.18,2,0,0,0.15293491,Low Risk
+51,806,Clothing,16.82,2,10,credit_card,4.01,3,0,0,0.27922398,Low Risk
+52,607,Toys,35.69,1,50,credit_card,5.98,3,1,0,0.15848549,Low Risk
+32,1342,Books,5.45,3,0,bank_transfer,5.84,4,0,0,0.12688024,Low Risk
+18,667,Clothing,19.49,1,0,cash_on_delivery,4.41,4,0,0,0.056720234,Low Risk
+55,1203,Electronics,55.27,1,5,credit_card,6.66,6,0,0,0.16195302,Low Risk
+42,242,Books,11.95,1,0,debit_card,5.24,0,0,0,0.104905166,Low Risk
+32,847,Home & Kitchen,31.44,1,0,paypal,4.74,1,0,0,0.1701114,Low Risk
+31,1123,Clothing,72.84,1,0,credit_card,7.58,4,0,0,0.15918793,Low Risk
+18,1170,Electronics,74.24,4,0,debit_card,10.41,3,0,0,0.18571462,Low Risk
+43,1133,Home & Kitchen,90.95,1,5,credit_card,5.65,2,0,0,0.13986893,Low Risk
+22,633,Electronics,26.66,2,5,credit_card,3.38,4,0,0,0.19136506,Low Risk
+63,1226,Electronics,9.55,2,5,paypal,10.73,1,0,0,0.21526448,Low Risk
+18,470,Food,25.22,1,40,credit_card,3.84,1,0,0,0.4926142,Medium Risk
+39,541,Toys,25.2,3,0,credit_card,9.86,0,0,0,0.08861886,Low Risk
+38,337,Clothing,12.99,1,0,credit_card,7.13,4,1,0,0.14253868,Low Risk
+52,772,Home & Kitchen,43.23,1,0,credit_card,3.65,0,0,0,0.11984537,Low Risk
+33,944,Electronics,48.69,1,0,credit_card,5.4,2,0,0,0.21893716,Low Risk
+43,712,Garden,6.96,1,5,credit_card,7.18,2,0,0,0.08048348,Low Risk
+41,850,Electronics,5.98,2,0,paypal,5.32,0,1,0,0.14218344,Low Risk
+46,922,Home & Kitchen,23.14,1,0,credit_card,4.69,5,1,0,0.1476913,Low Risk
+38,1017,Office,18.23,1,0,bank_transfer,5.92,2,0,0,0.0802225,Low Risk
+29,998,Clothing,32.69,2,10,cash_on_delivery,4.98,1,1,0,0.49054408,Medium Risk
+18,830,Electronics,81.86,1,0,paypal,4.81,5,0,0,0.17582336,Low Risk
+18,690,Sports,14.82,1,0,paypal,6.34,1,0,0,0.20321766,Low Risk
+30,116,Clothing,17.11,2,5,credit_card,4.33,0,0,0,0.2617878,Low Risk
+41,712,Toys,13.13,1,15,debit_card,4.36,0,1,0,0.104650155,Low Risk
+30,520,Clothing,11.69,1,0,credit_card,5.08,2,0,0,0.14824072,Low Risk
+38,568,Beauty,36.09,1,30,credit_card,4.84,0,1,0,0.2881906,Low Risk
+59,462,Clothing,46.46,1,0,bank_transfer,4.29,1,0,0,0.17618604,Low Risk
+51,250,Clothing,56.1,4,10,credit_card,5.47,0,0,0,0.27292052,Low Risk
+55,405,Clothing,53.96,2,10,debit_card,4.47,0,0,0,0.22497016,Low Risk
+56,364,Books,25.71,1,0,cash_on_delivery,4.2,0,0,0,0.05268321,Low Risk
+30,648,Electronics,18.55,2,0,credit_card,3.24,3,0,0,0.24800827,Low Risk
+46,483,Home & Kitchen,9.51,1,0,credit_card,3.53,3,0,0,0.1605104,Low Risk
+45,442,Books,29.95,1,0,debit_card,4.31,1,0,0,0.10902872,Low Risk
+32,1001,Clothing,15.76,1,5,credit_card,4.25,6,0,0,0.34337154,Medium Risk
+46,684,Toys,4.71,1,0,credit_card,4.67,2,0,0,0.1318964,Low Risk
+21,751,Sports,39.18,2,0,credit_card,4.95,6,0,0,0.20728032,Low Risk
+59,955,Books,17.71,1,5,debit_card,4.45,2,0,0,0.1531005,Low Risk
+41,729,Beauty,26.49,2,0,credit_card,5.97,2,0,0,0.13297506,Low Risk
+23,1004,Clothing,10.55,7,0,debit_card,4.67,2,0,0,0.20734611,Low Risk
+62,178,Toys,34.58,1,0,credit_card,4.84,1,0,0,0.109552324,Low Risk
+32,1137,Sports,43.36,3,5,debit_card,6.41,1,0,0,0.12039828,Low Risk
+35,685,Electronics,20.56,1,10,credit_card,6.33,0,1,0,0.24577476,Low Risk
+31,1123,Electronics,7.41,1,0,credit_card,5.68,3,0,0,0.19606285,Low Risk
+74,1440,Clothing,34.59,1,0,paypal,10.79,0,0,0,0.099351875,Low Risk
+46,782,Office,28.87,4,10,paypal,11.46,0,0,0,0.18835603,Low Risk
+19,388,Clothing,38.6,2,0,credit_card,14.15,1,0,0,0.3878156,Medium Risk
+18,1044,Beauty,30.43,1,0,cash_on_delivery,4.25,6,0,0,0.09720556,Low Risk
+35,795,Pet Supplies,14.68,2,10,cash_on_delivery,5.9,0,0,0,0.14968689,Low Risk
+69,1183,Toys,53.43,5,10,debit_card,5.19,1,0,0,0.059594035,Low Risk
+21,697,Beauty,36.87,1,25,paypal,8.98,0,1,0,0.22075842,Low Risk
+27,979,Electronics,7.06,1,5,debit_card,4.86,1,1,0,0.21252081,Low Risk
+38,1278,Electronics,8.39,1,0,paypal,4.09,1,0,0,0.20678815,Low Risk
+40,340,Clothing,30.19,1,40,bank_transfer,5.45,0,1,0,0.37302133,Medium Risk
+19,1145,Home & Kitchen,13.12,1,15,bank_transfer,5.61,4,0,0,0.21297678,Low Risk
+34,599,Toys,27.56,2,30,debit_card,6.2,3,1,0,0.18959731,Low Risk
+24,1067,Food,24.74,3,0,debit_card,6.96,4,0,0,0.123598404,Low Risk
+35,256,Home & Kitchen,71.66,2,5,debit_card,3.35,0,1,0,0.19254367,Low Risk
+29,753,Electronics,20.21,1,5,credit_card,6.43,1,1,0,0.27611,Low Risk
+39,740,Garden,10.73,2,10,paypal,5.91,4,0,0,0.08202867,Low Risk
+71,904,Electronics,9.07,1,0,credit_card,5.63,1,0,0,0.09236096,Low Risk
+61,795,Electronics,31.71,1,0,paypal,4.26,2,0,0,0.09419572,Low Risk
+29,612,Books,23.7,1,5,debit_card,4.44,0,0,0,0.17523432,Low Risk
+36,1235,Books,23.9,1,5,paypal,5.38,2,1,0,0.08546639,Low Risk
+29,225,Electronics,38.85,1,0,debit_card,6.14,0,0,0,0.18697852,Low Risk
+18,513,Electronics,43.64,1,5,credit_card,4.78,1,0,0,0.2715454,Low Risk
+37,765,Pet Supplies,30.42,2,0,debit_card,4.0,1,0,0,0.15887982,Low Risk
+61,945,Clothing,14.76,1,0,bank_transfer,8.26,3,0,0,0.20845334,Low Risk
+37,483,Beauty,20.45,1,0,credit_card,4.3,0,0,0,0.17303103,Low Risk
+41,86,Jewelry,13.82,3,0,debit_card,4.12,0,0,0,0.103264764,Low Risk
+29,780,Sports,8.32,1,10,credit_card,3.57,1,0,0,0.21119173,Low Risk
+30,354,Books,19.62,1,5,credit_card,7.24,0,0,0,0.16410014,Low Risk
+43,694,Beauty,93.52,1,0,bank_transfer,8.1,1,0,0,0.12393594,Low Risk
+24,1068,Beauty,18.71,3,15,paypal,5.9,5,1,0,0.20947367,Low Risk
+62,166,Home & Kitchen,60.16,2,0,debit_card,5.11,0,0,0,0.16082945,Low Risk
+27,193,Beauty,25.33,2,0,debit_card,5.38,0,1,0,0.23984304,Low Risk
+30,1190,Automotive,7.68,1,0,debit_card,4.27,5,0,0,0.21712114,Low Risk
+67,839,Food,65.72,2,0,debit_card,8.75,3,0,0,0.10372409,Low Risk
+42,523,Home & Kitchen,9.92,2,0,cash_on_delivery,4.66,0,0,0,0.108710565,Low Risk
+43,1177,Electronics,34.04,2,25,credit_card,5.56,3,1,0,0.3631255,Medium Risk
+31,1187,Clothing,49.64,3,5,paypal,4.16,3,0,0,0.1587967,Low Risk
+29,321,Sports,2.44,2,20,credit_card,5.47,2,0,0,0.19975561,Low Risk
+18,1100,Home & Kitchen,3.76,2,0,credit_card,5.26,3,1,0,0.31899983,Medium Risk
+18,483,Food,4.29,1,10,debit_card,4.39,0,0,0,0.15723549,Low Risk
+25,556,Food,10.51,4,5,paypal,3.2,1,0,0,0.057859678,Low Risk
+80,1123,Books,40.86,2,0,credit_card,4.11,2,0,0,0.011957617,Low Risk
+18,298,Clothing,14.35,3,5,credit_card,3.72,0,1,0,0.3202689,Medium Risk
+56,186,Home & Kitchen,22.91,1,10,credit_card,3.99,0,0,0,0.11615227,Low Risk
+33,1081,Beauty,35.91,1,0,credit_card,9.08,2,0,0,0.14362794,Low Risk
+18,967,Home & Kitchen,26.34,1,10,paypal,4.23,3,1,0,0.21673834,Low Risk
+26,1309,Electronics,23.25,2,15,debit_card,4.21,2,0,0,0.21049893,Low Risk
+77,999,Sports,4.93,4,0,debit_card,11.45,1,0,0,0.018072382,Low Risk
+18,1007,Clothing,101.16,1,0,debit_card,4.47,4,0,0,0.21344,Low Risk
+44,348,Pet Supplies,9.49,2,0,debit_card,4.01,1,0,0,0.25539654,Low Risk
+42,1408,Electronics,21.74,1,15,credit_card,5.27,3,1,0,0.25452238,Low Risk
+37,464,Toys,9.91,1,0,paypal,8.09,0,1,0,0.13030654,Low Risk
+24,696,Books,19.2,2,0,cash_on_delivery,5.78,3,0,0,0.1495977,Low Risk
+36,1380,Pet Supplies,10.8,3,0,bank_transfer,4.05,2,0,0,0.12049702,Low Risk
+35,407,Home & Kitchen,9.48,1,0,debit_card,4.07,0,0,0,0.14201288,Low Risk
+55,790,Food,19.65,2,0,credit_card,10.74,3,0,0,0.13316534,Low Risk
+36,705,Sports,86.39,1,5,bank_transfer,5.16,2,0,0,0.13356197,Low Risk
+27,1151,Clothing,22.8,1,0,debit_card,5.06,2,0,0,0.17478065,Low Risk
+46,1148,Beauty,33.88,1,5,debit_card,6.34,5,0,0,0.1165603,Low Risk
+68,896,Office,19.18,1,0,paypal,5.67,1,0,0,0.054871745,Low Risk
+56,238,Electronics,28.9,1,0,bank_transfer,3.98,0,0,0,0.07832726,Low Risk
+48,92,Garden,22.77,2,10,credit_card,5.69,0,0,0,0.114020266,Low Risk
+56,940,Beauty,94.79,2,5,credit_card,4.65,3,0,0,0.18761346,Low Risk
+50,348,Clothing,42.35,1,40,paypal,4.31,0,1,0,0.2794261,Low Risk
+19,1229,Home & Kitchen,103.46,1,0,credit_card,5.39,4,0,0,0.15667622,Low Risk
+34,776,Pet Supplies,14.72,5,5,credit_card,8.84,2,0,0,0.12829776,Low Risk
+42,1064,Clothing,26.96,2,0,credit_card,5.75,2,0,0,0.20237279,Low Risk
+37,796,Electronics,15.22,1,0,credit_card,4.01,0,0,0,0.11337126,Low Risk
+63,1228,Electronics,42.63,1,0,credit_card,3.46,2,0,0,0.118876584,Low Risk
+34,1251,Sports,35.25,1,0,credit_card,5.21,2,0,0,0.15018463,Low Risk
+44,324,Electronics,15.27,3,0,credit_card,8.12,0,0,0,0.22946706,Low Risk
+35,1118,Electronics,21.28,2,5,bank_transfer,8.63,0,0,0,0.18013757,Low Risk
+46,731,Automotive,17.56,2,0,paypal,4.59,1,0,0,0.13162184,Low Risk
+48,767,Other,15.67,1,0,paypal,4.48,2,0,0,0.113926195,Low Risk
+55,498,Other,30.11,2,0,credit_card,9.08,1,0,0,0.048028704,Low Risk
+49,375,Sports,4.43,1,0,credit_card,3.44,0,0,0,0.1713056,Low Risk
+38,1166,Clothing,155.39,2,0,bank_transfer,7.68,2,1,0,0.08731952,Low Risk
+63,1278,Pet Supplies,21.45,1,0,debit_card,4.94,3,0,0,0.13769999,Low Risk
+32,1093,Electronics,67.46,1,5,cash_on_delivery,4.33,2,0,0,0.122614026,Low Risk
+21,487,Sports,7.0,1,0,bank_transfer,3.28,2,0,0,0.12951271,Low Risk
+31,843,Food,2.52,7,0,debit_card,4.41,2,0,0,0.077192016,Low Risk
+46,542,Electronics,8.63,1,0,credit_card,5.67,0,0,0,0.14148235,Low Risk
+46,802,Electronics,16.3,1,0,credit_card,3.45,8,0,0,0.16611491,Low Risk
+44,760,Clothing,6.74,1,0,credit_card,3.9,1,0,0,0.3523773,Medium Risk
+47,637,Books,14.19,4,0,bank_transfer,5.24,2,0,0,0.09269041,Low Risk
+49,921,Sports,9.36,2,5,credit_card,6.76,1,0,0,0.11623278,Low Risk
+38,153,Clothing,14.78,2,0,paypal,6.66,0,0,0,0.22470276,Low Risk
+18,851,Sports,18.78,2,0,credit_card,4.99,4,1,0,0.3159318,Medium Risk
+31,1235,Home & Kitchen,25.3,1,10,credit_card,4.28,4,0,0,0.15222633,Low Risk
+32,881,Food,10.24,1,0,credit_card,4.54,0,0,0,0.05860635,Low Risk
+46,683,Home & Kitchen,13.39,1,15,credit_card,4.3,0,1,0,0.14273734,Low Risk
+43,971,Books,115.11,1,10,credit_card,4.23,2,0,0,0.08493717,Low Risk
+49,1214,Books,18.2,2,0,debit_card,4.09,2,0,0,0.0571506,Low Risk
+44,1245,Home & Kitchen,30.68,1,0,credit_card,4.89,0,1,0,0.14049402,Low Risk
+47,739,Food,6.28,1,0,debit_card,5.12,4,0,0,0.08760355,Low Risk
+19,870,Clothing,34.89,1,0,credit_card,5.8,2,0,0,0.32428312,Medium Risk
+41,1057,Clothing,28.66,2,25,debit_card,3.49,3,1,0,0.432357,Medium Risk
+18,1209,Books,41.73,2,0,debit_card,4.18,3,0,0,0.050270613,Low Risk
+38,906,Sports,7.02,1,10,debit_card,6.45,7,0,0,0.16873246,Low Risk
+38,1101,Electronics,30.67,2,10,credit_card,4.97,3,0,0,0.25221258,Low Risk
+49,1195,Sports,42.49,2,0,credit_card,6.76,4,0,0,0.12986904,Low Risk
+35,400,Beauty,7.04,1,0,credit_card,6.45,2,1,0,0.16686237,Low Risk
+47,845,Clothing,35.99,4,0,credit_card,4.82,2,0,0,0.25119507,Low Risk
+50,1318,Clothing,13.3,1,5,debit_card,4.1,2,1,0,0.26965123,Low Risk
+42,832,Sports,9.76,1,5,credit_card,5.47,5,0,0,0.11444247,Low Risk
+22,161,Sports,5.47,3,0,bank_transfer,4.56,0,0,0,0.14201948,Low Risk
+26,1325,Sports,37.99,1,5,debit_card,6.83,3,0,0,0.18154311,Low Risk
+38,288,Automotive,16.87,2,0,credit_card,5.8,0,0,0,0.1241847,Low Risk
+32,736,Beauty,6.8,1,20,debit_card,3.47,0,0,0,0.2833661,Low Risk
+44,578,Office,23.35,1,5,credit_card,4.95,1,0,0,0.067815125,Low Risk
+45,848,Garden,116.96,1,0,paypal,5.13,3,0,0,0.105240844,Low Risk
+42,981,Toys,20.03,2,25,debit_card,3.95,0,0,0,0.1509059,Low Risk
+25,991,Electronics,26.44,2,10,debit_card,5.46,1,0,0,0.23158145,Low Risk
+64,924,Sports,7.05,1,0,credit_card,4.1,1,0,0,0.1229913,Low Risk
+38,677,Electronics,7.07,1,0,credit_card,5.55,2,0,0,0.18801448,Low Risk
+22,802,Clothing,46.62,1,5,debit_card,3.49,2,1,0,0.26491013,Low Risk
+51,1078,Electronics,15.31,1,5,debit_card,4.4,1,0,0,0.25741473,Low Risk
+78,781,Music,27.79,1,5,bank_transfer,7.77,4,0,0,0.032425888,Low Risk
+42,683,Home & Kitchen,26.44,1,0,debit_card,4.54,1,0,0,0.1689599,Low Risk
+53,634,Pet Supplies,48.27,1,20,credit_card,7.64,0,0,0,0.08929421,Low Risk
+43,1114,Electronics,11.91,2,0,credit_card,5.11,3,0,0,0.19151841,Low Risk
+67,442,Garden,14.38,1,0,credit_card,3.5,1,0,0,0.07086746,Low Risk
+46,753,Sports,9.64,1,5,cash_on_delivery,5.82,0,1,0,0.0776194,Low Risk
+32,759,Home & Kitchen,35.18,1,0,debit_card,5.0,0,1,0,0.16638048,Low Risk
+44,646,Electronics,12.49,5,5,debit_card,7.43,1,0,0,0.13497959,Low Risk
+52,686,Music,4.07,1,0,credit_card,4.32,0,0,0,0.19768263,Low Risk
+29,667,Jewelry,35.79,2,0,debit_card,8.56,1,0,0,0.13452293,Low Risk
+18,955,Clothing,38.46,2,0,bank_transfer,5.07,2,1,0,0.28392488,Low Risk
+37,291,Home & Kitchen,8.32,2,0,debit_card,4.39,0,0,0,0.18526135,Low Risk
+30,815,Food,19.8,1,0,credit_card,11.65,2,0,0,0.07056992,Low Risk
+51,594,Toys,61.49,1,0,debit_card,6.66,0,0,0,0.13227275,Low Risk
+36,868,Electronics,31.11,2,5,bank_transfer,6.35,2,1,0,0.17485976,Low Risk
+62,691,Books,10.69,1,70,bank_transfer,5.03,1,0,0,0.37383074,Medium Risk
+27,1360,Home & Kitchen,16.13,1,0,debit_card,5.14,5,0,0,0.22293057,Low Risk
+31,620,Beauty,14.36,2,20,paypal,3.47,4,0,0,0.21443607,Low Risk
+35,967,Clothing,80.01,1,40,credit_card,5.62,1,0,1,0.5467338,Medium Risk
+41,239,Electronics,111.36,1,0,bank_transfer,5.4,1,0,0,0.16499633,Low Risk
+32,563,Home & Kitchen,28.51,2,5,paypal,3.86,2,0,0,0.12482389,Low Risk
+41,356,Food,49.25,1,0,debit_card,11.07,1,0,0,0.07599504,Low Risk
+33,646,Toys,32.85,1,0,credit_card,8.24,2,0,0,0.14672749,Low Risk
+30,1134,Clothing,31.01,1,0,bank_transfer,5.32,4,0,0,0.13451125,Low Risk
+18,911,Books,73.0,1,15,debit_card,4.27,2,0,0,0.12452039,Low Risk
+35,664,Clothing,4.63,1,0,credit_card,3.59,1,0,0,0.41860783,Medium Risk
+28,939,Electronics,4.22,1,0,credit_card,6.22,4,1,0,0.18497147,Low Risk
+18,681,Automotive,14.62,1,0,credit_card,5.07,3,1,0,0.37263292,Medium Risk
+56,720,Electronics,6.06,1,10,paypal,9.13,2,0,0,0.13530326,Low Risk
+43,673,Clothing,7.78,1,5,bank_transfer,5.48,1,1,0,0.22398047,Low Risk
+38,265,Clothing,18.59,2,0,credit_card,4.92,1,0,0,0.23307039,Low Risk
+24,1191,Electronics,46.85,1,10,credit_card,4.12,3,0,0,0.15529864,Low Risk
+49,815,Electronics,15.25,1,0,debit_card,3.27,2,0,0,0.25146022,Low Risk
+60,282,Electronics,62.63,1,0,credit_card,6.97,2,0,0,0.15831798,Low Risk
+52,1257,Clothing,19.51,1,0,paypal,5.76,3,1,0,0.28274062,Low Risk
+32,1015,Electronics,55.81,5,40,debit_card,5.91,1,1,1,0.5678889,Medium Risk
+54,950,Office,10.93,1,0,credit_card,4.56,4,0,0,0.12589683,Low Risk
+61,987,Electronics,101.94,1,0,debit_card,4.03,2,0,0,0.15173832,Low Risk
+37,454,Sports,22.68,1,15,debit_card,5.07,3,1,0,0.24059924,Low Risk
+25,556,Books,7.34,2,0,credit_card,5.57,3,1,0,0.08103335,Low Risk
+44,922,Food,68.72,1,15,bank_transfer,10.49,2,0,0,0.14505409,Low Risk
+60,161,Electronics,14.79,1,0,debit_card,4.91,1,0,0,0.20646212,Low Risk
+60,819,Jewelry,36.68,4,0,paypal,6.14,3,0,0,0.09913923,Low Risk
+41,801,Sports,26.81,2,0,paypal,5.21,4,0,0,0.11759237,Low Risk
+45,833,Home & Kitchen,51.97,1,0,debit_card,6.64,3,0,0,0.13712297,Low Risk
+51,701,Food,17.55,1,20,debit_card,4.08,2,0,0,0.18056737,Low Risk
+45,827,Electronics,3.0,3,5,debit_card,5.09,4,0,0,0.15388197,Low Risk
+34,997,Beauty,17.67,2,5,credit_card,5.01,3,0,0,0.19171898,Low Risk
+29,564,Sports,145.87,1,10,bank_transfer,4.25,2,0,0,0.11926071,Low Risk
+58,284,Electronics,30.07,1,5,paypal,7.43,1,0,0,0.16046607,Low Risk
+51,997,Jewelry,24.89,1,0,credit_card,5.34,4,0,0,0.14389916,Low Risk
+55,664,Electronics,19.73,1,0,debit_card,6.8,1,0,0,0.21279894,Low Risk
+60,310,Electronics,70.12,1,10,debit_card,5.05,2,1,0,0.20092763,Low Risk
+45,392,Electronics,9.22,5,0,credit_card,5.51,1,0,0,0.18036996,Low Risk
+36,285,Home & Kitchen,12.76,2,0,credit_card,3.7,0,0,0,0.110996954,Low Risk
+56,688,Beauty,50.85,1,0,debit_card,6.43,0,0,0,0.13816075,Low Risk
+55,269,Sports,30.1,7,5,paypal,5.38,0,0,0,0.11419981,Low Risk
+18,951,Home & Kitchen,17.67,1,0,credit_card,4.61,4,0,0,0.2616501,Low Risk
+54,490,Books,25.0,1,0,credit_card,4.05,2,0,0,0.07594181,Low Risk
+32,847,Electronics,18.1,1,5,debit_card,8.13,0,1,0,0.22640257,Low Risk
+38,534,Books,46.16,2,0,credit_card,4.7,2,0,0,0.09364781,Low Risk
+44,451,Electronics,7.37,2,5,credit_card,5.86,3,0,0,0.21185617,Low Risk
+18,456,Automotive,23.8,1,0,debit_card,5.52,1,0,0,0.4931921,Medium Risk
+41,392,Beauty,6.22,1,0,credit_card,6.86,0,0,0,0.13215004,Low Risk
+37,1040,Toys,8.65,5,0,paypal,4.86,4,0,0,0.0800768,Low Risk
+33,1170,Automotive,15.63,2,0,debit_card,5.33,3,0,0,0.16010816,Low Risk
+18,618,Sports,15.43,1,10,debit_card,4.1,4,0,0,0.13799357,Low Risk
+46,762,Books,17.61,3,0,cash_on_delivery,4.65,3,0,0,0.075701706,Low Risk
+51,579,Home & Kitchen,6.81,1,5,credit_card,5.63,0,1,0,0.12948072,Low Risk
+49,383,Electronics,69.93,1,5,paypal,4.37,0,1,0,0.16793895,Low Risk
+50,610,Clothing,31.51,1,5,credit_card,4.61,0,0,0,0.23936965,Low Risk
+29,872,Clothing,16.18,2,20,credit_card,4.27,3,0,0,0.4877878,Medium Risk
+38,1047,Garden,29.1,1,15,paypal,4.78,2,0,0,0.10449589,Low Risk
+27,363,Toys,72.07,2,0,debit_card,4.95,1,0,0,0.24057426,Low Risk
+19,681,Home & Kitchen,6.71,2,0,bank_transfer,4.04,2,0,0,0.14740334,Low Risk
+40,967,Toys,6.92,1,5,paypal,5.4,1,0,0,0.13149536,Low Risk
+39,1070,Electronics,19.98,2,40,credit_card,5.63,1,1,1,0.5136475,Medium Risk
+51,1078,Home & Kitchen,8.07,1,0,credit_card,5.1,2,0,0,0.17365362,Low Risk
+52,1107,Electronics,11.09,1,0,credit_card,5.63,3,0,0,0.19236736,Low Risk
+46,593,Sports,29.02,1,5,credit_card,8.51,0,0,0,0.0945211,Low Risk
+18,245,Electronics,11.87,3,5,credit_card,5.93,2,0,0,0.24122697,Low Risk
+45,509,Garden,24.85,3,5,bank_transfer,5.45,3,0,0,0.12132882,Low Risk
+45,1005,Clothing,19.5,2,0,debit_card,5.79,2,0,0,0.19606242,Low Risk
+64,328,Sports,56.24,2,5,paypal,5.6,0,0,0,0.09414749,Low Risk
+50,810,Toys,7.37,1,0,paypal,10.74,0,0,0,0.12748271,Low Risk
+56,1054,Electronics,23.17,1,0,credit_card,4.91,1,0,0,0.18595795,Low Risk
+47,1069,Clothing,32.23,1,5,paypal,8.43,4,0,0,0.19059451,Low Risk
+54,940,Home & Kitchen,69.08,1,0,cash_on_delivery,5.83,1,0,0,0.18831572,Low Risk
+38,97,Home & Kitchen,23.92,1,10,credit_card,3.77,0,0,0,0.13897981,Low Risk
+52,1125,Electronics,25.15,4,0,credit_card,5.1,3,0,0,0.17787296,Low Risk
+43,202,Electronics,7.37,1,0,debit_card,4.88,0,1,0,0.1871179,Low Risk
+18,410,Clothing,22.01,1,15,paypal,6.21,0,0,0,0.27264893,Low Risk
+31,1187,Automotive,19.53,1,10,credit_card,5.58,3,0,0,0.21919377,Low Risk
+50,487,Garden,28.17,3,0,debit_card,7.08,2,0,0,0.36070117,Medium Risk
+50,1031,Sports,44.95,2,10,credit_card,5.27,4,0,0,0.14248255,Low Risk
+73,274,Garden,32.96,1,90,credit_card,5.94,0,0,0,0.15533412,Low Risk
+18,849,Clothing,14.07,1,0,bank_transfer,9.29,2,1,0,0.33348095,Medium Risk
+24,589,Home & Kitchen,80.86,4,0,credit_card,4.2,1,0,0,0.15366657,Low Risk
+52,790,Beauty,16.93,4,0,paypal,4.21,1,0,0,0.13696925,Low Risk
+39,925,Books,28.47,1,0,debit_card,5.48,2,0,0,0.123248,Low Risk
+36,457,Electronics,71.02,3,0,debit_card,4.38,0,0,0,0.30419704,Medium Risk
+48,880,Clothing,4.0,2,5,paypal,5.91,1,0,0,0.24268351,Low Risk
+61,1189,Clothing,16.37,1,0,debit_card,4.95,2,0,0,0.24881008,Low Risk
+50,514,Electronics,13.92,3,0,credit_card,4.96,0,1,0,0.21292943,Low Risk
+30,990,Beauty,4.95,1,0,credit_card,6.22,2,1,0,0.1382438,Low Risk
+52,389,Clothing,36.34,1,0,credit_card,7.41,1,1,0,0.19772442,Low Risk
+54,578,Clothing,17.46,2,0,credit_card,4.56,1,0,0,0.19539541,Low Risk
+21,676,Pet Supplies,10.11,2,10,cash_on_delivery,4.33,2,0,0,0.15137736,Low Risk
+18,509,Electronics,45.88,2,0,credit_card,4.52,0,1,0,0.22487187,Low Risk
+65,1017,Electronics,27.15,1,0,debit_card,5.98,2,0,0,0.15480027,Low Risk
+46,602,Sports,5.84,2,0,paypal,5.48,0,0,0,0.123077735,Low Risk
+49,813,Books,44.74,3,0,credit_card,5.17,0,0,0,0.11114239,Low Risk
+57,452,Toys,21.33,1,10,debit_card,5.68,2,1,0,0.2268173,Low Risk
+44,472,Home & Kitchen,16.78,1,0,debit_card,9.0,0,0,0,0.20801398,Low Risk
+71,1058,Clothing,23.03,2,0,credit_card,9.38,3,0,0,0.13047227,Low Risk
+37,906,Electronics,23.88,2,0,paypal,5.56,0,0,0,0.16262613,Low Risk
+47,771,Electronics,89.38,2,0,credit_card,5.77,5,0,0,0.17951041,Low Risk
+38,500,Clothing,45.85,1,0,cash_on_delivery,3.37,0,0,0,0.05659981,Low Risk
+34,782,Electronics,9.94,1,15,paypal,7.09,0,0,0,0.3101492,Medium Risk
+41,1158,Clothing,33.07,2,15,credit_card,4.61,6,0,0,0.35273486,Medium Risk
+20,897,Electronics,13.66,1,5,debit_card,3.24,3,0,0,0.31711352,Medium Risk
+18,444,Home & Kitchen,11.32,1,10,debit_card,6.91,1,0,0,0.28251427,Low Risk
+57,165,Jewelry,10.52,7,0,paypal,4.28,0,0,0,0.09478474,Low Risk
+33,918,Home & Kitchen,59.76,1,0,debit_card,8.15,0,0,0,0.17084812,Low Risk
+65,658,Electronics,20.27,1,10,bank_transfer,6.31,1,0,0,0.1852214,Low Risk
+27,964,Home & Kitchen,7.44,1,0,debit_card,5.46,5,0,0,0.17131169,Low Risk
+41,943,Home & Kitchen,33.47,1,15,bank_transfer,4.43,2,0,0,0.19563238,Low Risk
+43,723,Music,16.64,1,0,credit_card,12.02,1,0,0,0.22299047,Low Risk
+64,200,Clothing,24.33,1,0,debit_card,5.05,0,0,0,0.19714813,Low Risk
+48,234,Beauty,17.63,1,0,debit_card,4.14,1,1,0,0.13111714,Low Risk
+42,861,Home & Kitchen,17.99,1,0,debit_card,5.17,2,0,0,0.21531399,Low Risk
+63,770,Garden,87.67,2,0,credit_card,5.65,3,0,0,0.06893943,Low Risk
+32,1036,Automotive,25.77,1,0,paypal,6.94,2,0,0,0.102497704,Low Risk
+33,1172,Other,120.67,2,0,debit_card,5.55,7,0,0,0.13756062,Low Risk
+52,1025,Books,44.09,2,15,credit_card,7.34,4,0,0,0.055312723,Low Risk
+18,973,Automotive,10.02,2,0,credit_card,8.27,1,0,0,0.3714373,Medium Risk
+64,368,Clothing,38.75,1,10,credit_card,5.63,0,0,0,0.1736396,Low Risk
+43,740,Sports,6.16,1,5,credit_card,4.85,4,0,0,0.13286851,Low Risk
+26,809,Electronics,5.63,1,0,debit_card,5.71,3,0,0,0.17545359,Low Risk
+35,757,Food,10.62,1,5,credit_card,4.14,0,0,0,0.043707002,Low Risk
+25,299,Electronics,15.89,2,5,credit_card,4.07,1,0,0,0.18974145,Low Risk
+66,200,Home & Kitchen,10.75,1,10,credit_card,5.29,0,0,0,0.1506328,Low Risk
+60,423,Clothing,7.71,1,0,debit_card,5.56,0,1,0,0.18537308,Low Risk
+37,853,Electronics,9.75,1,0,bank_transfer,9.4,2,0,0,0.20023821,Low Risk
+35,678,Clothing,26.71,2,15,bank_transfer,7.14,0,1,0,0.2873779,Low Risk
+56,226,Sports,19.37,3,0,credit_card,8.18,0,0,0,0.14538312,Low Risk
+53,741,Beauty,75.43,1,10,paypal,8.78,1,0,0,0.13381782,Low Risk
+35,803,Books,3.86,1,5,credit_card,3.78,3,0,0,0.14683019,Low Risk
+31,610,Sports,13.71,2,5,paypal,5.54,8,0,0,0.14639759,Low Risk
+48,1111,Sports,9.39,1,5,credit_card,6.25,3,0,0,0.1537544,Low Risk
+36,395,Books,13.45,1,0,debit_card,4.15,2,0,0,0.1698488,Low Risk
+36,1192,Electronics,5.31,7,0,credit_card,4.6,5,0,0,0.20171979,Low Risk
+48,314,Electronics,23.95,2,0,cash_on_delivery,4.39,4,0,0,0.06868019,Low Risk
+67,821,Home & Kitchen,3.59,1,0,debit_card,4.99,4,0,0,0.1706565,Low Risk
+47,1114,Beauty,6.07,2,0,debit_card,5.87,2,0,0,0.14607568,Low Risk
+34,204,Music,75.12,1,0,debit_card,7.48,0,0,0,0.19920832,Low Risk
+56,203,Music,17.08,1,20,bank_transfer,11.98,1,0,0,0.3542741,Medium Risk
+26,726,Clothing,32.76,4,0,paypal,7.18,1,1,0,0.26251477,Low Risk
+54,977,Toys,29.31,5,0,credit_card,9.14,0,0,0,0.07283918,Low Risk
+32,777,Books,6.42,1,0,credit_card,5.25,1,0,0,0.10402849,Low Risk
+49,1136,Pet Supplies,69.36,2,0,bank_transfer,5.95,3,0,0,0.040424068,Low Risk
+45,1021,Clothing,19.24,2,0,debit_card,4.73,4,1,0,0.2186397,Low Risk
+26,1056,Books,12.15,1,0,credit_card,4.96,6,0,0,0.12364189,Low Risk
+60,608,Books,84.91,1,10,bank_transfer,6.85,0,0,0,0.11380042,Low Risk
+69,123,Office,14.06,1,0,bank_transfer,4.02,1,0,0,0.033721123,Low Risk
+18,905,Automotive,8.08,1,0,credit_card,3.21,1,0,0,0.28218824,Low Risk
+41,577,Clothing,2.3,2,5,credit_card,11.85,1,0,0,0.12316946,Low Risk
+37,646,Beauty,17.97,1,0,credit_card,4.23,0,0,0,0.15605626,Low Risk
+23,687,Food,15.89,2,40,credit_card,4.5,1,0,1,0.53124595,Medium Risk
+35,351,Food,1.23,1,25,paypal,5.17,0,0,0,0.0635487,Low Risk
+19,531,Clothing,19.63,1,0,credit_card,6.56,2,0,0,0.21145341,Low Risk
+35,239,Pet Supplies,22.68,1,0,debit_card,6.02,0,0,0,0.10920146,Low Risk
+67,976,Clothing,10.74,1,0,credit_card,4.76,3,0,0,0.19491324,Low Risk
+26,470,Clothing,34.13,4,5,debit_card,6.77,1,1,0,0.37596413,Medium Risk
+37,720,Food,57.84,1,0,cash_on_delivery,6.3,0,0,0,0.023415823,Low Risk
+51,1160,Clothing,8.95,1,0,paypal,5.2,0,0,0,0.28269506,Low Risk
+44,1067,Clothing,20.94,1,0,credit_card,5.1,6,0,0,0.2041354,Low Risk
+56,1178,Clothing,6.9,1,0,cash_on_delivery,5.88,1,1,0,0.24728625,Low Risk
+38,1285,Sports,58.26,4,0,cash_on_delivery,8.79,3,0,0,0.07938959,Low Risk
+56,323,Food,16.75,1,15,credit_card,5.35,1,0,0,0.0455308,Low Risk
+19,319,Beauty,28.2,1,0,debit_card,8.82,0,0,0,0.19588746,Low Risk
+34,603,Clothing,26.65,6,15,debit_card,5.28,0,0,0,0.3012125,Medium Risk
+43,228,Electronics,12.22,2,0,credit_card,6.85,0,0,0,0.14596449,Low Risk
+33,311,Electronics,9.03,2,0,credit_card,4.42,0,0,0,0.1894504,Low Risk
+35,298,Food,6.19,1,30,debit_card,8.22,2,0,0,0.21869189,Low Risk
+18,946,Electronics,7.86,1,0,credit_card,11.46,2,0,0,0.32087854,Medium Risk
+52,529,Clothing,20.26,1,0,credit_card,5.94,2,0,0,0.13231297,Low Risk
+18,937,Electronics,36.2,3,5,debit_card,5.98,4,0,0,0.28260908,Low Risk
+43,685,Electronics,28.42,2,10,debit_card,5.93,4,0,0,0.20146252,Low Risk
+45,881,Sports,19.56,1,0,credit_card,4.56,0,0,0,0.12750927,Low Risk
+27,281,Home & Kitchen,51.39,1,0,bank_transfer,4.58,2,0,0,0.120074704,Low Risk
+18,1139,Electronics,22.29,3,0,paypal,4.4,1,1,0,0.18451005,Low Risk
+29,296,Electronics,9.12,3,0,paypal,4.54,0,0,0,0.1523053,Low Risk
+32,1029,Electronics,7.7,1,10,debit_card,11.23,3,0,0,0.2406744,Low Risk
+50,925,Home & Kitchen,25.67,1,0,credit_card,7.5,6,0,0,0.12696262,Low Risk
+34,774,Clothing,13.29,3,0,credit_card,5.48,3,0,0,0.2642709,Low Risk
+50,952,Clothing,18.05,8,0,debit_card,7.76,0,1,0,0.08647466,Low Risk
+37,980,Electronics,10.81,1,20,paypal,5.66,2,0,0,0.24109125,Low Risk
+34,625,Books,23.42,2,0,paypal,6.2,5,0,0,0.09156596,Low Risk
+32,742,Clothing,15.85,1,0,credit_card,5.58,4,0,0,0.24377778,Low Risk
+30,681,Books,25.81,1,0,paypal,7.28,3,0,0,0.08646614,Low Risk
+60,754,Jewelry,31.69,1,0,paypal,4.82,2,0,0,0.107462786,Low Risk
+45,236,Beauty,30.52,1,25,credit_card,6.0,0,0,0,0.3534106,Medium Risk
+46,1339,Books,17.34,1,0,credit_card,7.59,3,0,0,0.06235993,Low Risk
+56,428,Electronics,5.61,2,0,paypal,4.3,3,0,0,0.15689667,Low Risk
+45,647,Books,36.74,1,0,debit_card,5.4,1,1,0,0.08698887,Low Risk
+27,877,Electronics,18.52,1,15,debit_card,4.39,1,0,0,0.26420107,Low Risk
+50,200,Garden,16.56,3,5,credit_card,5.66,0,0,0,0.17314918,Low Risk
+51,555,Toys,15.36,1,5,bank_transfer,5.42,3,0,0,0.12643419,Low Risk
+58,638,Clothing,91.57,1,0,credit_card,8.92,2,0,0,0.21310273,Low Risk
+54,885,Books,19.91,1,5,credit_card,5.04,2,0,0,0.12059778,Low Risk
+20,516,Clothing,16.97,1,10,credit_card,5.07,1,0,0,0.27399147,Low Risk
+33,1148,Electronics,12.46,1,0,paypal,3.57,3,0,0,0.1391073,Low Risk
+18,615,Other,20.33,1,0,bank_transfer,4.66,1,0,0,0.07804493,Low Risk
+51,455,Automotive,6.99,1,15,debit_card,7.14,1,1,0,0.20115998,Low Risk
+30,827,Home & Kitchen,44.04,1,0,credit_card,5.4,3,0,0,0.15494135,Low Risk
+43,429,Books,19.03,1,10,paypal,5.04,4,0,0,0.1175263,Low Risk
+46,451,Toys,14.76,1,30,paypal,11.19,0,0,0,0.22631204,Low Risk
+64,760,Books,5.59,1,0,debit_card,3.76,0,0,0,0.08872444,Low Risk
+25,1037,Clothing,16.94,2,90,credit_card,8.45,3,1,1,0.71692616,High Risk
+56,1293,Beauty,171.76,1,20,bank_transfer,8.88,3,0,0,0.1298917,Low Risk
+42,540,Automotive,37.12,1,0,credit_card,10.18,0,0,0,0.096697874,Low Risk
+21,688,Beauty,10.27,1,10,credit_card,5.64,3,0,0,0.18327448,Low Risk
+21,327,Jewelry,44.66,2,0,credit_card,5.93,1,0,0,0.17256466,Low Risk
+23,1153,Clothing,30.13,1,5,paypal,4.11,4,1,0,0.21784025,Low Risk
+42,1241,Clothing,13.82,3,5,credit_card,3.47,1,0,0,0.24102719,Low Risk
+51,1188,Books,75.53,1,5,credit_card,7.3,3,0,0,0.046708714,Low Risk
+42,522,Electronics,38.85,3,0,debit_card,4.21,3,1,0,0.18704718,Low Risk
+42,1082,Home & Kitchen,12.72,1,10,credit_card,6.46,1,1,0,0.15533699,Low Risk
+48,626,Pet Supplies,3.96,1,5,bank_transfer,5.97,4,0,0,0.15601996,Low Risk
+32,1005,Clothing,2.75,1,0,debit_card,4.43,1,0,0,0.3233786,Medium Risk
+68,914,Automotive,5.21,2,0,paypal,7.59,1,0,0,0.0975567,Low Risk
+25,1079,Home & Kitchen,18.56,1,0,cash_on_delivery,5.55,2,0,0,0.13635308,Low Risk
+27,822,Other,41.29,1,5,credit_card,5.52,0,0,0,0.049019814,Low Risk
+37,696,Clothing,11.31,1,0,debit_card,4.13,3,0,0,0.241305,Low Risk
+25,594,Beauty,36.55,1,5,credit_card,4.93,1,1,0,0.15340063,Low Risk
+30,554,Beauty,46.53,2,0,bank_transfer,5.63,2,0,0,0.1144524,Low Risk
+61,770,Food,13.77,2,0,cash_on_delivery,5.24,4,0,0,0.07586988,Low Risk
+46,985,Music,29.84,1,30,debit_card,4.51,2,0,0,0.339146,Medium Risk
+48,963,Food,30.55,1,0,debit_card,5.23,3,0,0,0.10567168,Low Risk
+38,902,Music,54.64,2,10,paypal,5.42,1,0,0,0.1466477,Low Risk
+51,967,Music,20.17,1,0,credit_card,8.06,1,0,0,0.15176056,Low Risk
+41,1373,Books,50.55,2,0,debit_card,4.96,8,0,0,0.07733045,Low Risk
+29,903,Home & Kitchen,43.02,2,0,debit_card,5.48,3,0,0,0.14964536,Low Risk
+59,438,Office,32.57,1,0,cash_on_delivery,5.76,1,0,0,0.07306377,Low Risk
+63,635,Electronics,65.29,3,0,debit_card,5.17,1,0,0,0.17161521,Low Risk
+21,534,Electronics,11.7,1,25,debit_card,6.37,4,0,0,0.3017456,Medium Risk
+28,1030,Electronics,40.18,2,0,debit_card,4.9,4,0,0,0.16991107,Low Risk
+30,622,Sports,9.73,2,0,debit_card,4.64,4,0,0,0.1506498,Low Risk
+49,660,Other,16.7,1,0,bank_transfer,5.91,0,0,0,0.033203617,Low Risk
+37,299,Sports,139.87,1,0,paypal,4.66,1,0,0,0.09620708,Low Risk
+48,1211,Garden,23.79,1,10,credit_card,8.96,2,0,0,0.066441715,Low Risk
+23,1221,Pet Supplies,55.29,2,5,credit_card,3.79,1,0,0,0.10384417,Low Risk
+25,969,Electronics,13.97,3,5,debit_card,5.3,2,1,0,0.25957808,Low Risk
+53,459,Beauty,11.53,2,0,credit_card,6.99,2,0,0,0.14416403,Low Risk
+20,561,Home & Kitchen,39.4,2,30,paypal,5.43,2,0,0,0.3057464,Medium Risk
+21,659,Electronics,4.45,1,0,debit_card,4.91,0,0,0,0.21095991,Low Risk
+37,729,Home & Kitchen,10.19,1,0,cash_on_delivery,5.0,2,1,0,0.11191393,Low Risk
+18,423,Toys,22.82,1,0,paypal,5.44,0,0,0,0.14669104,Low Risk
+33,265,Home & Kitchen,12.92,1,0,debit_card,5.0,0,0,0,0.13714226,Low Risk
+36,1058,Electronics,6.62,2,0,bank_transfer,5.95,3,0,0,0.14967385,Low Risk
+51,782,Electronics,6.17,3,0,debit_card,6.12,0,0,0,0.21929926,Low Risk
+60,833,Automotive,43.03,1,5,debit_card,6.37,2,0,0,0.14465353,Low Risk
+18,446,Beauty,8.32,4,10,bank_transfer,4.02,0,0,0,0.16896714,Low Risk
+22,819,Sports,22.73,1,0,debit_card,5.73,6,0,0,0.15813665,Low Risk
+27,122,Electronics,51.19,1,0,bank_transfer,4.65,1,0,0,0.15255709,Low Risk
+18,1281,Sports,9.82,2,0,credit_card,7.08,6,1,0,0.2114507,Low Risk
+26,867,Garden,48.78,1,10,debit_card,8.1,1,0,0,0.13113184,Low Risk
+33,714,Automotive,11.23,1,5,paypal,6.02,1,0,0,0.1424325,Low Risk
+42,398,Clothing,80.74,2,20,credit_card,5.38,0,0,0,0.43524015,Medium Risk
+37,512,Home & Kitchen,20.24,1,10,credit_card,7.23,1,0,0,0.21737345,Low Risk
+23,619,Books,15.17,1,0,credit_card,5.17,3,0,0,0.17439482,Low Risk
+45,611,Electronics,23.9,3,0,credit_card,7.37,2,0,0,0.21088189,Low Risk
+53,603,Automotive,28.01,5,5,credit_card,6.34,0,0,0,0.13871561,Low Risk
+46,795,Clothing,23.35,1,10,credit_card,4.25,0,1,0,0.19396214,Low Risk
+30,489,Home & Kitchen,40.18,1,90,credit_card,4.79,2,0,1,0.7154902,High Risk
+56,475,Electronics,41.53,1,0,paypal,7.7,0,0,0,0.15218677,Low Risk
+45,674,Clothing,14.78,5,0,credit_card,4.8,1,1,0,0.27839527,Low Risk
+20,915,Other,13.2,3,5,credit_card,5.31,2,0,0,0.084045455,Low Risk
+35,910,Office,34.78,7,0,credit_card,7.44,1,0,0,0.103046,Low Risk
+51,1384,Electronics,12.44,1,0,debit_card,4.39,2,1,0,0.12513314,Low Risk
+46,1321,Other,33.66,3,5,paypal,4.15,2,1,0,0.15431209,Low Risk
+44,777,Home & Kitchen,47.41,2,0,paypal,7.66,5,1,0,0.13358536,Low Risk
+66,524,Clothing,24.79,2,5,credit_card,4.89,2,1,0,0.10966766,Low Risk
+49,985,Home & Kitchen,9.73,1,0,debit_card,8.41,4,0,0,0.124218024,Low Risk
+50,634,Garden,13.9,1,5,debit_card,5.01,4,0,0,0.17717019,Low Risk
+36,350,Electronics,7.77,1,0,credit_card,6.42,0,0,0,0.18023142,Low Risk
+29,453,Home & Kitchen,18.34,1,5,credit_card,4.51,0,0,0,0.223362,Low Risk
+33,397,Electronics,67.81,1,5,credit_card,6.59,0,0,0,0.22950867,Low Risk
+32,1110,Clothing,63.18,1,0,credit_card,4.48,7,0,0,0.24427427,Low Risk
+23,564,Food,13.23,2,50,credit_card,4.16,1,0,0,0.49954724,Medium Risk
+32,640,Home & Kitchen,4.98,1,0,debit_card,3.5,1,0,0,0.21791553,Low Risk
+47,922,Beauty,26.68,3,5,cash_on_delivery,4.95,1,0,0,0.17626792,Low Risk
+44,661,Electronics,26.21,1,5,credit_card,5.76,4,0,0,0.17690171,Low Risk
+49,905,Toys,31.67,1,0,credit_card,6.83,2,1,0,0.1267778,Low Risk
+40,497,Electronics,9.39,5,0,debit_card,6.03,0,0,0,0.19021414,Low Risk
+60,518,Electronics,45.75,1,30,paypal,6.29,1,0,0,0.271579,Low Risk
+23,672,Automotive,12.28,1,0,bank_transfer,5.7,4,0,0,0.15060356,Low Risk
+18,987,Jewelry,60.39,2,0,credit_card,6.95,6,0,0,0.21858,Low Risk
+75,445,Toys,7.81,1,5,debit_card,4.6,0,0,0,0.017947594,Low Risk
+56,750,Food,87.33,1,0,credit_card,9.93,0,0,0,0.08260658,Low Risk
+39,1077,Clothing,2.42,1,0,credit_card,4.09,5,0,0,0.31553775,Medium Risk
+50,523,Toys,5.76,2,10,paypal,4.56,1,0,0,0.049513042,Low Risk
+32,454,Home & Kitchen,106.32,5,5,debit_card,4.61,0,0,0,0.28463373,Low Risk
+49,638,Jewelry,19.18,2,0,credit_card,4.56,1,0,0,0.14937688,Low Risk
+57,137,Books,12.49,1,0,cash_on_delivery,5.85,0,0,0,0.095933735,Low Risk
+48,628,Sports,6.51,1,5,debit_card,5.67,5,0,0,0.14342374,Low Risk
+51,1032,Toys,13.88,1,0,credit_card,4.02,5,0,0,0.14959858,Low Risk
+45,255,Electronics,7.72,1,0,bank_transfer,7.81,0,0,0,0.13058844,Low Risk
+42,787,Food,17.04,1,5,paypal,5.34,4,0,0,0.15982857,Low Risk
+42,740,Other,13.5,1,0,debit_card,4.42,1,0,0,0.06589174,Low Risk
+43,1064,Books,20.88,2,5,credit_card,4.91,3,0,0,0.13316411,Low Risk
+41,461,Pet Supplies,32.84,1,0,credit_card,4.2,2,0,0,0.10701044,Low Risk
+38,932,Clothing,13.41,5,0,paypal,7.48,3,0,0,0.15122221,Low Risk
+32,710,Clothing,18.8,1,0,cash_on_delivery,4.38,1,0,0,0.070539206,Low Risk
+38,1074,Garden,28.22,1,10,debit_card,8.08,4,0,0,0.17669916,Low Risk
+46,1220,Clothing,22.52,1,0,paypal,7.01,2,0,0,0.20102726,Low Risk
+62,175,Clothing,96.26,1,0,paypal,9.76,0,0,1,0.5295205,Medium Risk
+62,1008,Electronics,5.28,2,0,credit_card,6.13,1,1,0,0.1432758,Low Risk
+18,592,Pet Supplies,14.25,1,20,credit_card,5.25,1,0,0,0.44839606,Medium Risk
+35,480,Home & Kitchen,21.76,1,0,credit_card,4.84,1,1,0,0.18296939,Low Risk
+49,586,Home & Kitchen,49.03,2,0,credit_card,5.73,0,0,0,0.1164331,Low Risk
+18,508,Automotive,23.89,2,0,paypal,5.04,2,1,0,0.3572549,Medium Risk
+32,627,Home & Kitchen,23.5,1,10,bank_transfer,5.09,0,0,0,0.16822098,Low Risk
+23,186,Beauty,33.61,1,40,credit_card,4.18,0,0,1,0.5399638,Medium Risk
+63,1032,Clothing,23.22,3,20,paypal,3.6,2,0,0,0.27455315,Low Risk
+23,284,Electronics,4.68,1,0,debit_card,4.95,1,0,0,0.20885609,Low Risk
+58,599,Clothing,38.02,3,0,debit_card,3.91,2,0,0,0.26220694,Low Risk
+28,1282,Automotive,22.85,1,0,debit_card,4.43,1,0,0,0.21399856,Low Risk
+29,561,Home & Kitchen,56.92,1,15,cash_on_delivery,11.26,3,1,0,0.12282728,Low Risk
+61,992,Food,5.04,1,0,credit_card,3.52,2,0,0,0.11613331,Low Risk
+18,428,Food,29.85,1,0,paypal,4.68,0,0,0,0.054442417,Low Risk
+35,902,Home & Kitchen,264.41,1,0,credit_card,5.92,4,0,0,0.10106091,Low Risk
+53,732,Home & Kitchen,6.67,1,0,credit_card,8.88,3,0,0,0.10417287,Low Risk
+64,566,Food,18.92,1,0,bank_transfer,4.39,3,1,0,0.11171309,Low Risk
+45,1025,Beauty,6.52,1,0,debit_card,8.53,3,0,0,0.10147576,Low Risk
+60,703,Beauty,7.84,1,0,credit_card,8.12,2,0,0,0.104774736,Low Risk
+55,1128,Sports,16.26,1,0,paypal,11.68,2,0,0,0.19428203,Low Risk
+48,416,Electronics,32.15,3,0,paypal,4.2,0,0,0,0.13075724,Low Risk
+23,925,Automotive,33.58,1,0,bank_transfer,5.06,3,0,0,0.14295647,Low Risk
+40,176,Garden,21.78,1,0,credit_card,6.13,2,0,0,0.18205696,Low Risk
+50,672,Office,10.64,1,25,credit_card,5.45,0,0,0,0.12532024,Low Risk
+26,731,Home & Kitchen,24.4,1,0,paypal,8.8,0,0,0,0.10981821,Low Risk
+59,730,Electronics,39.96,1,5,bank_transfer,5.33,0,0,0,0.12857974,Low Risk
+52,709,Food,8.93,4,0,debit_card,8.09,0,0,0,0.03356338,Low Risk
+50,484,Clothing,36.87,1,0,credit_card,4.3,1,0,0,0.17091715,Low Risk
+60,785,Toys,14.41,2,20,credit_card,5.1,1,0,0,0.25736052,Low Risk
+42,610,Clothing,29.3,1,0,credit_card,7.73,2,0,0,0.18792866,Low Risk
+44,1230,Automotive,33.0,1,0,paypal,8.86,0,0,0,0.0745226,Low Risk
+34,799,Clothing,7.11,1,20,debit_card,4.07,1,1,0,0.38356066,Medium Risk
+51,629,Books,8.94,1,0,credit_card,5.43,0,0,0,0.07470212,Low Risk
+38,1102,Toys,33.97,1,20,credit_card,7.08,4,0,0,0.26143625,Low Risk
+56,248,Electronics,12.16,2,0,credit_card,4.97,0,0,0,0.12625274,Low Risk
+39,696,Other,13.23,1,0,bank_transfer,8.48,0,0,0,0.027655521,Low Risk
+45,257,Other,15.37,1,10,debit_card,5.54,1,0,0,0.060967308,Low Risk
+51,925,Garden,6.64,2,5,paypal,4.89,1,0,0,0.0868207,Low Risk
+62,546,Toys,8.46,2,15,credit_card,6.72,0,0,0,0.10200191,Low Risk
+39,1288,Books,12.09,1,5,paypal,3.46,1,0,0,0.09966069,Low Risk
+37,710,Books,32.31,2,0,credit_card,5.84,2,0,0,0.098744996,Low Risk
+33,723,Clothing,10.46,1,5,debit_card,4.34,1,1,0,0.2196311,Low Risk
+38,768,Sports,6.67,3,0,paypal,5.35,0,0,0,0.115774944,Low Risk
+64,1172,Electronics,48.81,1,40,credit_card,5.37,3,0,0,0.30665368,Medium Risk
+56,392,Clothing,32.59,1,0,debit_card,5.54,1,1,0,0.23247765,Low Risk
+57,570,Jewelry,22.28,1,0,debit_card,5.17,3,1,0,0.15692012,Low Risk
+29,710,Sports,12.67,2,5,paypal,3.42,3,0,0,0.09785271,Low Risk
+37,542,Toys,12.33,1,15,credit_card,5.96,2,0,0,0.108434744,Low Risk
+73,945,Beauty,14.79,1,10,credit_card,3.4,2,0,0,0.16342737,Low Risk
+41,760,Electronics,72.44,8,0,credit_card,4.02,1,1,0,0.08630522,Low Risk
+19,668,Electronics,38.63,1,0,cash_on_delivery,5.9,4,0,0,0.14833464,Low Risk
+43,501,Other,30.54,3,0,credit_card,3.56,0,0,0,0.072086014,Low Risk
+24,330,Electronics,20.15,1,0,credit_card,4.11,1,0,0,0.1799628,Low Risk
+52,1248,Home & Kitchen,19.26,2,0,debit_card,7.24,1,1,0,0.19440904,Low Risk
+35,1063,Office,5.73,1,0,credit_card,4.19,2,0,0,0.0983193,Low Risk
+32,633,Toys,13.88,1,0,credit_card,4.27,3,0,0,0.19087927,Low Risk
+33,1049,Clothing,11.81,2,0,bank_transfer,5.72,5,0,0,0.15012065,Low Risk
+40,618,Clothing,33.02,1,20,credit_card,11.68,0,0,0,0.3883803,Medium Risk
+18,1138,Food,22.05,2,5,debit_card,6.56,1,0,0,0.045746915,Low Risk
+51,910,Books,24.4,1,10,credit_card,5.27,1,0,0,0.077589154,Low Risk
+18,235,Electronics,4.07,1,0,bank_transfer,5.23,0,1,0,0.3807544,Medium Risk
+48,1303,Electronics,27.99,1,5,credit_card,7.45,3,0,0,0.16562079,Low Risk
+66,258,Books,15.08,1,15,debit_card,5.16,0,0,0,0.12246941,Low Risk
+38,663,Garden,38.03,1,0,credit_card,13.54,1,0,0,0.13972063,Low Risk
+55,276,Home & Kitchen,12.45,10,10,credit_card,4.54,0,0,0,0.07861918,Low Risk
+26,943,Home & Kitchen,26.58,2,0,credit_card,5.54,2,0,0,0.19525898,Low Risk
+30,280,Books,19.59,1,0,credit_card,5.12,0,0,0,0.1626714,Low Risk
+45,424,Food,12.68,2,5,credit_card,4.84,1,0,0,0.04018665,Low Risk
+48,587,Home & Kitchen,36.3,8,5,bank_transfer,5.16,0,0,0,0.06439853,Low Risk
+37,1145,Clothing,12.28,3,0,paypal,4.47,6,0,0,0.22157632,Low Risk
+45,1202,Electronics,57.14,2,0,paypal,4.36,5,0,0,0.11087309,Low Risk
+47,954,Beauty,5.98,4,0,debit_card,4.41,2,0,0,0.1765002,Low Risk
+22,801,Food,6.97,2,20,bank_transfer,4.72,1,0,0,0.39585334,Medium Risk
+50,456,Pet Supplies,27.28,1,10,debit_card,6.98,3,0,0,0.20741431,Low Risk
+29,359,Clothing,5.68,1,0,paypal,7.08,3,0,0,0.21259257,Low Risk
+71,945,Electronics,30.82,1,5,debit_card,3.77,1,0,0,0.120444864,Low Risk
+43,514,Beauty,5.91,1,15,credit_card,4.38,3,0,0,0.19042897,Low Risk
+56,533,Books,29.28,2,0,credit_card,6.53,1,1,0,0.06773146,Low Risk
+18,1287,Food,22.79,1,0,bank_transfer,4.51,5,0,0,0.07531025,Low Risk
+47,681,Clothing,2.79,3,0,cash_on_delivery,5.51,3,0,0,0.16320686,Low Risk
+76,237,Home & Kitchen,15.41,1,0,credit_card,5.24,0,0,0,0.14511648,Low Risk
+44,957,Clothing,20.03,1,10,paypal,5.82,0,1,0,0.24884687,Low Risk
+35,801,Sports,20.8,1,0,debit_card,5.21,2,0,0,0.14664029,Low Risk
+32,1208,Other,23.86,1,0,credit_card,5.95,2,1,0,0.124395505,Low Risk
+42,931,Garden,12.04,3,0,paypal,5.27,1,0,0,0.06485896,Low Risk
+37,1254,Home & Kitchen,13.09,1,10,credit_card,4.46,7,1,0,0.20988122,Low Risk
+42,1163,Electronics,12.77,1,0,credit_card,8.72,2,0,0,0.10939954,Low Risk
+60,562,Books,102.93,4,0,credit_card,4.33,0,0,0,0.15719421,Low Risk
+36,974,Home & Kitchen,18.04,1,0,debit_card,6.75,0,0,0,0.15759718,Low Risk
+55,947,Sports,16.48,3,15,debit_card,4.5,4,1,0,0.15717185,Low Risk
+41,593,Automotive,9.37,1,0,credit_card,5.88,1,0,0,0.11708437,Low Risk
+41,177,Clothing,44.22,2,0,credit_card,4.74,0,0,0,0.2559999,Low Risk
+58,593,Pet Supplies,10.73,1,0,credit_card,5.15,0,1,0,0.07891757,Low Risk
+24,954,Sports,10.24,2,0,paypal,7.51,2,0,0,0.13375786,Low Risk
+31,890,Office,25.51,2,15,debit_card,4.7,1,0,0,0.10557193,Low Risk
+23,634,Pet Supplies,6.95,1,0,debit_card,5.2,4,0,0,0.18877733,Low Risk
+18,1312,Other,74.15,1,0,credit_card,3.22,6,0,0,0.21629654,Low Risk
+54,617,Electronics,14.17,1,0,credit_card,4.13,2,0,0,0.18526642,Low Risk
+37,702,Books,21.32,1,0,bank_transfer,5.12,0,0,0,0.08384911,Low Risk
+50,1023,Sports,7.39,2,0,credit_card,7.12,0,0,0,0.110875644,Low Risk
+48,106,Books,10.22,3,10,paypal,5.04,1,0,0,0.08839476,Low Risk
+59,244,Books,15.83,2,0,credit_card,7.19,3,0,0,0.10444878,Low Risk
+63,1048,Clothing,32.21,1,0,debit_card,6.14,5,0,0,0.23631065,Low Risk
+71,1284,Clothing,38.42,1,0,debit_card,4.72,5,0,0,0.18762748,Low Risk
+61,708,Clothing,16.31,3,0,bank_transfer,4.68,0,0,0,0.2204685,Low Risk
+20,876,Beauty,27.44,2,0,debit_card,4.87,3,0,0,0.2040417,Low Risk
+22,847,Food,10.11,1,15,credit_card,4.88,3,0,0,0.11101841,Low Risk
+28,901,Clothing,16.6,1,0,paypal,5.47,0,0,0,0.19073868,Low Risk
+60,793,Sports,96.51,1,0,credit_card,5.57,4,1,0,0.10963803,Low Risk
+59,874,Clothing,21.09,2,15,credit_card,10.65,6,0,0,0.27643383,Low Risk
+41,1357,Electronics,31.95,1,0,credit_card,5.78,7,0,0,0.1722972,Low Risk
+37,744,Automotive,49.72,1,0,paypal,6.11,1,0,0,0.09099881,Low Risk
+55,895,Other,42.41,2,0,bank_transfer,6.72,3,0,0,0.07602249,Low Risk
+42,1146,Home & Kitchen,19.25,1,0,bank_transfer,5.84,2,0,0,0.14827108,Low Risk
+36,956,Clothing,21.26,2,5,paypal,4.21,4,0,0,0.21950687,Low Risk
+33,756,Food,14.29,4,0,bank_transfer,4.69,0,0,0,0.04829391,Low Risk
+18,184,Home & Kitchen,12.77,1,0,credit_card,5.89,0,0,0,0.20042206,Low Risk
+18,151,Pet Supplies,17.45,1,0,credit_card,4.6,0,1,0,0.22385027,Low Risk
+54,336,Office,19.34,4,10,credit_card,4.35,2,0,0,0.08175046,Low Risk
+39,1134,Clothing,19.74,1,0,bank_transfer,5.4,2,0,0,0.24441433,Low Risk
+51,811,Sports,116.7,2,0,debit_card,6.82,0,1,0,0.104657054,Low Risk
+55,746,Books,14.19,1,0,bank_transfer,5.48,1,0,0,0.10224453,Low Risk
+56,449,Home & Kitchen,20.14,2,0,debit_card,5.28,0,0,0,0.21290727,Low Risk
+38,603,Clothing,3.84,1,25,credit_card,3.86,3,0,1,0.58160883,Medium Risk
+27,647,Sports,6.06,1,0,debit_card,3.59,4,0,0,0.15904687,Low Risk
+42,580,Music,44.72,6,0,debit_card,5.83,2,0,0,0.15918703,Low Risk
+21,840,Jewelry,12.01,8,5,debit_card,5.92,5,1,0,0.14564991,Low Risk
+40,964,Books,50.71,1,0,paypal,4.36,0,1,0,0.06797532,Low Risk
+46,1004,Sports,100.19,1,0,paypal,5.99,1,0,0,0.13422708,Low Risk
+32,342,Toys,6.93,2,5,debit_card,3.57,1,0,0,0.1791962,Low Risk
+43,102,Electronics,11.89,1,0,bank_transfer,3.3,0,0,0,0.12508383,Low Risk
+37,711,Music,125.72,4,0,debit_card,4.38,2,0,0,0.20576364,Low Risk
+22,766,Beauty,4.98,2,5,debit_card,6.43,3,0,0,0.13160557,Low Risk
+39,1300,Home & Kitchen,13.41,1,0,credit_card,3.75,3,0,0,0.16308077,Low Risk
+44,488,Toys,10.57,1,0,credit_card,5.25,1,0,0,0.14174865,Low Risk
+58,223,Electronics,36.75,1,0,paypal,6.2,0,0,0,0.11295208,Low Risk
+22,1340,Clothing,11.27,2,10,credit_card,5.81,3,0,0,0.34901285,Medium Risk
+32,812,Food,11.19,1,0,bank_transfer,5.29,5,0,0,0.041803293,Low Risk
+47,416,Office,40.44,1,10,paypal,5.62,2,0,0,0.074843295,Low Risk
+48,713,Clothing,10.16,2,5,credit_card,4.91,1,0,0,0.2520854,Low Risk
+42,1024,Books,18.0,2,0,credit_card,7.83,3,1,0,0.1047038,Low Risk
+41,551,Food,10.59,3,0,debit_card,5.39,1,0,0,0.035091195,Low Risk
+40,602,Electronics,12.58,5,5,debit_card,4.09,1,0,0,0.11988099,Low Risk
+55,669,Clothing,14.31,2,0,debit_card,4.47,2,0,0,0.22195973,Low Risk
+34,643,Sports,6.98,1,0,paypal,5.07,2,0,0,0.13251832,Low Risk
+26,1309,Music,88.03,1,10,debit_card,6.44,5,0,0,0.1781628,Low Risk
+18,862,Electronics,33.5,2,15,credit_card,4.8,3,1,0,0.38704118,Medium Risk
+25,72,Office,15.52,3,0,debit_card,4.05,0,0,0,0.06985842,Low Risk
+30,823,Electronics,15.53,1,15,debit_card,5.5,0,1,0,0.26391563,Low Risk
+19,631,Clothing,25.58,1,0,debit_card,3.48,0,1,0,0.26536927,Low Risk
+42,377,Home & Kitchen,14.36,2,15,credit_card,9.44,1,0,0,0.2705153,Low Risk
+47,486,Home & Kitchen,38.36,2,0,cash_on_delivery,5.84,1,0,0,0.20274985,Low Risk
+43,673,Food,6.58,4,0,credit_card,5.23,2,0,0,0.04320041,Low Risk
+36,427,Food,4.67,2,0,credit_card,3.39,3,0,0,0.13798586,Low Risk
+56,307,Music,12.0,1,5,credit_card,4.36,1,0,0,0.10711968,Low Risk
+39,834,Electronics,97.25,1,0,paypal,5.33,5,0,0,0.13430451,Low Risk
+39,579,Electronics,10.21,2,90,credit_card,5.79,0,1,0,0.4395483,Medium Risk
+56,780,Other,16.49,1,0,debit_card,5.28,3,0,0,0.06756126,Low Risk
+32,1291,Home & Kitchen,17.47,1,0,credit_card,5.58,5,0,0,0.19594656,Low Risk
+40,598,Toys,20.45,1,0,credit_card,4.09,1,0,0,0.064936645,Low Risk
+55,511,Clothing,28.32,1,15,bank_transfer,4.31,0,0,0,0.18032837,Low Risk
+60,842,Clothing,8.98,2,25,debit_card,8.38,1,1,0,0.3440241,Medium Risk
+55,202,Home & Kitchen,19.55,1,0,credit_card,5.27,0,0,0,0.15153468,Low Risk
+31,1140,Sports,5.8,1,0,paypal,7.58,2,0,0,0.103696235,Low Risk
+43,447,Electronics,36.98,1,0,debit_card,6.56,1,0,0,0.24622318,Low Risk
+49,732,Electronics,48.35,1,0,paypal,5.09,1,0,0,0.13789472,Low Risk
+40,1291,Sports,41.48,1,0,cash_on_delivery,5.04,4,0,0,0.080176495,Low Risk
+45,560,Electronics,82.45,1,5,paypal,4.89,1,0,0,0.14756428,Low Risk
+47,807,Electronics,31.26,2,15,paypal,5.11,4,0,0,0.19915026,Low Risk
+18,927,Beauty,13.93,3,0,paypal,8.34,3,0,0,0.14775787,Low Risk
+18,758,Books,44.85,1,0,paypal,5.77,1,0,0,0.105450265,Low Risk
+60,714,Clothing,25.07,4,0,credit_card,4.48,1,1,0,0.18641111,Low Risk
+44,666,Home & Kitchen,32.09,1,5,paypal,5.33,0,0,0,0.12204983,Low Risk
+42,1140,Electronics,55.74,2,10,paypal,9.98,7,0,0,0.15603015,Low Risk
+18,1066,Home & Kitchen,19.88,1,0,credit_card,6.85,2,0,0,0.23586716,Low Risk
+36,545,Electronics,4.4,1,0,cash_on_delivery,4.77,1,1,0,0.11994574,Low Risk
+36,580,Sports,32.58,1,0,paypal,4.41,1,0,0,0.100701824,Low Risk
+65,777,Home & Kitchen,15.25,1,0,credit_card,7.35,0,0,0,0.2242462,Low Risk
+36,571,Clothing,43.41,1,5,paypal,4.02,1,0,0,0.1825264,Low Risk
+49,1083,Toys,14.72,1,15,credit_card,6.82,0,0,0,0.19903994,Low Risk
+18,423,Automotive,21.82,1,0,cash_on_delivery,8.0,0,0,0,0.21267469,Low Risk
+56,771,Electronics,39.55,2,0,paypal,5.71,1,0,0,0.11935938,Low Risk
+41,617,Automotive,9.56,1,0,bank_transfer,4.53,3,1,0,0.15545629,Low Risk
+55,658,Food,10.42,2,15,credit_card,4.91,0,0,0,0.04838108,Low Risk
+36,1099,Toys,20.46,1,15,credit_card,5.23,2,0,0,0.23155907,Low Risk
+42,385,Books,32.47,1,0,debit_card,9.04,1,1,0,0.11259821,Low Risk
+35,428,Books,66.72,1,0,debit_card,4.86,1,0,0,0.18937029,Low Risk
+63,845,Sports,20.24,1,0,credit_card,3.49,1,0,0,0.11709334,Low Risk
+34,777,Pet Supplies,39.78,1,5,debit_card,9.58,1,0,0,0.091110036,Low Risk
+35,318,Electronics,18.01,1,70,debit_card,5.97,0,0,1,0.7496112,High Risk
+35,588,Books,11.63,1,0,debit_card,4.89,1,0,0,0.16076407,Low Risk
+18,1001,Beauty,24.41,1,0,credit_card,4.4,3,0,0,0.24341063,Low Risk
+36,938,Toys,57.65,1,0,bank_transfer,8.68,2,0,0,0.122674905,Low Risk
+55,230,Garden,52.61,1,5,debit_card,5.22,2,0,0,0.19279358,Low Risk
+34,369,Beauty,40.12,1,0,credit_card,5.95,1,0,0,0.16984645,Low Risk
+42,322,Electronics,16.52,1,0,bank_transfer,5.31,0,0,0,0.19240716,Low Risk
+43,506,Electronics,15.59,1,30,debit_card,5.39,3,1,0,0.44181266,Medium Risk
+34,980,Electronics,39.08,1,5,paypal,4.57,2,1,0,0.14592548,Low Risk
+18,972,Clothing,23.33,1,5,credit_card,4.49,0,0,0,0.2847066,Low Risk
+52,333,Electronics,28.97,3,0,credit_card,5.68,2,0,0,0.14884661,Low Risk
+37,1054,Toys,7.34,1,0,bank_transfer,4.62,2,0,0,0.06845898,Low Risk
+50,157,Electronics,5.93,2,0,credit_card,7.01,1,0,0,0.201669,Low Risk
+32,641,Pet Supplies,21.64,1,0,debit_card,5.22,0,0,0,0.21053259,Low Risk
+59,1089,Sports,19.98,1,0,debit_card,6.52,1,1,0,0.1666133,Low Risk
+61,1018,Clothing,18.39,1,5,paypal,10.64,6,1,0,0.30612963,Medium Risk
+42,128,Toys,48.58,1,10,paypal,11.25,1,0,0,0.1596621,Low Risk
+53,646,Office,21.38,3,0,bank_transfer,4.61,0,0,0,0.05229477,Low Risk
+47,933,Food,6.96,1,0,bank_transfer,4.62,3,0,0,0.06281205,Low Risk
+40,745,Clothing,16.67,1,0,debit_card,5.51,1,0,0,0.22112629,Low Risk
+34,222,Electronics,38.85,2,0,debit_card,6.84,1,0,0,0.16627489,Low Risk
+34,1065,Other,19.01,2,0,credit_card,5.17,1,0,0,0.123319924,Low Risk
+18,963,Electronics,7.5,1,0,paypal,5.11,3,0,0,0.2371598,Low Risk
+18,1116,Electronics,27.3,2,5,paypal,4.35,2,0,0,0.18233028,Low Risk
+48,709,Books,31.73,1,5,bank_transfer,5.62,4,0,0,0.0527798,Low Risk
+35,586,Toys,30.87,1,5,credit_card,4.27,2,0,0,0.061208785,Low Risk
+26,293,Garden,9.36,1,5,debit_card,4.78,2,0,0,0.08614962,Low Risk
+54,529,Clothing,17.37,1,10,credit_card,7.17,3,0,0,0.18104354,Low Risk
+22,1297,Books,11.05,3,0,debit_card,5.01,3,0,0,0.21401781,Low Risk
+20,832,Food,72.15,1,0,debit_card,6.12,2,0,0,0.09020127,Low Risk
+47,595,Garden,22.96,1,5,credit_card,3.42,3,0,0,0.094943516,Low Risk
+18,1089,Clothing,20.34,6,20,paypal,4.5,1,0,0,0.40788022,Medium Risk
+56,878,Music,65.46,1,0,paypal,5.12,3,0,0,0.12663697,Low Risk
+37,734,Books,25.59,1,0,credit_card,5.7,1,0,0,0.108234696,Low Risk
+39,412,Other,10.46,1,0,debit_card,4.42,0,0,0,0.0509404,Low Risk
+36,874,Sports,34.92,1,0,paypal,3.47,3,0,0,0.112587065,Low Risk
+34,1022,Clothing,11.41,1,0,credit_card,5.08,6,0,0,0.22344777,Low Risk
+43,419,Books,7.96,2,10,debit_card,5.78,1,0,0,0.108524896,Low Risk
+34,1179,Books,12.57,2,0,credit_card,3.96,0,0,0,0.051550027,Low Risk
+36,853,Jewelry,22.34,1,10,paypal,5.63,1,0,0,0.19849756,Low Risk
+45,1058,Other,30.09,3,0,credit_card,3.7,4,0,0,0.24245474,Low Risk
+49,833,Electronics,18.39,2,10,credit_card,5.09,1,0,0,0.2631805,Low Risk
+52,542,Home & Kitchen,47.76,1,5,credit_card,6.8,0,0,0,0.12353931,Low Risk
+39,769,Home & Kitchen,31.91,1,0,credit_card,4.62,5,0,0,0.17471187,Low Risk
+18,948,Home & Kitchen,11.16,2,5,bank_transfer,4.41,2,1,0,0.23832941,Low Risk
+60,620,Automotive,13.47,1,0,paypal,4.94,2,0,0,0.1228935,Low Risk
+28,573,Toys,19.85,2,20,credit_card,5.89,2,0,0,0.18993995,Low Risk
+18,1141,Automotive,37.95,3,0,debit_card,4.1,2,1,0,0.1462469,Low Risk
+58,417,Electronics,23.27,4,40,paypal,8.94,2,0,0,0.33985752,Medium Risk
+18,650,Books,25.74,1,0,credit_card,5.27,0,1,0,0.13836865,Low Risk
+75,793,Sports,9.06,2,0,credit_card,5.53,1,0,0,0.019005101,Low Risk
+48,865,Electronics,33.89,2,10,paypal,4.81,1,1,0,0.18669312,Low Risk
+61,1036,Beauty,13.73,1,0,credit_card,6.7,1,0,0,0.14753607,Low Risk
+18,719,Books,7.5,1,25,cash_on_delivery,6.97,2,0,0,0.05185563,Low Risk
+52,564,Electronics,12.21,1,0,debit_card,5.33,3,0,0,0.16099176,Low Risk
+38,916,Electronics,7.56,3,0,credit_card,5.99,4,0,0,0.1701408,Low Risk
+21,973,Pet Supplies,17.98,2,10,credit_card,4.97,0,1,0,0.2352918,Low Risk
+42,1072,Automotive,103.32,2,5,credit_card,4.65,1,0,0,0.23518026,Low Risk
+28,1049,Toys,41.59,1,25,debit_card,8.64,3,0,0,0.39248323,Medium Risk
+18,1076,Electronics,41.99,1,5,debit_card,7.75,5,0,0,0.23066583,Low Risk
+31,88,Automotive,30.65,3,0,credit_card,5.34,0,0,0,0.15852065,Low Risk
+38,748,Toys,11.22,3,0,credit_card,5.33,0,0,0,0.07465626,Low Risk
+33,538,Automotive,42.19,2,15,paypal,5.74,2,1,0,0.1119097,Low Risk
+50,1069,Toys,8.29,1,0,debit_card,6.09,3,0,0,0.15957342,Low Risk
+31,451,Clothing,10.23,4,5,paypal,7.63,1,0,0,0.2087435,Low Risk
+34,1082,Electronics,33.66,2,20,credit_card,5.95,3,0,0,0.27312,Low Risk
+55,825,Clothing,26.83,1,0,paypal,4.75,4,0,0,0.15486644,Low Risk
+37,477,Clothing,10.21,1,0,debit_card,5.99,0,0,0,0.25424546,Low Risk
+32,458,Electronics,26.87,2,0,paypal,4.3,0,1,0,0.15768598,Low Risk
+42,358,Food,23.38,7,0,debit_card,7.48,2,0,0,0.06818523,Low Risk
+24,249,Clothing,4.62,1,0,paypal,5.9,1,0,0,0.28548586,Low Risk
+22,583,Music,31.08,1,0,debit_card,7.81,2,0,0,0.18385631,Low Risk
+58,207,Clothing,12.88,3,0,debit_card,9.73,1,0,0,0.40658414,Medium Risk
+48,1310,Sports,8.47,2,0,bank_transfer,5.77,2,0,0,0.14674821,Low Risk
+60,1033,Beauty,11.8,1,0,debit_card,5.73,5,0,0,0.15503797,Low Risk
+45,957,Home & Kitchen,9.56,2,0,paypal,3.94,2,0,0,0.15137675,Low Risk
+41,789,Clothing,5.64,1,0,paypal,4.83,0,0,0,0.20067306,Low Risk
+22,714,Beauty,17.04,1,0,debit_card,7.33,5,0,0,0.17928176,Low Risk
+42,714,Electronics,15.65,1,15,paypal,5.73,3,0,0,0.23013736,Low Risk
+34,1051,Clothing,24.49,1,20,credit_card,3.85,3,1,0,0.3490854,Medium Risk
+28,1226,Food,37.58,1,0,credit_card,7.76,1,0,0,0.08755565,Low Risk
+51,1375,Home & Kitchen,15.35,3,5,debit_card,5.99,1,0,0,0.2361206,Low Risk
+49,509,Electronics,10.41,1,0,credit_card,5.32,2,0,0,0.18351565,Low Risk
+25,395,Home & Kitchen,29.18,1,5,paypal,4.9,0,0,0,0.14242809,Low Risk
+18,355,Beauty,7.83,1,10,credit_card,4.32,1,0,0,0.2534527,Low Risk
+39,430,Office,15.06,1,0,debit_card,5.25,2,0,0,0.101412244,Low Risk
+61,736,Home & Kitchen,17.82,2,0,debit_card,10.83,1,0,0,0.25235763,Low Risk
+25,196,Books,16.24,1,5,debit_card,4.1,1,0,0,0.1353761,Low Risk
+18,684,Beauty,10.38,1,10,debit_card,4.56,3,1,0,0.22199757,Low Risk
+32,814,Clothing,14.21,1,25,credit_card,3.57,2,1,1,0.5518057,Medium Risk
+32,1151,Clothing,27.42,1,0,credit_card,3.98,4,0,0,0.1653027,Low Risk
+35,709,Food,12.27,3,15,bank_transfer,4.31,1,0,0,0.06696665,Low Risk
+20,485,Clothing,95.82,1,10,credit_card,4.69,0,1,0,0.31950936,Medium Risk
+41,854,Books,17.72,1,0,debit_card,4.51,2,0,0,0.18419056,Low Risk
+38,1286,Toys,26.38,1,20,debit_card,7.95,2,0,0,0.25325763,Low Risk
+51,1211,Office,115.61,1,70,debit_card,7.31,6,1,1,0.5876646,Medium Risk
+46,810,Books,35.33,1,0,credit_card,4.74,0,0,0,0.053160813,Low Risk
+73,755,Clothing,13.42,1,0,paypal,5.07,0,1,0,0.060539536,Low Risk
+32,610,Books,4.83,2,10,credit_card,6.88,3,1,0,0.05538139,Low Risk
+41,700,Beauty,25.39,1,5,cash_on_delivery,4.18,3,0,0,0.084111884,Low Risk
+54,782,Beauty,8.66,6,0,paypal,4.22,1,0,0,0.1670663,Low Risk
+18,627,Sports,8.44,3,0,paypal,4.63,0,0,0,0.16303,Low Risk
+31,1114,Sports,13.85,1,5,debit_card,9.02,2,0,0,0.20556132,Low Risk
+30,495,Office,22.33,1,30,credit_card,6.47,0,0,0,0.17067248,Low Risk
+65,1364,Sports,8.2,1,0,credit_card,6.48,2,0,0,0.21230154,Low Risk
+37,1384,Sports,53.22,2,25,cash_on_delivery,5.96,5,0,0,0.28219125,Low Risk
+31,1138,Beauty,9.1,1,0,paypal,6.7,2,0,0,0.12605956,Low Risk
+51,1023,Clothing,10.07,2,0,credit_card,6.46,3,0,0,0.19573869,Low Risk
+20,699,Electronics,18.77,1,0,debit_card,5.72,4,0,0,0.287621,Low Risk
+64,744,Other,13.34,2,0,credit_card,5.94,6,0,0,0.049024474,Low Risk
+48,686,Sports,7.75,1,0,credit_card,8.85,1,0,0,0.09295437,Low Risk
+18,504,Food,14.53,1,5,paypal,7.32,2,0,0,0.06175349,Low Risk
+23,576,Beauty,12.98,1,0,credit_card,5.17,1,0,0,0.11251577,Low Risk
+44,364,Other,51.05,2,0,credit_card,9.56,3,0,0,0.08665703,Low Risk
+52,345,Sports,6.05,1,5,debit_card,3.82,2,0,0,0.1481288,Low Risk
+38,457,Books,60.06,1,0,paypal,4.32,0,1,0,0.072495036,Low Risk
+27,492,Electronics,31.01,1,0,debit_card,5.31,0,1,0,0.20586684,Low Risk
+36,703,Electronics,59.01,3,0,credit_card,4.41,3,0,0,0.19925298,Low Risk
+64,738,Books,9.24,1,0,credit_card,4.79,4,0,0,0.07030533,Low Risk
+58,788,Food,11.74,2,10,debit_card,5.09,2,0,0,0.0672183,Low Risk
+22,615,Pet Supplies,19.98,1,0,credit_card,7.63,2,0,0,0.17625771,Low Risk
+28,910,Clothing,44.17,1,0,bank_transfer,5.95,5,0,0,0.18211168,Low Risk
+40,745,Automotive,29.14,1,0,debit_card,4.14,3,0,0,0.15125704,Low Risk
+55,845,Home & Kitchen,13.87,1,0,paypal,7.54,2,1,0,0.18677332,Low Risk
+55,855,Books,49.04,1,0,credit_card,6.87,1,0,0,0.07788514,Low Risk
+40,780,Electronics,12.3,2,0,credit_card,4.88,2,0,0,0.18244931,Low Risk
+27,803,Electronics,6.21,1,5,credit_card,6.58,1,0,0,0.1890427,Low Risk
+18,1212,Books,12.38,1,10,paypal,5.23,5,1,0,0.03793673,Low Risk
+39,472,Clothing,16.11,1,5,credit_card,10.56,0,0,0,0.3876951,Medium Risk
+61,507,Clothing,8.89,1,0,paypal,4.85,0,1,0,0.1897869,Low Risk
+35,944,Music,13.95,1,0,paypal,5.3,3,0,0,0.15687694,Low Risk
+32,1114,Books,25.75,1,0,credit_card,4.07,2,1,0,0.09000518,Low Risk
+46,421,Clothing,176.46,2,0,debit_card,4.84,1,1,0,0.1956211,Low Risk
+47,506,Electronics,13.74,1,0,credit_card,4.49,2,1,0,0.2227284,Low Risk
+35,944,Other,4.01,5,0,paypal,7.45,1,0,0,0.10186965,Low Risk
+38,762,Clothing,9.21,1,0,credit_card,4.47,0,1,0,0.20802036,Low Risk
+40,1335,Home & Kitchen,6.45,1,0,credit_card,3.36,6,0,0,0.22658718,Low Risk
+30,867,Sports,11.63,2,0,credit_card,5.08,3,0,0,0.20059748,Low Risk
+45,617,Beauty,5.38,1,0,debit_card,4.18,2,0,0,0.14709681,Low Risk
+77,869,Electronics,8.46,4,10,credit_card,4.51,2,0,0,0.034305334,Low Risk
+18,687,Home & Kitchen,5.47,5,0,paypal,6.78,0,0,0,0.16150996,Low Risk
+33,811,Music,42.89,1,0,credit_card,9.35,2,0,0,0.15617117,Low Risk
+21,1026,Office,10.37,2,0,bank_transfer,7.34,6,0,0,0.0886467,Low Risk
+56,1096,Office,41.66,2,0,paypal,6.05,4,0,0,0.10788194,Low Risk
+18,1106,Home & Kitchen,9.34,1,0,debit_card,5.18,3,1,0,0.24451661,Low Risk
+25,679,Books,5.31,2,20,credit_card,5.99,2,0,0,0.107650265,Low Risk
+60,594,Electronics,13.57,2,0,credit_card,4.92,2,1,0,0.16770813,Low Risk
+42,91,Clothing,14.02,2,25,credit_card,5.93,1,0,0,0.3368209,Medium Risk
+51,248,Clothing,8.57,2,0,credit_card,5.95,0,0,0,0.21275446,Low Risk
+62,908,Music,15.57,2,0,credit_card,10.73,3,0,0,0.21417142,Low Risk
+52,875,Home & Kitchen,13.37,3,0,credit_card,6.4,4,0,0,0.1858857,Low Risk
+54,1007,Clothing,11.61,2,10,paypal,4.46,1,0,0,0.24740924,Low Risk
+27,331,Home & Kitchen,8.66,1,0,debit_card,5.24,1,0,0,0.18306482,Low Risk
+44,659,Home & Kitchen,6.37,1,0,debit_card,6.02,0,0,0,0.13258946,Low Risk
+18,406,Electronics,60.6,2,5,paypal,10.76,0,1,0,0.1900989,Low Risk
+47,1302,Automotive,22.3,1,0,debit_card,4.21,2,0,0,0.18717578,Low Risk
+46,333,Toys,57.21,1,0,debit_card,3.27,0,0,0,0.16767113,Low Risk
+18,337,Beauty,30.81,1,0,debit_card,11.95,0,0,0,0.20872767,Low Risk
+57,1039,Clothing,8.67,1,10,credit_card,9.35,2,0,0,0.3248429,Medium Risk
+26,1068,Beauty,12.88,3,0,credit_card,5.41,2,0,0,0.1215826,Low Risk
+18,619,Pet Supplies,8.01,2,0,debit_card,5.82,2,0,0,0.23855321,Low Risk
+34,766,Beauty,34.85,1,15,paypal,5.66,1,1,0,0.14438291,Low Risk
+49,839,Beauty,12.43,1,5,cash_on_delivery,6.41,3,0,0,0.052468214,Low Risk
+35,633,Sports,27.55,1,90,credit_card,7.05,3,1,1,0.53951377,Medium Risk
+43,714,Books,21.57,1,30,credit_card,4.54,2,0,0,0.16190457,Low Risk
+26,469,Electronics,3.5,3,40,credit_card,5.4,1,1,0,0.43845886,Medium Risk
+50,1342,Sports,14.69,1,0,paypal,3.39,4,1,0,0.17720376,Low Risk
+29,983,Books,19.0,1,0,credit_card,3.45,4,0,0,0.13264471,Low Risk
+68,521,Sports,12.27,1,0,paypal,4.02,0,0,0,0.07922133,Low Risk
+25,1103,Clothing,48.61,3,0,paypal,4.58,2,0,0,0.1929963,Low Risk
+23,473,Clothing,37.7,2,0,credit_card,8.12,1,0,0,0.34817111,Medium Risk
+18,795,Electronics,36.55,2,0,paypal,5.11,1,0,0,0.1696056,Low Risk
+32,827,Books,49.78,2,5,credit_card,5.02,3,0,0,0.119268365,Low Risk
+38,347,Toys,29.34,1,40,credit_card,5.46,1,0,0,0.18339732,Low Risk
+52,878,Clothing,31.52,1,10,paypal,5.38,2,0,0,0.20992605,Low Risk
+44,670,Beauty,61.77,1,25,credit_card,5.85,0,0,0,0.2834188,Low Risk
+42,1096,Electronics,10.61,1,0,debit_card,5.11,1,0,0,0.18279326,Low Risk
+38,800,Clothing,8.51,1,0,credit_card,6.25,0,1,0,0.1784963,Low Risk
+24,762,Sports,9.56,1,15,debit_card,4.32,5,0,0,0.13223818,Low Risk
+18,1065,Clothing,11.94,1,5,debit_card,4.75,0,1,0,0.24679969,Low Risk
+53,413,Beauty,12.92,1,0,cash_on_delivery,5.66,1,0,0,0.072934635,Low Risk
+18,860,Clothing,6.35,2,5,credit_card,4.1,0,1,0,0.35233307,Medium Risk
+36,1320,Beauty,27.43,1,0,debit_card,7.1,6,0,0,0.13729173,Low Risk
+43,336,Automotive,2.24,4,0,credit_card,5.4,1,1,0,0.07979283,Low Risk
+61,543,Other,26.09,1,0,bank_transfer,5.48,2,0,0,0.03484976,Low Risk
+21,1222,Clothing,8.96,1,0,credit_card,4.17,3,1,0,0.38391215,Medium Risk
+35,565,Electronics,71.35,1,10,paypal,3.92,2,0,0,0.136027,Low Risk
+50,956,Books,16.74,2,0,bank_transfer,5.98,7,0,0,0.11436715,Low Risk
+56,590,Electronics,28.38,1,0,cash_on_delivery,9.38,0,0,0,0.13450553,Low Risk
+41,674,Books,11.05,1,0,credit_card,6.12,1,0,0,0.09096093,Low Risk
+18,658,Clothing,6.18,1,0,credit_card,4.75,3,0,0,0.35668507,Medium Risk
+39,1124,Sports,13.61,1,0,bank_transfer,8.21,6,0,0,0.15336426,Low Risk
+34,638,Beauty,14.63,1,0,cash_on_delivery,5.25,0,0,0,0.08673593,Low Risk
+69,124,Beauty,33.79,1,0,credit_card,5.61,2,0,0,0.1034411,Low Risk
+57,1190,Beauty,105.73,3,0,bank_transfer,4.49,1,0,0,0.09001551,Low Risk
+61,552,Beauty,18.54,1,0,debit_card,5.9,1,1,0,0.15051895,Low Risk
+52,1340,Electronics,47.26,2,10,credit_card,3.42,1,0,0,0.19327483,Low Risk
+51,1199,Toys,39.77,1,0,debit_card,5.67,4,0,0,0.13474688,Low Risk
+44,252,Beauty,23.88,1,25,debit_card,11.81,0,1,0,0.2612152,Low Risk
+41,814,Beauty,23.02,2,5,credit_card,5.85,1,0,0,0.1392796,Low Risk
+64,390,Toys,23.52,1,5,cash_on_delivery,6.76,0,0,0,0.12406415,Low Risk
+77,227,Toys,3.41,1,0,debit_card,5.27,2,0,0,0.039926145,Low Risk
+64,220,Books,6.96,2,5,credit_card,5.64,1,0,0,0.063717246,Low Risk
+46,900,Clothing,7.4,1,0,paypal,4.26,3,1,0,0.23354954,Low Risk
+29,892,Home & Kitchen,28.64,1,0,debit_card,5.05,3,0,0,0.19075818,Low Risk
+56,1456,Home & Kitchen,21.72,2,5,credit_card,7.97,11,0,0,0.03662794,Low Risk
+76,567,Sports,17.61,1,0,bank_transfer,9.22,0,1,0,0.027563596,Low Risk
+40,1087,Garden,54.8,2,0,paypal,8.62,4,0,0,0.07019153,Low Risk
+43,953,Sports,29.69,3,0,credit_card,5.47,6,0,0,0.15894192,Low Risk
+48,863,Sports,58.59,1,5,bank_transfer,5.6,6,0,0,0.14163348,Low Risk
+32,1401,Electronics,9.06,2,20,paypal,5.94,3,0,0,0.30156952,Medium Risk
+22,842,Other,110.19,2,10,cash_on_delivery,5.08,1,0,0,0.12551649,Low Risk
+21,652,Automotive,13.67,2,0,paypal,5.07,5,0,0,0.14571579,Low Risk
+31,719,Electronics,17.16,1,25,credit_card,5.06,1,0,0,0.44730446,Medium Risk
+38,294,Books,33.96,2,15,paypal,5.87,1,0,0,0.07098823,Low Risk
+42,937,Food,30.49,1,0,credit_card,5.72,2,0,0,0.07524927,Low Risk
+36,625,Jewelry,10.97,2,10,credit_card,8.94,1,0,0,0.13967052,Low Risk
+27,1000,Jewelry,10.65,1,0,debit_card,4.94,2,0,0,0.16657302,Low Risk
+24,680,Automotive,4.61,1,0,paypal,4.73,1,0,0,0.13935222,Low Risk
+55,822,Electronics,77.52,3,0,paypal,5.11,3,0,0,0.138135,Low Risk
+44,769,Books,12.24,1,5,debit_card,7.41,2,0,0,0.09201617,Low Risk
+33,1332,Other,13.67,1,20,paypal,7.07,3,0,0,0.1890229,Low Risk
+18,730,Toys,10.04,1,20,credit_card,5.03,1,0,0,0.49578518,Medium Risk
+25,823,Toys,11.13,2,5,credit_card,7.04,1,0,0,0.16731921,Low Risk
+58,759,Books,17.61,2,30,paypal,3.71,4,0,0,0.16435744,Low Risk
+33,1109,Toys,41.23,1,5,debit_card,6.91,5,0,0,0.2710986,Low Risk
+35,620,Home & Kitchen,7.77,1,0,debit_card,8.91,0,0,0,0.14322175,Low Risk
+35,796,Sports,40.25,1,0,credit_card,5.32,2,0,0,0.1381651,Low Risk
+60,336,Clothing,3.52,1,5,credit_card,4.33,0,0,0,0.23892242,Low Risk
+34,946,Books,25.62,1,5,paypal,4.38,1,0,0,0.12475221,Low Risk
+41,685,Electronics,25.79,1,0,paypal,4.6,0,0,0,0.1438431,Low Risk
+51,156,Books,42.66,1,0,debit_card,5.3,1,0,0,0.083564885,Low Risk
+20,644,Books,55.72,1,0,credit_card,8.1,4,0,0,0.10831524,Low Risk
+39,1098,Pet Supplies,47.33,1,30,credit_card,4.77,2,0,0,0.22853431,Low Risk
+58,772,Books,3.28,1,0,paypal,5.94,3,0,0,0.045953956,Low Risk
+29,954,Sports,8.38,1,0,credit_card,5.41,3,0,0,0.17395912,Low Risk
+18,355,Beauty,11.84,1,15,debit_card,4.26,3,0,0,0.20131905,Low Risk
+29,540,Clothing,9.93,1,15,cash_on_delivery,4.97,0,0,0,0.10757533,Low Risk
+70,603,Clothing,42.75,4,5,credit_card,9.25,0,0,0,0.21059015,Low Risk
+30,576,Clothing,108.55,1,10,credit_card,4.01,0,0,0,0.27591565,Low Risk
+49,744,Clothing,6.92,1,5,credit_card,6.27,2,0,0,0.22973938,Low Risk
+50,594,Automotive,20.12,1,20,debit_card,7.86,2,0,0,0.22387159,Low Risk
+33,1128,Electronics,18.04,1,0,credit_card,6.76,3,1,0,0.21752721,Low Risk
+52,342,Sports,8.43,1,0,bank_transfer,4.99,1,0,0,0.11522485,Low Risk
+28,834,Electronics,22.36,6,0,credit_card,4.61,2,1,0,0.23511566,Low Risk
+51,1199,Food,24.2,2,0,debit_card,6.34,2,0,0,0.06646982,Low Risk
+50,647,Electronics,84.83,2,10,paypal,8.01,3,0,0,0.19522794,Low Risk
+49,530,Books,23.29,1,15,credit_card,4.89,0,0,0,0.074609965,Low Risk
+24,826,Electronics,29.49,1,0,bank_transfer,9.96,1,0,0,0.1240202,Low Risk
+60,947,Sports,30.12,1,5,bank_transfer,5.87,1,0,0,0.11582114,Low Risk
+44,875,Food,52.88,3,5,debit_card,4.58,2,0,0,0.13523228,Low Risk
+33,1298,Automotive,15.67,2,10,paypal,7.94,3,0,0,0.17496559,Low Risk
+54,679,Garden,14.79,1,0,paypal,5.87,3,0,0,0.10606081,Low Risk
+23,1007,Clothing,17.24,1,0,credit_card,3.35,4,1,0,0.33150768,Medium Risk
+52,1051,Clothing,10.76,1,0,debit_card,4.12,0,1,0,0.18675649,Low Risk
+22,200,Pet Supplies,18.97,1,0,credit_card,4.88,1,1,0,0.24640958,Low Risk
+56,972,Clothing,23.1,2,5,debit_card,4.61,2,0,0,0.22666983,Low Risk
+34,1005,Clothing,43.55,1,0,debit_card,6.83,3,1,0,0.18805069,Low Risk
+32,372,Clothing,15.22,3,0,credit_card,5.46,1,0,0,0.27290618,Low Risk
+38,944,Clothing,18.22,3,0,debit_card,5.1,0,0,0,0.19875143,Low Risk
+46,723,Garden,11.76,3,5,cash_on_delivery,4.91,1,0,0,0.06778323,Low Risk
+58,167,Beauty,35.31,1,0,credit_card,11.44,0,0,0,0.20583339,Low Risk
+31,556,Sports,25.48,2,5,paypal,4.29,1,0,0,0.08923781,Low Risk
+42,1071,Books,26.39,1,0,paypal,5.29,3,0,0,0.08190276,Low Risk
+45,1044,Beauty,209.45,1,0,cash_on_delivery,4.87,2,0,0,0.054200623,Low Risk
+45,419,Home & Kitchen,103.63,1,5,credit_card,5.12,0,0,0,0.18836017,Low Risk
+68,476,Home & Kitchen,7.13,1,0,credit_card,8.78,2,0,0,0.10541698,Low Risk
+50,587,Clothing,3.9,8,15,cash_on_delivery,4.87,3,0,0,0.11819155,Low Risk
+18,985,Electronics,21.99,1,5,bank_transfer,5.65,2,0,0,0.29651093,Low Risk
+25,1003,Beauty,12.9,1,0,debit_card,5.43,1,0,0,0.13375424,Low Risk
+35,1067,Electronics,5.19,1,0,debit_card,9.13,2,0,0,0.1077173,Low Risk
+22,867,Electronics,7.72,1,0,credit_card,4.38,3,0,0,0.2572871,Low Risk
+18,529,Electronics,50.16,1,0,paypal,4.81,1,0,0,0.14026578,Low Risk
+38,836,Toys,46.03,1,15,paypal,7.45,0,1,0,0.118966475,Low Risk
+63,749,Beauty,9.72,1,0,paypal,7.04,2,1,0,0.11844315,Low Risk
+34,1164,Electronics,24.81,1,0,paypal,8.29,4,0,0,0.1327257,Low Risk
+64,885,Home & Kitchen,13.09,3,5,bank_transfer,5.75,0,1,0,0.14358911,Low Risk
+29,845,Sports,19.41,1,0,debit_card,5.95,1,0,0,0.21424048,Low Risk
+35,708,Sports,8.25,2,0,credit_card,8.29,3,0,0,0.13777894,Low Risk
+41,393,Office,10.23,1,10,credit_card,5.11,0,0,0,0.06941116,Low Risk
+54,611,Electronics,11.98,1,0,credit_card,4.87,2,0,0,0.16021435,Low Risk
+26,1240,Electronics,5.29,1,0,credit_card,7.73,3,0,0,0.16805002,Low Risk
+36,788,Sports,26.67,1,5,credit_card,7.71,3,0,0,0.13835832,Low Risk
+80,1117,Clothing,21.66,1,0,debit_card,6.3,5,1,0,0.05742917,Low Risk
+46,725,Electronics,11.3,1,0,bank_transfer,6.19,2,0,0,0.12924518,Low Risk
+37,1030,Sports,22.15,1,0,debit_card,3.92,4,0,0,0.12583901,Low Risk
+48,279,Clothing,26.58,1,0,paypal,7.09,0,1,0,0.17094566,Low Risk
+26,304,Electronics,12.4,1,0,credit_card,8.4,2,0,0,0.122827224,Low Risk
+34,1285,Home & Kitchen,18.45,1,15,credit_card,4.06,2,0,0,0.18830207,Low Risk
+34,1321,Sports,9.42,1,0,credit_card,4.34,8,0,0,0.21690154,Low Risk
+44,680,Books,8.35,1,15,credit_card,5.44,2,0,0,0.05894046,Low Risk
+60,720,Books,76.58,1,10,debit_card,6.05,0,0,0,0.110396884,Low Risk
+30,732,Books,52.0,1,20,debit_card,4.62,0,1,0,0.14160366,Low Risk
+26,1214,Clothing,17.72,1,10,paypal,3.43,1,0,0,0.30536824,Medium Risk
+59,518,Electronics,20.55,3,0,debit_card,4.19,0,1,0,0.21822579,Low Risk
+28,1016,Office,8.88,1,0,bank_transfer,3.96,2,0,0,0.07072502,Low Risk
+41,715,Food,22.01,2,0,debit_card,6.14,2,0,0,0.050181486,Low Risk
+46,1295,Automotive,23.44,2,0,debit_card,5.47,2,1,0,0.12783816,Low Risk
+34,285,Home & Kitchen,73.45,1,0,credit_card,5.49,0,0,0,0.1721513,Low Risk
+42,576,Sports,31.19,2,30,credit_card,5.67,0,0,0,0.24246477,Low Risk
+41,962,Electronics,110.06,2,25,cash_on_delivery,9.76,4,0,0,0.2504885,Low Risk
+40,405,Office,2.61,2,0,credit_card,6.53,3,0,0,0.053325105,Low Risk
+46,677,Food,12.9,4,0,debit_card,6.43,0,0,0,0.020980561,Low Risk
+35,466,Clothing,8.35,2,0,paypal,5.93,1,0,0,0.2577775,Low Risk
+30,287,Pet Supplies,6.68,1,0,credit_card,5.59,1,0,0,0.16220567,Low Risk
+38,986,Office,19.26,1,0,debit_card,7.72,3,0,0,0.09112849,Low Risk
+57,728,Clothing,10.19,1,25,debit_card,4.44,4,0,0,0.28230357,Low Risk
+18,580,Clothing,17.23,1,0,credit_card,4.63,0,1,0,0.27443856,Low Risk
+34,807,Sports,54.67,3,0,bank_transfer,8.3,4,0,0,0.12307034,Low Risk
+66,351,Sports,12.8,1,0,debit_card,5.93,3,1,0,0.14932951,Low Risk
+27,176,Clothing,12.12,1,0,credit_card,3.21,2,0,0,0.246834,Low Risk
+51,1046,Food,40.45,1,0,credit_card,6.95,3,0,0,0.153615,Low Risk
+52,259,Electronics,7.87,2,0,debit_card,4.58,1,0,0,0.15842834,Low Risk
+64,1229,Home & Kitchen,33.63,3,5,credit_card,4.26,3,0,0,0.083131045,Low Risk
+32,714,Jewelry,16.6,2,5,credit_card,5.26,0,0,0,0.17421146,Low Risk
+18,712,Books,12.42,1,15,credit_card,3.77,3,0,0,0.08355533,Low Risk
+45,565,Beauty,13.65,1,25,credit_card,4.61,0,0,0,0.26581365,Low Risk
+61,625,Electronics,34.97,1,0,paypal,5.01,0,0,0,0.13520719,Low Risk
+42,446,Electronics,28.47,1,30,paypal,5.38,3,0,0,0.33348367,Medium Risk
+21,561,Beauty,23.29,3,10,cash_on_delivery,4.66,0,0,0,0.12524147,Low Risk
+61,948,Automotive,11.99,2,0,credit_card,10.8,4,0,0,0.24624072,Low Risk
+39,529,Automotive,15.58,1,20,credit_card,4.83,3,0,0,0.28584862,Low Risk
+71,931,Sports,37.02,2,0,cash_on_delivery,9.52,0,0,0,0.08730358,Low Risk
+54,898,Clothing,14.04,1,10,debit_card,5.7,2,0,0,0.22554265,Low Risk
+19,372,Books,8.76,3,0,credit_card,5.22,5,0,0,0.12151521,Low Risk
+40,913,Pet Supplies,15.91,5,5,cash_on_delivery,5.03,1,0,0,0.18496943,Low Risk
+35,829,Home & Kitchen,47.52,2,0,credit_card,9.85,2,0,0,0.1439716,Low Risk
+33,1042,Office,40.56,2,0,paypal,5.03,3,0,0,0.08114438,Low Risk
+38,1130,Clothing,15.17,1,5,debit_card,4.71,5,0,0,0.32966948,Medium Risk
+47,282,Electronics,53.32,4,0,credit_card,4.32,3,0,0,0.14238386,Low Risk
+37,1413,Electronics,20.93,1,0,paypal,7.52,2,0,0,0.24720678,Low Risk
+53,1045,Sports,31.06,2,20,debit_card,4.68,1,0,0,0.21550584,Low Risk
+53,652,Electronics,43.74,1,0,credit_card,5.16,0,1,0,0.1311942,Low Risk
+38,907,Home & Kitchen,41.33,1,0,paypal,4.1,2,0,0,0.094967015,Low Risk
+48,668,Other,41.03,1,70,bank_transfer,7.5,0,0,0,0.19207412,Low Risk
+32,1003,Electronics,8.77,1,0,credit_card,6.29,2,0,0,0.21213275,Low Risk
+52,1011,Clothing,23.85,1,5,credit_card,8.61,2,1,0,0.21622188,Low Risk
+45,1119,Home & Kitchen,4.41,2,0,credit_card,3.39,5,1,0,0.273583,Low Risk
+64,336,Sports,12.52,2,0,credit_card,4.49,2,0,0,0.11506494,Low Risk
+52,1287,Clothing,24.4,1,20,credit_card,5.52,2,0,0,0.28122476,Low Risk
+28,331,Beauty,6.72,2,5,credit_card,4.81,1,1,0,0.18132994,Low Risk
+51,721,Books,10.47,1,10,bank_transfer,4.42,3,0,0,0.089086756,Low Risk
+34,604,Electronics,9.55,1,5,debit_card,7.21,0,0,0,0.2099001,Low Risk
+25,642,Books,10.78,3,5,bank_transfer,4.74,0,1,0,0.093087696,Low Risk
+25,570,Electronics,14.91,6,0,credit_card,5.3,2,1,0,0.24576473,Low Risk
+64,946,Beauty,13.66,1,0,bank_transfer,5.18,3,0,0,0.14102581,Low Risk
+23,356,Beauty,27.76,1,0,credit_card,5.79,0,0,0,0.18026908,Low Risk
+42,1334,Home & Kitchen,153.59,2,0,debit_card,9.29,6,1,0,0.1463782,Low Risk
+52,683,Beauty,14.12,1,5,paypal,3.56,1,0,0,0.15302765,Low Risk
+30,776,Electronics,1.89,1,10,paypal,5.38,2,1,0,0.108480595,Low Risk
+38,697,Pet Supplies,33.57,1,0,debit_card,5.85,0,0,0,0.0749676,Low Risk
+19,318,Clothing,15.04,2,0,credit_card,4.07,4,0,0,0.25806165,Low Risk
+27,400,Clothing,79.45,2,5,credit_card,4.44,0,0,0,0.26195386,Low Risk
+63,706,Toys,10.34,1,0,credit_card,5.97,2,0,0,0.09958684,Low Risk
+41,569,Beauty,56.07,2,5,paypal,4.35,1,0,0,0.11449333,Low Risk
+29,480,Home & Kitchen,16.51,7,5,credit_card,5.74,1,0,0,0.20221625,Low Risk
+64,1110,Electronics,28.73,2,40,credit_card,10.52,2,0,0,0.26050308,Low Risk
+18,532,Clothing,21.41,2,0,credit_card,3.83,2,0,0,0.24748065,Low Risk
+73,407,Books,25.24,1,0,credit_card,5.17,1,0,0,0.01914311,Low Risk
+50,247,Clothing,69.13,1,5,debit_card,5.73,1,0,0,0.23596214,Low Risk
+38,1048,Clothing,7.38,1,0,credit_card,5.59,5,0,0,0.23462516,Low Risk
+49,1153,Garden,15.26,1,0,paypal,4.68,3,0,0,0.13173933,Low Risk
+54,495,Home & Kitchen,13.66,1,5,bank_transfer,6.83,1,0,0,0.16243999,Low Risk
+62,463,Books,13.88,2,0,paypal,8.03,0,0,0,0.09838173,Low Risk
+29,679,Home & Kitchen,105.42,5,0,debit_card,4.57,0,0,0,0.19220957,Low Risk
+41,899,Garden,49.92,3,15,debit_card,5.34,4,0,0,0.16806906,Low Risk
+42,472,Sports,3.9,4,15,credit_card,5.33,1,1,0,0.24805968,Low Risk
+51,1088,Garden,33.38,2,0,paypal,8.99,3,0,0,0.060110655,Low Risk
+43,902,Office,19.27,2,0,credit_card,4.98,0,0,0,0.08346643,Low Risk
+19,792,Beauty,33.7,2,0,bank_transfer,8.17,1,0,0,0.17679095,Low Risk
+34,532,Clothing,6.98,1,0,credit_card,6.9,0,0,0,0.2165541,Low Risk
+31,620,Clothing,23.14,1,5,bank_transfer,4.31,4,0,0,0.23111652,Low Risk
+26,736,Automotive,18.27,3,0,credit_card,11.59,6,0,0,0.14868717,Low Risk
+39,177,Sports,15.63,2,10,credit_card,3.9,0,1,0,0.130489,Low Risk
+44,544,Books,34.82,3,0,bank_transfer,5.83,1,0,0,0.066626936,Low Risk
+47,851,Electronics,26.25,1,10,credit_card,4.3,2,1,0,0.2033871,Low Risk
+22,314,Electronics,57.1,2,20,debit_card,6.18,0,1,0,0.39149556,Medium Risk
+45,689,Beauty,19.73,1,5,bank_transfer,6.65,2,1,0,0.13542975,Low Risk
+38,1157,Office,34.48,1,0,debit_card,10.46,6,0,0,0.110570125,Low Risk
+45,1023,Books,12.0,3,0,debit_card,4.26,2,0,0,0.15125954,Low Risk
+39,493,Food,79.09,4,10,debit_card,5.43,2,0,0,0.12950267,Low Risk
+36,995,Electronics,42.31,1,5,bank_transfer,7.98,2,0,0,0.19304028,Low Risk
+34,834,Beauty,4.93,2,0,bank_transfer,4.69,1,0,0,0.102220684,Low Risk
+18,1148,Electronics,5.15,1,0,credit_card,4.86,3,1,0,0.29216838,Low Risk
+29,792,Home & Kitchen,3.92,1,0,paypal,8.13,0,0,0,0.115556926,Low Risk
+61,837,Electronics,2.92,1,20,bank_transfer,4.85,0,0,0,0.21498363,Low Risk
+35,829,Other,29.36,1,0,paypal,4.86,0,0,0,0.06373814,Low Risk
+47,608,Electronics,32.21,1,0,debit_card,5.74,0,0,0,0.2029885,Low Risk
+18,1288,Clothing,26.59,3,15,credit_card,4.64,5,0,0,0.453463,Medium Risk
+56,816,Toys,9.31,1,5,debit_card,5.87,1,0,0,0.13809302,Low Risk
+25,729,Clothing,15.9,2,0,credit_card,5.51,0,1,0,0.28512433,Low Risk
+18,514,Other,8.79,2,0,bank_transfer,4.44,1,0,0,0.13645749,Low Risk
+35,1011,Beauty,16.39,3,0,debit_card,6.4,1,0,0,0.18088265,Low Risk
+24,873,Clothing,16.67,1,0,credit_card,7.79,1,0,0,0.31063384,Medium Risk
+66,756,Electronics,20.26,1,5,paypal,5.54,5,0,0,0.17040639,Low Risk
+35,342,Home & Kitchen,35.42,2,0,credit_card,4.64,0,0,0,0.16126323,Low Risk
+47,1000,Food,5.41,2,0,paypal,8.76,4,0,0,0.09220358,Low Risk
+41,755,Other,18.49,1,10,credit_card,5.05,1,0,0,0.07935559,Low Risk
+27,858,Home & Kitchen,38.78,1,5,bank_transfer,7.18,1,0,0,0.16577975,Low Risk
+52,513,Clothing,17.9,1,0,credit_card,5.04,1,0,0,0.23819871,Low Risk
+23,680,Electronics,5.06,1,0,debit_card,5.8,1,0,0,0.16346925,Low Risk
+44,463,Automotive,15.89,1,0,credit_card,8.92,2,0,0,0.13587818,Low Risk
+41,824,Beauty,15.14,2,10,debit_card,3.84,1,0,0,0.16813469,Low Risk
+27,458,Beauty,31.71,1,0,credit_card,4.09,0,0,0,0.13996838,Low Risk
+22,717,Garden,20.99,1,0,debit_card,5.66,0,0,0,0.12211849,Low Risk
+42,748,Books,4.48,2,0,credit_card,5.62,2,1,0,0.06388842,Low Risk
+28,856,Books,58.33,3,0,debit_card,4.94,2,0,0,0.26719508,Low Risk
+74,366,Beauty,12.8,1,5,credit_card,5.7,0,0,0,0.034027588,Low Risk
+57,530,Home & Kitchen,44.0,1,0,credit_card,4.59,2,0,0,0.08950646,Low Risk
+44,946,Clothing,48.0,2,10,credit_card,7.46,3,0,0,0.2772519,Low Risk
+64,935,Toys,4.58,2,0,credit_card,5.0,5,0,0,0.12352603,Low Risk
+25,750,Books,8.58,8,5,paypal,6.98,0,0,0,0.0718996,Low Risk
+40,1018,Automotive,60.23,1,0,credit_card,5.3,2,0,0,0.15442616,Low Risk
+25,1204,Toys,109.69,1,5,bank_transfer,4.05,2,0,0,0.09152489,Low Risk
+18,589,Food,28.28,2,10,debit_card,4.7,0,0,0,0.057744093,Low Risk
+52,360,Automotive,9.31,1,40,paypal,5.0,0,0,0,0.20271116,Low Risk
+37,1094,Beauty,22.27,1,20,bank_transfer,4.92,3,0,0,0.2894615,Low Risk
+45,812,Electronics,6.43,3,0,credit_card,5.75,0,0,0,0.12379071,Low Risk
+40,1223,Pet Supplies,21.83,2,0,credit_card,7.24,2,0,0,0.10839068,Low Risk
+36,856,Garden,39.48,2,0,credit_card,3.46,1,0,0,0.07229484,Low Risk
+51,1083,Automotive,1.95,2,0,credit_card,5.59,3,1,0,0.18998753,Low Risk
+28,337,Books,18.61,1,5,credit_card,5.94,2,0,0,0.1370619,Low Risk
+29,430,Electronics,7.0,2,0,paypal,6.23,3,0,0,0.15773866,Low Risk
+40,1157,Pet Supplies,36.73,1,0,debit_card,6.71,2,0,0,0.0629544,Low Risk
+45,1032,Books,25.56,2,5,paypal,5.23,6,0,0,0.07411102,Low Risk
+30,1008,Clothing,8.38,1,20,debit_card,4.64,1,1,0,0.45987502,Medium Risk
+56,771,Electronics,15.37,1,0,credit_card,6.31,1,0,0,0.19577524,Low Risk
+42,1162,Electronics,18.45,1,0,debit_card,5.58,0,0,0,0.20542003,Low Risk
+55,913,Home & Kitchen,11.91,1,15,credit_card,5.99,5,0,0,0.17005588,Low Risk
+44,909,Pet Supplies,2.25,1,0,debit_card,5.15,0,0,0,0.12704018,Low Risk
+30,629,Sports,18.66,1,0,debit_card,6.19,1,0,0,0.20186037,Low Risk
+41,1202,Toys,7.69,1,5,paypal,5.7,2,0,0,0.17507039,Low Risk
+23,1055,Beauty,14.54,1,40,paypal,4.53,2,0,1,0.5043928,Medium Risk
+42,736,Office,3.38,1,0,bank_transfer,4.37,4,0,0,0.10230081,Low Risk
+31,348,Music,31.98,2,0,paypal,3.58,0,0,0,0.0901334,Low Risk
+38,460,Electronics,26.35,2,0,credit_card,3.55,0,0,0,0.17665236,Low Risk
+34,710,Electronics,20.96,2,0,debit_card,5.93,0,0,0,0.189618,Low Risk
+47,774,Sports,183.76,1,5,debit_card,3.67,1,0,0,0.15362418,Low Risk
+61,613,Music,13.3,2,30,debit_card,8.57,3,1,0,0.311598,Medium Risk
+46,564,Clothing,31.12,6,0,bank_transfer,4.46,1,0,0,0.18294768,Low Risk
+38,1136,Sports,13.55,2,5,credit_card,4.26,2,1,0,0.14613923,Low Risk
+39,510,Electronics,20.93,2,0,credit_card,4.21,0,0,0,0.21982408,Low Risk
+43,230,Food,20.3,1,0,credit_card,6.69,1,0,0,0.03609221,Low Risk
+18,1233,Electronics,21.73,4,0,credit_card,4.9,1,1,0,0.29172343,Low Risk
+51,1149,Toys,5.38,3,25,credit_card,3.28,3,1,0,0.15093258,Low Risk
+51,1041,Home & Kitchen,82.72,1,0,credit_card,5.48,4,0,0,0.1562783,Low Risk
+42,875,Home & Kitchen,23.45,2,5,credit_card,4.14,3,1,0,0.16496186,Low Risk
+41,700,Electronics,11.81,1,0,credit_card,4.09,0,0,0,0.12697533,Low Risk
+37,685,Garden,48.28,1,5,credit_card,4.14,2,0,0,0.053657964,Low Risk
+36,1196,Toys,30.34,4,5,credit_card,4.28,3,0,0,0.07819275,Low Risk
+37,1399,Clothing,21.18,1,0,cash_on_delivery,6.36,2,0,0,0.116524994,Low Risk
+58,1017,Electronics,11.48,1,40,paypal,5.2,1,1,0,0.40367997,Medium Risk
+41,851,Books,15.63,1,30,debit_card,8.54,0,0,0,0.1390464,Low Risk
+33,955,Automotive,3.7,1,0,bank_transfer,3.95,2,0,0,0.20488587,Low Risk
+47,1016,Pet Supplies,27.19,2,0,bank_transfer,4.83,2,1,0,0.12806652,Low Risk
+38,359,Books,14.36,2,0,paypal,5.92,0,0,0,0.114177346,Low Risk
+26,590,Sports,23.43,1,0,cash_on_delivery,4.87,0,0,0,0.06700052,Low Risk
+53,674,Electronics,54.77,1,0,debit_card,3.62,1,0,0,0.14716622,Low Risk
+27,502,Home & Kitchen,31.85,1,10,debit_card,8.13,1,1,0,0.25363502,Low Risk
+53,691,Books,46.86,1,0,debit_card,5.06,4,0,0,0.09785185,Low Risk
+66,533,Beauty,19.03,1,0,credit_card,5.49,3,0,0,0.110062115,Low Risk
+67,770,Clothing,27.34,2,0,bank_transfer,5.57,0,0,0,0.14527266,Low Risk
+52,618,Clothing,17.73,1,0,paypal,4.8,1,1,0,0.21051435,Low Risk
+18,1140,Automotive,16.63,1,5,credit_card,4.74,0,0,0,0.39467314,Medium Risk
+51,828,Electronics,61.43,1,0,paypal,4.69,1,0,0,0.12088212,Low Risk
+44,453,Sports,11.66,1,0,credit_card,8.14,1,0,0,0.15385279,Low Risk
+35,256,Electronics,26.72,2,0,cash_on_delivery,5.82,1,0,0,0.23918912,Low Risk
+38,599,Books,10.74,1,0,debit_card,4.79,1,0,0,0.15375103,Low Risk
+37,1026,Electronics,4.91,1,0,credit_card,7.1,3,0,0,0.1445772,Low Risk
+18,604,Books,9.02,2,30,bank_transfer,5.62,0,0,0,0.13338518,Low Risk
+28,877,Home & Kitchen,19.93,2,0,credit_card,6.2,3,1,0,0.19140945,Low Risk
+26,753,Electronics,11.27,2,0,bank_transfer,4.35,0,0,0,0.12815686,Low Risk
+34,1174,Books,5.51,2,0,paypal,5.38,4,0,0,0.041556742,Low Risk
+46,351,Books,49.93,1,0,bank_transfer,5.51,0,0,0,0.05812511,Low Risk
+32,484,Electronics,24.48,1,40,debit_card,5.67,0,1,0,0.49483433,Medium Risk
+42,707,Electronics,6.39,3,5,debit_card,5.23,0,1,0,0.17473479,Low Risk
+18,169,Beauty,39.99,2,0,paypal,4.39,0,0,0,0.19759484,Low Risk
+70,1071,Clothing,16.19,2,0,bank_transfer,5.54,7,0,0,0.15183781,Low Risk
+18,855,Books,12.04,2,5,paypal,7.09,0,0,0,0.09906888,Low Risk
+37,752,Clothing,18.61,1,5,debit_card,4.84,3,0,0,0.23629627,Low Risk
+23,204,Electronics,2.37,1,15,debit_card,4.18,0,1,0,0.14201204,Low Risk
+21,766,Office,37.79,2,0,paypal,9.77,1,0,0,0.12618925,Low Risk
+70,1165,Clothing,11.23,3,0,credit_card,8.15,4,0,0,0.16118614,Low Risk
+41,247,Beauty,56.26,2,0,paypal,4.72,0,0,0,0.14495356,Low Risk
+39,1061,Electronics,15.99,1,0,debit_card,5.88,0,0,0,0.20791757,Low Risk
+56,615,Sports,17.51,1,0,cash_on_delivery,5.49,2,0,0,0.11894495,Low Risk
+43,714,Toys,7.53,1,20,bank_transfer,4.41,2,1,0,0.10372755,Low Risk
+68,853,Clothing,22.16,1,10,paypal,8.53,1,0,0,0.18635373,Low Risk
+27,942,Food,7.85,1,0,credit_card,5.3,2,0,0,0.04959591,Low Risk
+25,591,Music,10.18,3,0,cash_on_delivery,5.45,0,0,0,0.1712358,Low Risk
+53,820,Clothing,18.5,1,30,paypal,4.79,0,1,0,0.27766696,Low Risk
+63,515,Garden,31.22,1,20,debit_card,5.85,1,0,0,0.16217425,Low Risk
+28,459,Beauty,7.24,1,15,bank_transfer,4.01,1,0,0,0.17430261,Low Risk
+79,676,Electronics,39.01,1,0,credit_card,5.65,1,0,0,0.022360383,Low Risk
+47,557,Sports,34.27,2,5,credit_card,5.63,2,0,0,0.1048295,Low Risk
+31,438,Clothing,26.42,1,30,cash_on_delivery,4.16,0,0,0,0.32809293,Medium Risk
+53,817,Garden,30.62,1,0,credit_card,4.11,4,0,0,0.09457069,Low Risk
+30,736,Home & Kitchen,53.95,1,0,bank_transfer,5.24,1,0,0,0.13209318,Low Risk
+54,1263,Office,10.72,1,0,debit_card,3.25,4,0,0,0.1759078,Low Risk
+23,236,Electronics,11.9,1,5,credit_card,5.85,0,0,0,0.22758336,Low Risk
+55,400,Electronics,35.43,1,0,paypal,5.62,1,0,0,0.12759319,Low Risk
+58,750,Other,20.88,1,5,credit_card,3.5,4,0,0,0.0566217,Low Risk
+45,226,Food,3.51,1,0,credit_card,5.74,0,0,0,0.02160696,Low Risk
+33,179,Clothing,32.39,5,0,credit_card,8.92,2,0,0,0.43293494,Medium Risk
+31,671,Electronics,16.21,1,5,credit_card,4.38,3,0,0,0.2741371,Low Risk
+51,1129,Clothing,34.38,1,0,credit_card,5.94,4,0,0,0.13563243,Low Risk
+38,682,Toys,6.04,2,0,paypal,8.32,2,0,0,0.07689965,Low Risk
+30,632,Home & Kitchen,9.61,1,0,debit_card,3.69,3,1,0,0.15837948,Low Risk
+38,1034,Books,27.89,1,5,credit_card,5.6,4,0,0,0.092610374,Low Risk
+44,822,Clothing,12.68,2,0,credit_card,5.05,1,0,0,0.13332415,Low Risk
+38,94,Home & Kitchen,2.8,1,10,credit_card,5.42,2,1,0,0.16835329,Low Risk
+18,789,Books,78.38,7,0,paypal,8.71,2,0,0,0.085300855,Low Risk
+39,434,Beauty,8.84,2,15,bank_transfer,5.89,4,1,0,0.21079838,Low Risk
+26,497,Clothing,29.94,1,20,bank_transfer,6.66,0,0,0,0.3662763,Medium Risk
+45,1282,Sports,18.7,3,0,credit_card,6.39,2,0,0,0.16516252,Low Risk
+21,973,Electronics,9.58,1,0,credit_card,12.99,2,0,0,0.19337682,Low Risk
+27,645,Pet Supplies,4.5,1,0,debit_card,4.16,3,0,0,0.17937504,Low Risk
+34,694,Pet Supplies,39.7,2,0,credit_card,4.31,1,0,0,0.08324168,Low Risk
+59,389,Automotive,11.86,2,0,debit_card,5.35,0,0,0,0.14380977,Low Risk
+29,1051,Electronics,73.92,1,0,credit_card,7.88,3,0,0,0.20547919,Low Risk
+41,968,Books,14.78,2,0,credit_card,5.94,4,0,0,0.12503356,Low Risk
+24,381,Electronics,43.32,1,10,credit_card,3.83,3,0,0,0.17374858,Low Risk
+52,1302,Sports,12.53,1,0,credit_card,7.1,3,0,0,0.10405799,Low Risk
+34,482,Sports,23.93,1,10,credit_card,5.98,0,0,0,0.15315004,Low Risk
+46,332,Home & Kitchen,28.41,2,5,debit_card,4.35,2,0,0,0.19329447,Low Risk
+21,1374,Clothing,42.1,7,30,bank_transfer,11.78,3,0,0,0.27766088,Low Risk
+50,1102,Electronics,81.06,2,10,credit_card,7.47,3,1,0,0.19253644,Low Risk
+19,1101,Books,11.89,2,0,paypal,10.55,1,0,0,0.14840105,Low Risk
+26,695,Sports,35.18,1,20,debit_card,4.69,0,0,0,0.30357245,Medium Risk
+35,683,Sports,11.49,4,0,credit_card,8.32,1,0,0,0.118454844,Low Risk
+18,1285,Automotive,73.74,1,0,debit_card,5.78,3,0,0,0.37248406,Medium Risk
+57,642,Clothing,12.67,3,0,bank_transfer,5.81,2,0,0,0.124807715,Low Risk
+67,1041,Home & Kitchen,4.83,3,0,bank_transfer,5.15,2,0,0,0.19043498,Low Risk
+31,1010,Sports,35.25,1,0,paypal,4.7,2,1,0,0.123196885,Low Risk
+60,888,Clothing,21.0,1,20,paypal,5.84,1,0,0,0.20284182,Low Risk
+28,414,Clothing,25.54,1,5,debit_card,4.93,1,0,0,0.23768729,Low Risk
+56,841,Clothing,4.93,1,0,paypal,8.83,3,1,0,0.13543922,Low Risk
+28,423,Books,11.29,5,0,paypal,6.53,0,0,0,0.101992734,Low Risk
+37,496,Sports,31.07,1,0,bank_transfer,4.92,1,0,0,0.10661386,Low Risk
+62,221,Electronics,65.83,1,15,paypal,5.14,0,0,0,0.19025487,Low Risk
+64,879,Sports,65.66,1,0,credit_card,6.54,1,0,0,0.13172981,Low Risk
+65,1066,Books,41.34,1,0,debit_card,4.82,2,0,0,0.0936526,Low Risk
+66,866,Electronics,10.34,1,20,debit_card,5.03,3,1,0,0.3154393,Medium Risk
+28,453,Home & Kitchen,22.81,1,0,paypal,4.37,0,0,0,0.16270508,Low Risk
+18,703,Beauty,15.38,1,0,debit_card,11.97,2,0,0,0.19386773,Low Risk
+50,664,Beauty,13.36,1,10,credit_card,5.25,3,0,0,0.1574951,Low Risk
+56,923,Beauty,23.59,2,20,paypal,8.12,4,1,0,0.210679,Low Risk
+42,1244,Sports,41.13,1,0,paypal,5.31,1,0,0,0.14191864,Low Risk
+53,362,Books,26.59,1,0,paypal,4.13,2,0,0,0.055708885,Low Risk
+25,725,Books,38.78,1,0,credit_card,4.44,1,0,0,0.10217563,Low Risk
+33,956,Food,27.34,1,30,bank_transfer,8.97,1,0,0,0.18620707,Low Risk
+65,929,Sports,20.7,2,0,debit_card,5.15,0,0,0,0.13853794,Low Risk
+49,1225,Automotive,37.45,1,20,credit_card,5.0,4,0,0,0.23452446,Low Risk
+34,1135,Pet Supplies,54.34,2,0,bank_transfer,4.03,2,0,0,0.0484798,Low Risk
+41,1104,Electronics,25.34,1,0,credit_card,4.64,4,0,0,0.20047921,Low Risk
+47,657,Electronics,43.49,1,0,bank_transfer,4.48,2,0,0,0.12580545,Low Risk
+25,351,Home & Kitchen,9.72,1,0,cash_on_delivery,5.27,2,0,0,0.12738086,Low Risk
+45,198,Clothing,21.76,1,0,bank_transfer,3.91,0,0,0,0.21978278,Low Risk
+31,1229,Garden,12.75,2,5,credit_card,5.73,2,0,0,0.06572341,Low Risk
+50,781,Clothing,28.17,4,0,debit_card,4.79,0,0,0,0.33086443,Medium Risk
+76,383,Sports,20.78,7,0,credit_card,4.61,1,0,0,0.033050414,Low Risk
+41,1018,Toys,19.0,1,0,credit_card,7.21,6,0,0,0.14789392,Low Risk
+34,1351,Beauty,18.53,1,10,debit_card,4.42,1,0,0,0.21762025,Low Risk
+77,875,Clothing,33.72,4,0,credit_card,5.88,1,0,0,0.056500785,Low Risk
+40,1110,Clothing,18.18,1,50,credit_card,6.75,1,0,1,0.56439954,Medium Risk
+18,904,Music,53.42,2,0,debit_card,5.02,2,0,0,0.22449063,Low Risk
+45,1225,Home & Kitchen,49.49,2,0,debit_card,5.53,6,0,0,0.102182135,Low Risk
+53,798,Sports,6.53,1,0,credit_card,6.37,2,0,0,0.11428012,Low Risk
+21,1252,Home & Kitchen,36.55,2,5,credit_card,5.36,1,0,0,0.2052207,Low Risk
+47,1343,Food,16.08,1,5,debit_card,5.68,4,0,0,0.14015186,Low Risk
+47,1260,Books,43.15,2,0,paypal,4.36,4,0,0,0.034910765,Low Risk
+25,1398,Home & Kitchen,9.2,1,20,credit_card,4.78,2,0,1,0.50051296,Medium Risk
+26,876,Toys,29.42,1,10,credit_card,4.79,3,1,0,0.18276036,Low Risk
+62,1325,Beauty,106.32,2,0,credit_card,4.05,3,0,0,0.11888771,Low Risk
+49,1062,Home & Kitchen,35.43,1,0,bank_transfer,5.73,2,0,0,0.11037038,Low Risk
+48,583,Clothing,42.28,1,5,cash_on_delivery,5.06,1,0,0,0.05555343,Low Risk
+46,932,Clothing,11.04,2,0,credit_card,6.19,1,0,0,0.16122586,Low Risk
+18,493,Electronics,39.97,1,0,credit_card,8.9,1,0,0,0.21686964,Low Risk
+41,1374,Food,26.56,7,0,debit_card,5.72,5,1,0,0.106242985,Low Risk
+38,1385,Home & Kitchen,78.58,2,0,credit_card,4.94,3,0,0,0.19262658,Low Risk
+35,846,Beauty,6.01,1,10,credit_card,5.36,2,0,0,0.2137691,Low Risk
+55,912,Clothing,38.56,5,0,paypal,4.09,4,0,0,0.20129526,Low Risk
+41,1277,Home & Kitchen,26.15,1,0,paypal,4.4,6,0,0,0.22451784,Low Risk
+38,522,Jewelry,12.0,1,0,debit_card,7.99,0,0,0,0.10465304,Low Risk
+47,1130,Clothing,45.34,3,10,bank_transfer,5.51,1,0,0,0.1877198,Low Risk
+35,507,Electronics,14.51,1,0,credit_card,5.4,0,0,0,0.24653715,Low Risk
+18,186,Electronics,3.69,1,0,paypal,4.8,1,0,0,0.2624932,Low Risk
+31,403,Electronics,8.35,1,0,debit_card,7.2,0,1,0,0.19660464,Low Risk
+42,711,Sports,24.5,1,50,credit_card,6.54,1,0,0,0.3124396,Medium Risk
+56,1189,Electronics,32.7,1,0,cash_on_delivery,4.7,4,0,0,0.08540378,Low Risk
+71,913,Jewelry,38.53,2,5,credit_card,4.99,4,0,0,0.06655451,Low Risk
+31,1006,Books,19.1,1,0,paypal,5.25,3,0,0,0.13049512,Low Risk
+37,1048,Clothing,5.62,1,20,debit_card,8.7,5,0,0,0.26194194,Low Risk
+41,655,Other,20.34,1,5,debit_card,4.4,9,0,0,0.07490042,Low Risk
+26,371,Clothing,37.8,1,0,debit_card,5.56,4,0,0,0.21385884,Low Risk
+32,1035,Automotive,94.1,1,0,credit_card,7.96,5,0,0,0.1660607,Low Risk
+72,202,Electronics,10.53,4,5,debit_card,3.9,1,0,0,0.04475883,Low Risk
+21,851,Toys,26.27,1,25,bank_transfer,6.89,2,0,0,0.23991685,Low Risk
+23,37,Sports,23.1,2,0,cash_on_delivery,4.26,0,0,0,0.109523155,Low Risk
+48,439,Beauty,30.44,2,0,bank_transfer,4.94,1,0,0,0.124835856,Low Risk
+37,684,Toys,87.67,2,0,credit_card,10.0,0,0,0,0.17302524,Low Risk
+52,838,Beauty,15.15,1,0,credit_card,4.45,1,0,0,0.14226747,Low Risk
+48,199,Office,34.47,1,0,paypal,5.75,0,0,0,0.0760444,Low Risk
+39,372,Electronics,42.33,1,0,debit_card,5.41,1,1,0,0.18385847,Low Risk
+61,1174,Electronics,54.45,3,0,paypal,5.54,3,1,0,0.10992197,Low Risk
+28,781,Clothing,22.66,1,0,credit_card,5.41,4,1,0,0.24410602,Low Risk
+24,1083,Books,58.61,5,0,debit_card,5.9,1,0,0,0.19288482,Low Risk
+37,562,Sports,33.15,8,15,debit_card,3.72,0,0,0,0.087586604,Low Risk
+47,1180,Electronics,11.34,1,5,credit_card,5.13,3,0,0,0.23117,Low Risk
+32,541,Toys,11.75,1,10,cash_on_delivery,4.01,0,0,0,0.074789755,Low Risk
+52,649,Toys,41.62,1,0,credit_card,5.47,9,1,0,0.13824376,Low Risk
+49,818,Home & Kitchen,40.54,3,0,debit_card,9.87,2,1,0,0.15232536,Low Risk
+21,704,Electronics,8.73,1,20,credit_card,4.94,1,0,0,0.3940032,Medium Risk
+56,1122,Clothing,13.03,1,0,debit_card,6.39,5,0,0,0.22029588,Low Risk
+33,669,Clothing,42.14,1,0,credit_card,5.02,0,0,0,0.23331814,Low Risk
+45,729,Beauty,17.88,2,0,paypal,3.23,1,1,0,0.17077585,Low Risk
+44,740,Sports,75.87,1,0,credit_card,5.51,1,0,0,0.14660151,Low Risk
+50,607,Clothing,18.44,1,10,credit_card,5.45,0,0,0,0.2351247,Low Risk
+64,548,Garden,19.16,2,5,credit_card,5.09,4,0,0,0.048108373,Low Risk
+31,834,Electronics,12.68,3,30,paypal,6.67,2,1,0,0.23793392,Low Risk
+71,721,Music,21.5,1,0,cash_on_delivery,3.27,1,0,0,0.05083694,Low Risk
+18,401,Sports,28.34,1,5,credit_card,6.37,2,1,0,0.20206134,Low Risk
+53,196,Toys,131.28,2,0,credit_card,5.36,0,0,0,0.2331987,Low Risk
+39,146,Books,6.18,1,0,credit_card,5.38,0,0,0,0.09146253,Low Risk
+24,727,Toys,25.93,1,0,credit_card,5.18,0,0,0,0.17820856,Low Risk
+24,895,Clothing,30.04,1,0,paypal,4.72,0,0,0,0.2314635,Low Risk
+29,622,Sports,33.43,1,0,credit_card,5.12,4,1,0,0.19417171,Low Risk
+36,1119,Books,35.26,2,0,credit_card,4.54,0,1,0,0.09334357,Low Risk
+41,819,Books,17.91,1,0,bank_transfer,4.87,1,0,0,0.09973055,Low Risk
+27,1237,Other,58.57,1,0,credit_card,3.52,4,0,0,0.30135053,Medium Risk
+34,766,Books,16.73,1,5,credit_card,4.37,5,0,0,0.09934773,Low Risk
+46,1244,Electronics,11.85,3,5,bank_transfer,4.77,2,0,0,0.13783056,Low Risk
+50,696,Home & Kitchen,5.0,1,10,paypal,3.9,4,0,0,0.20740655,Low Risk
+64,155,Clothing,4.01,2,0,debit_card,4.02,0,1,0,0.49127206,Medium Risk
+34,473,Beauty,15.63,1,0,paypal,4.67,2,0,0,0.1910662,Low Risk
+56,719,Books,50.42,1,0,debit_card,4.94,5,0,0,0.1097058,Low Risk
+47,774,Books,59.91,2,0,credit_card,6.45,5,1,0,0.08908113,Low Risk
+37,1055,Home & Kitchen,16.94,1,10,paypal,5.55,3,1,0,0.20981726,Low Risk
+57,1281,Books,35.98,1,0,debit_card,8.69,4,0,0,0.041633766,Low Risk
+50,391,Food,5.0,1,0,bank_transfer,9.9,0,0,0,0.03794759,Low Risk
+41,1301,Beauty,7.46,1,0,bank_transfer,6.49,0,0,0,0.14368305,Low Risk
+18,978,Clothing,38.66,2,0,credit_card,4.17,4,0,0,0.22816126,Low Risk
+64,114,Home & Kitchen,87.93,1,5,credit_card,3.6,0,0,0,0.18993396,Low Risk
+46,750,Electronics,44.94,1,0,bank_transfer,4.92,0,0,0,0.11841529,Low Risk
+18,908,Books,27.57,1,5,credit_card,8.68,3,1,0,0.1012895,Low Risk
+37,725,Books,7.66,1,0,bank_transfer,5.18,1,0,0,0.06330074,Low Risk
+28,253,Electronics,19.97,1,0,bank_transfer,7.85,0,0,0,0.17219114,Low Risk
+32,85,Clothing,29.89,1,0,credit_card,5.81,0,1,0,0.21107486,Low Risk
+53,611,Electronics,20.38,2,10,credit_card,5.9,0,0,0,0.23573321,Low Risk
+21,458,Toys,9.05,1,20,debit_card,5.77,1,1,0,0.23181583,Low Risk
+45,758,Electronics,15.7,3,5,debit_card,7.12,2,0,0,0.23364362,Low Risk
+56,1162,Clothing,19.18,2,0,credit_card,5.36,5,0,0,0.20723571,Low Risk
+60,929,Books,32.02,1,5,credit_card,6.34,3,0,0,0.07944228,Low Risk
+37,843,Clothing,7.99,3,25,credit_card,5.17,3,1,0,0.4478954,Medium Risk
+42,354,Books,38.66,1,10,credit_card,6.0,1,0,0,0.09507822,Low Risk
+21,1072,Electronics,39.46,2,10,paypal,4.99,2,1,0,0.2095904,Low Risk
+45,750,Home & Kitchen,25.2,1,5,credit_card,5.39,0,0,0,0.13879202,Low Risk
+44,1289,Electronics,33.31,1,0,bank_transfer,3.43,6,0,0,0.12098502,Low Risk
+63,525,Electronics,25.62,1,30,cash_on_delivery,6.54,0,0,0,0.2014241,Low Risk
+56,44,Clothing,21.11,3,0,paypal,4.85,0,1,0,0.13657606,Low Risk
+21,240,Other,58.58,1,0,bank_transfer,4.3,1,0,0,0.05226241,Low Risk
+35,924,Sports,16.73,1,0,cash_on_delivery,4.25,1,0,0,0.090690255,Low Risk
+45,524,Home & Kitchen,21.26,2,0,debit_card,6.91,0,0,0,0.14091127,Low Risk
+25,983,Sports,20.3,1,0,paypal,6.07,3,0,0,0.15275162,Low Risk
+65,262,Electronics,9.72,8,5,credit_card,8.89,0,0,0,0.13694586,Low Risk
+20,619,Books,13.99,1,0,debit_card,10.91,3,0,0,0.21124597,Low Risk
+60,586,Home & Kitchen,6.93,2,10,cash_on_delivery,3.81,1,0,0,0.12892295,Low Risk
+55,613,Electronics,16.8,4,0,paypal,4.89,1,0,0,0.20663194,Low Risk
+18,749,Garden,11.47,1,0,credit_card,4.8,3,0,0,0.15595831,Low Risk
+76,848,Pet Supplies,4.94,1,50,debit_card,4.75,2,0,0,0.19238372,Low Risk
+47,696,Books,40.25,1,0,credit_card,3.5,4,0,0,0.059158012,Low Risk
+18,324,Food,43.41,1,90,credit_card,3.8,1,0,1,0.60161597,Medium Risk
+42,1331,Toys,24.92,6,0,paypal,3.7,3,1,0,0.07024048,Low Risk
+18,1238,Clothing,13.99,1,0,bank_transfer,5.33,4,0,0,0.27835807,Low Risk
+30,210,Clothing,39.08,1,5,paypal,4.45,2,1,0,0.17466155,Low Risk
+39,465,Toys,19.81,3,0,cash_on_delivery,3.6,0,0,0,0.06396119,Low Risk
+62,1167,Electronics,12.49,2,10,bank_transfer,4.06,4,0,0,0.13596508,Low Risk
+45,1361,Electronics,9.22,1,50,credit_card,5.79,4,0,0,0.4731942,Medium Risk
+45,609,Sports,6.63,1,0,debit_card,4.87,0,0,0,0.13734762,Low Risk
+39,1037,Electronics,18.0,1,0,paypal,5.19,0,0,0,0.19079478,Low Risk
+34,167,Electronics,19.04,1,15,credit_card,4.05,0,0,0,0.18478921,Low Risk
+28,629,Electronics,16.63,1,0,credit_card,6.96,1,0,0,0.26944682,Low Risk
+39,992,Toys,18.66,3,0,credit_card,5.99,1,0,0,0.10771104,Low Risk
+26,712,Toys,19.53,3,0,credit_card,4.4,1,0,0,0.19629264,Low Risk
+44,765,Electronics,9.13,1,0,debit_card,5.26,2,0,0,0.1794303,Low Risk
+18,718,Automotive,31.39,1,5,debit_card,7.44,2,0,0,0.49336013,Medium Risk
+48,600,Clothing,93.16,1,40,debit_card,4.65,0,0,1,0.564593,Medium Risk
+62,829,Home & Kitchen,5.89,2,0,debit_card,6.27,2,0,0,0.12228892,Low Risk
+45,1175,Sports,7.55,1,0,paypal,3.33,2,0,0,0.18048455,Low Risk
+44,845,Music,13.85,1,10,paypal,3.46,2,0,0,0.16467261,Low Risk
+42,429,Clothing,45.18,2,30,credit_card,7.88,1,1,0,0.37707514,Medium Risk
+66,509,Automotive,37.08,1,5,cash_on_delivery,4.09,1,0,0,0.06321844,Low Risk
+49,612,Music,10.16,1,10,debit_card,5.38,0,1,0,0.17107566,Low Risk
+33,860,Sports,6.79,1,10,debit_card,8.28,1,0,0,0.18025488,Low Risk
+60,889,Toys,9.52,1,5,paypal,4.16,1,0,0,0.08006662,Low Risk
+18,1354,Clothing,17.85,1,0,cash_on_delivery,3.33,5,0,0,0.08665343,Low Risk
+41,872,Music,37.4,1,0,credit_card,6.26,3,0,0,0.1887942,Low Risk
+31,1198,Beauty,66.89,2,0,debit_card,6.75,4,0,0,0.1447804,Low Risk
+44,673,Toys,8.01,1,0,credit_card,4.57,0,0,0,0.06415938,Low Risk
+43,1157,Sports,12.75,1,0,debit_card,5.7,3,0,0,0.12257724,Low Risk
+23,358,Home & Kitchen,24.32,1,0,credit_card,4.99,2,0,0,0.1967924,Low Risk
+25,758,Electronics,9.21,1,0,credit_card,5.48,2,1,0,0.21012416,Low Risk
+70,808,Sports,14.22,2,5,paypal,7.01,1,0,0,0.08215473,Low Risk
+24,571,Electronics,17.96,1,0,debit_card,14.59,0,0,0,0.22217636,Low Risk
+36,242,Electronics,27.53,3,0,debit_card,5.71,0,0,0,0.17577976,Low Risk
+44,876,Office,23.67,2,5,bank_transfer,9.48,6,1,0,0.112160526,Low Risk
+29,733,Other,31.56,1,25,debit_card,5.94,2,0,0,0.26469526,Low Risk
+48,184,Clothing,32.87,1,5,credit_card,8.2,1,1,0,0.37708774,Medium Risk
+41,1076,Electronics,24.66,1,0,credit_card,4.63,5,0,0,0.19467829,Low Risk
+30,889,Jewelry,7.09,1,5,credit_card,5.95,3,0,0,0.16824752,Low Risk
+33,846,Electronics,11.73,2,0,debit_card,5.24,1,0,0,0.20822975,Low Risk
+40,945,Beauty,4.18,1,0,bank_transfer,4.63,1,0,0,0.20723419,Low Risk
+53,677,Clothing,18.41,1,0,paypal,4.64,2,0,0,0.19440977,Low Risk
+63,1047,Jewelry,34.28,2,5,debit_card,8.03,1,0,0,0.1605083,Low Risk
+43,490,Clothing,22.61,4,5,debit_card,3.42,2,0,0,0.27225092,Low Risk
+45,921,Toys,20.98,2,0,debit_card,5.09,2,0,0,0.1667144,Low Risk
+52,1146,Food,18.54,1,40,bank_transfer,5.73,5,0,0,0.38349158,Medium Risk
+50,951,Clothing,18.88,1,5,paypal,5.92,4,0,0,0.22436295,Low Risk
+51,285,Electronics,14.7,3,0,bank_transfer,4.49,1,0,0,0.16125247,Low Risk
+35,1009,Electronics,25.53,8,0,credit_card,5.28,4,0,0,0.1097874,Low Risk
+61,424,Clothing,13.05,4,0,debit_card,4.69,1,0,0,0.31185475,Medium Risk
+28,548,Home & Kitchen,9.88,1,10,paypal,4.32,1,0,0,0.15607662,Low Risk
+55,361,Electronics,22.07,1,0,credit_card,8.62,0,0,0,0.16162655,Low Risk
+37,391,Other,32.75,1,0,paypal,5.24,0,0,0,0.07701304,Low Risk
+51,1355,Sports,102.46,1,5,credit_card,3.42,3,1,0,0.17660597,Low Risk
+45,1318,Sports,23.76,1,10,bank_transfer,7.15,3,0,0,0.11786606,Low Risk
+29,1015,Clothing,7.27,2,0,credit_card,6.24,0,1,0,0.25918004,Low Risk
+33,674,Electronics,38.41,1,0,credit_card,5.24,3,0,0,0.20217599,Low Risk
+63,850,Beauty,81.87,2,5,bank_transfer,5.45,0,0,0,0.14337716,Low Risk
+21,1201,Automotive,18.05,1,0,debit_card,7.1,3,1,0,0.17023745,Low Risk
+49,461,Books,64.7,1,10,credit_card,4.87,1,0,0,0.097289935,Low Risk
+30,955,Beauty,20.8,3,0,paypal,5.76,1,1,0,0.15589403,Low Risk
+45,562,Electronics,38.21,2,0,debit_card,6.42,2,0,0,0.18583138,Low Risk
+21,944,Food,38.03,1,5,credit_card,5.65,3,0,0,0.10828931,Low Risk
+30,1379,Music,20.0,1,0,credit_card,6.56,4,0,0,0.24638972,Low Risk
+41,1447,Clothing,15.84,1,5,credit_card,4.14,6,0,0,0.14268135,Low Risk
+53,942,Clothing,4.41,1,0,bank_transfer,5.09,2,0,0,0.34714267,Medium Risk
+18,747,Clothing,16.73,1,0,debit_card,6.58,6,0,0,0.29351366,Low Risk
+46,458,Food,21.97,1,0,debit_card,5.55,0,0,0,0.04979974,Low Risk
+53,847,Sports,14.71,1,0,credit_card,4.78,3,0,0,0.18881194,Low Risk
+35,788,Clothing,17.07,1,0,credit_card,4.79,4,0,0,0.22167206,Low Risk
+18,856,Toys,24.41,3,0,paypal,4.65,3,0,0,0.21326159,Low Risk
+18,957,Books,19.3,1,25,credit_card,4.17,2,0,0,0.25309733,Low Risk
+38,1000,Home & Kitchen,20.37,1,15,cash_on_delivery,5.71,3,1,0,0.167093,Low Risk
+26,707,Sports,40.03,1,0,paypal,5.2,2,1,0,0.11558405,Low Risk
+61,1051,Books,11.86,1,0,bank_transfer,4.07,3,0,0,0.09745908,Low Risk
+49,931,Toys,26.82,1,15,credit_card,5.28,0,0,0,0.1502275,Low Risk
+64,1166,Home & Kitchen,20.21,1,0,bank_transfer,5.04,2,0,0,0.2189389,Low Risk
+28,923,Books,8.33,1,0,debit_card,5.3,5,0,0,0.10940221,Low Risk
+18,273,Clothing,41.82,2,0,debit_card,6.28,0,0,0,0.31357542,Medium Risk
+27,652,Food,48.99,1,0,debit_card,5.62,0,0,0,0.092272595,Low Risk
