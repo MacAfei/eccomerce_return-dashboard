@@ -145,7 +145,7 @@ Launch the web interface using Streamlit:
 streamlit run app.py
 ```
 The application will automatically open in your default browser at:
-👉 **`[http://localhost:8501/](https://eccomercereturn-dashboard-bbhguvatvd3zijbyzpk9up.streamlit.app/)`**
+👉 **`(https://eccomercereturn-dashboard-bbhguvatvd3zijbyzpk9up.streamlit.app/)`**
 
 ---
 
