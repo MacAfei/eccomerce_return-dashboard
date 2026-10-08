@@ -2,7 +2,6 @@
   "venvPath": ".",
   "venv": ".venv",
   "extraPaths": [
-    "C:/Users/afeef/AppData/Local/Programs/Python/Python310/lib/site-packages",
-    "C:/Users/afeef/AppData/Local/Programs/Python/Python310/lib"
+    "C:/Users/afeef/AppData/Local/Programs/Python/Python310/lib/site-packages"
   ]
 }

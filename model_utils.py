@@ -74,11 +74,11 @@ def load_full_scored_dataset():
     return pd.DataFrame()
 
 def normalize_category(cat: str) -> str:
-    cleaned = str(cat).strip().lower()
+    cleaned = cat.strip().lower()
     return CATEGORY_MAP.get(cleaned, "Beauty")
 
 def normalize_payment(pm: str) -> str:
-    cleaned = str(pm).strip().lower()
+    cleaned = pm.strip().lower()
     return PAYMENT_MAP.get(cleaned, "Debit Card")
 
 def predict_single_order(
@@ -103,12 +103,12 @@ def predict_single_order(
     if not sample_df.empty:
         # Check if row matches an existing sample within reasonable numerical tolerance
         cat_col = 'Product Category' if 'Product Category' in sample_df.columns else ('product_category' if 'product_category' in sample_df.columns else None)
-        category_match = (sample_df[cat_col].astype(str).str.lower() == str(product_category).strip().lower()) if cat_col else True
+        category_match = (sample_df[cat_col].astype(str).str.lower() == product_category.strip().lower()) if cat_col else True
 
         match = sample_df[
-            (sample_df['customer_age'] == int(customer_age)) &
-            (sample_df['quantity'] == int(quantity)) &
-            (sample_df['orders_before_this_one'] == int(orders_before_this_one)) &
+            (sample_df['customer_age'] == customer_age) &
+            (sample_df['quantity'] == quantity) &
+            (sample_df['orders_before_this_one'] == orders_before_this_one) &
             category_match &
             ((sample_df['unit_price'] - float(unit_price)).abs() <= 0.2) &
             ((sample_df['shipping_cost'] - float(shipping_cost)).abs() <= 0.2)
@@ -134,7 +134,7 @@ def predict_single_order(
         'customer_tenure_days_at_order': float(customer_tenure_days_at_order),
         'product_category': norm_cat,
         'unit_price': float(unit_price),
-        'quantity': int(quantity),
+        'quantity': quantity,
         'discount_pct': float(discount_pct),
         'payment_method': norm_pm,
         'shipping_cost': float(shipping_cost),
@@ -170,7 +170,7 @@ def format_prediction_result(
     category: str
 ):
     """Format output metrics, financial risk, contributing factors, and operational recommendations."""
-    order_value = float(unit_price) * int(quantity)
+    order_value = float(unit_price) * quantity
     expected_loss = order_value * prob
     
     if risk_level == "Low Risk":

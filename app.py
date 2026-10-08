@@ -6,21 +6,19 @@ import numpy as np
 # pyrefly: ignore [missing-import]
 import altair as alt
 import model_utils
-from typing import Any
-
-def _safe_int(val: Any, default: int = 0) -> int:
+def _safe_int(val, default: int = 0) -> int:
     try:
         return int(val) if pd.notna(val) else default
     except Exception:
         return default
 
-def _safe_float(val: Any, default: float = 0.0) -> float:
+def _safe_float(val, default: float = 0.0) -> float:
     try:
         return float(val) if pd.notna(val) else default
     except Exception:
         return default
 
-def _safe_str(val: Any, default: str = "") -> str:
+def _safe_str(val, default: str = "") -> str:
     if pd.isna(val) or val is None:
         return default
     return str(val)
@@ -157,15 +155,15 @@ with tab_pred:
     if selected_preset != "Custom Input" and not sample_df.empty:
         idx = int(selected_preset.split(":")[0].replace("Sample #", "")) - 1
         row = sample_df.iloc[idx]
-        default_age = int(row['customer_age'])
-        default_tenure = int(row['customer_tenure_days_at_order'])
-        default_category = str(row['Product Category'])
-        default_price = float(row['unit_price'])
-        default_qty = int(row['quantity'])
-        default_discount = float(row['discount_percent'])
-        default_payment = str(row['payment_method'])
-        default_shipping = float(row['shipping_cost'])
-        default_orders = int(row['orders_before_this_one'])
+        default_age = _safe_int(row.get('customer_age'), default_age)
+        default_tenure = _safe_int(row.get('customer_tenure_days_at_order'), default_tenure)
+        default_category = _safe_str(row.get('Product Category'), default_category)
+        default_price = _safe_float(row.get('unit_price'), default_price)
+        default_qty = _safe_int(row.get('quantity'), default_qty)
+        default_discount = _safe_float(row.get('discount_percent'), default_discount)
+        default_payment = _safe_str(row.get('payment_method'), default_payment)
+        default_shipping = _safe_float(row.get('shipping_cost'), default_shipping)
+        default_orders = _safe_int(row.get('orders_before_this_one'), default_orders)
 
     categories_list = ["Beauty", "Clothing", "Electronics", "Home & Kitchen", "Books", "Sports", "Toys", "Food"]
     if default_category not in categories_list:
